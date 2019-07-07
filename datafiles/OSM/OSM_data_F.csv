@@ -1,0 +1,2040 @@
+city;id;type;otype;lat;lon;name;amenity;amenity_specification;amenity2
+Frankfurt;2445637311;node;1;50,0229567;8,5766509;Geb‰ude 556;bus_stop;;Bus stop
+Frankfurt;2445637309;node;1;50,0230204;8,5765758;Geb‰ude 556;bus_stop;platform;Bus stop
+Frankfurt;1644358035;node;1;50,0237482;8,5714099;Geb‰ude 555;bus_stop;platform;Bus stop
+Frankfurt;1644358037;node;1;50,0252463;8,5839676;Geb‰ude 587;bus_stop;platform;Bus stop
+Frankfurt;2639966731;node;1;50,0253491;8,5837099;Geb‰ude 587;bus_stop;platform;Bus stop
+Frankfurt;2183336996;node;1;50,0254688;8,5515275;Geb‰ude 527;bus_stop;;Bus stop
+Frankfurt;2639966725;node;1;50,0261018;8,5602327;Geb‰ude 534;bus_stop;platform;Bus stop
+Frankfurt;2639966727;node;1;50,0261865;8,5598917;Geb‰ude 534;bus_stop;platform;Bus stop
+Frankfurt;4611636226;node;1;50,0263017;8,5866844;Geb‰ude 571;bus_stop;platform;Bus stop
+Frankfurt;2445637310;node;1;50,0263824;8,5658523;Geb‰ude 543;bus_stop;platform;Bus stop
+Frankfurt;4611578158;node;1;50,0265205;8,5881461;Flughafen Tor 32;bus_stop;platform;Bus stop
+Frankfurt;2639966728;node;1;50,0265445;8,5620874;Geb‰ude 536;bus_stop;platform;Bus stop
+Frankfurt;2639966730;node;1;50,0267566;8,5622453;Geb‰ude 536;bus_stop;platform;Bus stop
+Frankfurt;3428367295;node;1;50,0271504;8,5848476;Geb‰ude 664;bus_stop;platform;Bus stop
+Frankfurt;4611578155;node;1;50,0295162;8,5905535;Geb‰ude 681;bus_stop;platform;Bus stop
+Frankfurt;2682306531;node;1;50,0328207;8,5910805;Elly-Beinhorn-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1545771941;node;1;50,0336134;8,5920006;Elly-Beinhorn-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;252737861;node;1;50,0355515;8,5917371;Flughafen Tor 120;bus_stop;stop_position;Bus stop
+Frankfurt;3426857485;node;1;50,0374939;8,594415;Flughafen Tor 33;bus_stop;platform;Bus stop
+Frankfurt;2588098692;node;1;50,0405061;8,5320091;Flughafen Tor 26;bus_stop;stop_position;Bus stop
+Frankfurt;2588098697;node;1;50,0407731;8,5330109;Flughafen Tor 26;bus_stop;stop_position;Bus stop
+Frankfurt;2588059161;node;1;50,0418215;8,5353324;Flughafen Tor 25 (Richtung West);bus_stop;stop_position;Bus stop
+Frankfurt;2584270219;node;1;50,0422907;8,5368315;Flughafen Tor 25 (Richtung Ost);bus_stop;stop_position;Bus stop
+Frankfurt;2588059151;node;1;50,045441;8,5451542;Flughafen Parkhaus P53;bus_stop;stop_position;Bus stop
+Frankfurt;2608025344;node;1;50,0455592;8,5461394;Flughafen Parkhaus P53;bus_stop;stop_position;Bus stop
+Frankfurt;3708384899;node;1;50,0469282;8,5510526;Flughafen Tor 23 (Richtung West);bus_stop;platform;Bus stop
+Frankfurt;2070328920;node;1;50,0470546;8,5522971;Flughafen Tor 23 (Richtung Ost);bus_stop;stop_position;Bus stop
+Frankfurt;5405317241;node;1;50,047751;8,5682416;Terminal 1 ó Concourses A, Z;station;station;Subway Station
+Frankfurt;1421017460;node;1;50,0481497;8,5562458;Lufthansa Aviation Center (Richtung West);bus_stop;stop_position;Bus stop
+Frankfurt;1421893055;node;1;50,0481568;8,556774;Lufthansa Aviation Center (Richtung Ost);bus_stop;stop_position;Bus stop
+Frankfurt;2608025339;node;1;50,0492138;8,5612942;Flughafen Lufthansabasis (Richtung Ost);bus_stop;stop_position;Bus stop
+Frankfurt;2588059153;node;1;50,0493452;8,5612915;Flughafen Lufthansabasis (Richtung West);bus_stop;stop_position;Bus stop
+Frankfurt;3919550091;node;1;50,050022;8,5729318;Terminal 1 ó Concourses B, C;station;station;Subway Station
+Frankfurt;831823619;node;1;50,0504313;8,5670037;Car Rental Return;car_rental;;Car rental
+Frankfurt;3413385940;node;1;50,0507016;8,5689311;Hertz;car_rental;;Car rental
+Frankfurt;3413385932;node;1;50,0507288;8,5689152;Avis / Budget;car_rental;;Car rental
+Frankfurt;3413385938;node;1;50,050747;8,5691323;Europcar;car_rental;;Car rental
+Frankfurt;3413385948;node;1;50,0507771;8,5691126;Sixt;car_rental;;Car rental
+Frankfurt;4929089583;node;1;50,0508219;8,5788524;Terminal 1 C;station;station;Subway Station
+Frankfurt;4474847398;node;1;50,0510186;8,5954451;;bus_stop;platform;Bus stop
+Frankfurt;5937817585;node;1;50,0510632;8,5647885;;car_rental;;Car rental
+Frankfurt;2588059152;node;1;50,0510792;8,5699009;Flughafen Terminal 1 Bussteig 24;bus_stop;stop_position;Bus stop
+Frankfurt;1419395782;node;1;50,0511277;8,5701014;Bussteig 23;bus_stop;stop_position;Bus stop
+Frankfurt;1419395784;node;1;50,0511792;8,5703106;Bussteig 22;bus_stop;stop_position;Bus stop
+Frankfurt;1419395785;node;1;50,0512307;8,5705202;Bussteig 21;bus_stop;stop_position;Bus stop
+Frankfurt;1419395787;node;1;50,0512826;8,5707307;Bussteig 20;bus_stop;stop_position;Bus stop
+Frankfurt;668982247;node;1;50,051299;8,5717548;Frankfurt am Main Flughafen Regionalbahnhof;station;station;Subway Station
+Frankfurt;5070174741;node;1;50,0513213;8,5717707;Frankfurt am Main Flughafen Regionalbahnhof;station;stop_position;Subway Station
+Frankfurt;1419395789;node;1;50,0513344;8,5709413;Bussteig 19;bus_stop;stop_position;Bus stop
+Frankfurt;1419395792;node;1;50,0513864;8,5711527;Bussteig 18;bus_stop;stop_position;Bus stop
+Frankfurt;1420073933;node;1;50,0514393;8,5713684;Bussteig 17;bus_stop;stop_position;Bus stop
+Frankfurt;4805512663;node;1;50,0514901;8,5715879;Bussteig 16;bus_stop;stop_position;Bus stop
+Frankfurt;4554580489;node;1;50,0515393;8,5718003;Flughafen Terminal 1 Bussteig 15;bus_stop;stop_position;Bus stop
+Frankfurt;784665318;node;1;50,0515907;8,5720223;Flughafen Terminal 1 Bussteig 14;bus_stop;stop_position;Bus stop
+Frankfurt;4907495580;node;1;50,0519508;8,5862514;Mietwagenr¸ckgabe;car_rental;;Car rental
+Frankfurt;4907495579;node;1;50,0520014;8,5865058;Mietwagenr¸ckgabe;car_rental;;Car rental
+Frankfurt;4907495578;node;1;50,0520584;8,5867625;Mietwagenr¸ckgabe;car_rental;;Car rental
+Frankfurt;4907495577;node;1;50,0521132;8,5870033;Mietwagenr¸ckgabe;car_rental;;Car rental
+Frankfurt;3919550092;node;1;50,0521311;8,586847;Terminal 2 ó Concourses D, E;station;station;Subway Station
+Frankfurt;4907495576;node;1;50,052172;8,5872606;Mietwagenr¸ckgabe;car_rental;;Car rental
+Frankfurt;5568707897;node;1;50,0522359;8,5933001;Flughafen Tor 2;bus_stop;platform;Bus stop
+Frankfurt;3426857483;node;1;50,0522805;8,5936174;Flughafen Tor 2;bus_stop;platform;Bus stop
+Frankfurt;582919521;node;1;50,0523561;8,5877384;Flughafen Terminal 2;bus_stop;stop_position;Bus stop
+Frankfurt;784749415;node;1;50,0526679;8,5791098;Flughafen Tor 3;bus_stop;stop_position;Bus stop
+Frankfurt;30221936;node;1;50,0529322;8,5699146;Frankfurt am Main Flughafen Fernbahnhof;station;station;Subway Station
+Frankfurt;445546985;node;1;50,0529977;8,5844337;Hugo-Eckener-Ring;bus_stop;stop_position;Bus stop
+Frankfurt;3751946353;node;1;50,0530798;8,5695086;;taxi;;Taxi
+Frankfurt;3426857487;node;1;50,0531917;8,5885998;Hugo-Eckener-Ring;bus_stop;platform;Bus stop
+Frankfurt;1545691619;node;1;50,0533147;8,5845127;Hugo-Eckener-Ring;bus_stop;platform;Bus stop
+Frankfurt;784749408;node;1;50,0533678;8,5781752;Flughafen Tor 3;bus_stop;platform;Bus stop
+Frankfurt;1565503366;node;1;50,0549907;8,5944452;Gateway Gardens Mitte;bus_stop;stop_position;Bus stop
+Frankfurt;4178409857;node;1;50,0550168;8,5960594;Gateway Gardens Mitte;bus_stop;stop_position;Bus stop
+Frankfurt;1565503409;node;1;50,0552582;8,589694;Thea-Rasche-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;1565503391;node;1;50,0552874;8,5913638;Thea-Rasche-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;5804493156;node;1;50,0559111;8,5875256;Kreisel Unterschweinstiege;bus_stop;platform;Bus stop
+Frankfurt;2105401824;node;1;50,0559606;8,601616;Gateway Gardens Ost;bus_stop;platform;Bus stop
+Frankfurt;5804493155;node;1;50,0573168;8,587964;Kreisel Unterschweinstiege;bus_stop;platform;Bus stop
+Frankfurt;306266352;node;1;50,0578628;8,5963041;Gateway Gardens Nord;bus_stop;stop_position;Bus stop
+Frankfurt;306266346;node;1;50,0581674;8,5968768;Gateway Gardens Nord;bus_stop;stop_position;Bus stop
+Frankfurt;582919522;node;1;50,0586905;8,5849671;Unterschweinstiege;bus_stop;platform;Bus stop
+Frankfurt;582919523;node;1;50,0587383;8,5850117;Unterschweinstiege;bus_stop;platform;Bus stop
+Frankfurt;3836253443;node;1;50,0592851;8,6947611;Neu-Isenburg Stadtgrenze;bus_stop;platform;Bus stop
+Frankfurt;1539129965;node;1;50,0596238;8,6952787;Neu-Isenburg Stadtgrenze;bus_stop;platform;Bus stop
+Frankfurt;115934535;node;1;50,0598734;8,6949069;Neu-Isenburg Stadtgrenze;tram_stop;stop_position;Tram Stop
+Frankfurt;3812759357;node;1;50,0599855;8,6949016;Neu-Isenburg Stadtgrenze;tram_stop;stop_position;Tram Stop
+Frankfurt;1539129969;node;1;50,0600824;8,6950449;Neu-Isenburg Stadtgrenze;bus_stop;platform;Bus stop
+Frankfurt;656535241;node;1;50,0682137;8,6330468;Frankfurt am Main Stadion;station;station;Subway Station
+Frankfurt;2639966733;node;1;50,0686016;8,6513583;Stadion/Osttrib¸ne;bus_stop;platform;Bus stop
+Frankfurt;2639966734;node;1;50,0692488;8,6519927;Stadion/Osttrib¸ne;bus_stop;platform;Bus stop
+Frankfurt;763211201;node;1;50,0704422;8,6785111;Oberschweinstiege;tram_stop;stop_position;Tram Stop
+Frankfurt;763211195;node;1;50,070651;8,6780101;Oberschweinstiege;tram_stop;stop_position;Tram Stop
+Frankfurt;3410839804;node;1;50,0725328;8,652551;Stadionbad;bus_stop;platform;Bus stop
+Frankfurt;1908074449;node;1;50,0734813;8,6533347;Stadionbad;bus_stop;platform;Bus stop
+Frankfurt;3411082164;node;1;50,0736929;8,5770148;Schwanheimer Wald;bus_stop;platform;Bus stop
+Frankfurt;3411082165;node;1;50,0739631;8,5775564;Schwanheimer Wald;bus_stop;platform;Bus stop
+Frankfurt;119807720;node;1;50,075425;8,6533446;Sachsenhausen Stadion;tram_stop;stop_position;Tram Stop
+Frankfurt;763638559;node;1;50,0764821;8,6176289;Kiesschneise;tram_stop;stop_position;Tram Stop
+Frankfurt;247748200;node;1;50,0765049;8,6181467;Kiesschneise;tram_stop;stop_position;Tram Stop
+Frankfurt;433930847;node;1;50,0766306;8,5104244;Farbenstraﬂe / Friedhof;bus_stop;platform;Bus stop
+Frankfurt;763638482;node;1;50,076837;8,6038564;Waldfriedhof Goldstein;tram_stop;stop_position;Tram Stop
+Frankfurt;762880598;node;1;50,0768695;8,6027324;Waldfriedhof Goldstein;tram_stop;stop_position;Tram Stop
+Frankfurt;763638599;node;1;50,0770069;8,6103062;Waldau;tram_stop;stop_position;Tram Stop
+Frankfurt;119815040;node;1;50,0770509;8,6102309;Waldau;tram_stop;stop_position;Tram Stop
+Frankfurt;3415558755;node;1;50,0779072;8,6292027;B¸rostadt Niederrad;bus_stop;platform;Bus stop
+Frankfurt;342325363;node;1;50,0780038;8,6332299;Europcar;car_rental;;Car rental
+Frankfurt;763638586;node;1;50,0780218;8,628078;B¸rostadt Niederrad;tram_stop;stop_position;Tram Stop
+Frankfurt;247748199;node;1;50,0780464;8,6279254;B¸rostadt Niederrad;tram_stop;stop_position;Tram Stop
+Frankfurt;433930850;node;1;50,0781479;8,5133879;Allesinastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3415558756;node;1;50,0781497;8,6273952;B¸rostadt Niederrad;bus_stop;platform;Bus stop
+Frankfurt;433930848;node;1;50,078279;8,5138729;Allesinastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;119807691;node;1;50,0786095;8,6541422;Oberforsthaus;tram_stop;stop_position;Tram Stop
+Frankfurt;582939265;node;1;50,0786212;8,6542471;Oberforsthaus;bus_stop;stop_position;Bus stop
+Frankfurt;763016618;node;1;50,0786275;8,6541169;Oberforsthaus;tram_stop;stop_position;Tram Stop
+Frankfurt;656400086;node;1;50,0797037;8,6541261;Oberforsthaus;bus_stop;platform;Bus stop
+Frankfurt;433930843;node;1;50,0797532;8,5111263;Friedhof Sindlingen;bus_stop;platform;Bus stop
+Frankfurt;433930841;node;1;50,0798155;8,5101341;Friedhof Sindlingen (Ausstieg);bus_stop;platform;Bus stop
+Frankfurt;433930855;node;1;50,079972;8,5166194;Westenbergerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3402538237;node;1;50,0799951;8,5092859;Friedhof Sindlingen;bus_stop;platform;Bus stop
+Frankfurt;4258717611;node;1;50,0806875;8,5171846;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;653330036;node;1;50,0807744;8,6372448;Frankfurt-Niederrad;station;station;Subway Station
+Frankfurt;763638415;node;1;50,0808014;8,6371598;Niederrad Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;3430087697;node;1;50,0808181;8,6371704;Niederrad Bahnhof;tram_stop;station;Tram Stop
+Frankfurt;119812537;node;1;50,0808289;8,6371376;Niederrad Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;763638614;node;1;50,0809696;8,5949221;Harthweg;tram_stop;stop_position;Tram Stop
+Frankfurt;433930857;node;1;50,0810371;8,5168977;Westenbergerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1638714328;node;1;50,0810786;8,5444053;Industriepark Hˆchst Tor S¸d;bus_stop;platform;Bus stop
+Frankfurt;763638673;node;1;50,0810919;8,594416;Harthweg;tram_stop;stop_position;Tram Stop
+Frankfurt;763638616;node;1;50,0816854;8,639611;Melibocusstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;247748198;node;1;50,0817076;8,6395942;Melibocusstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3415558759;node;1;50,0818115;8,6245502;Rhonestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3434152458;node;1;50,0819134;8,6405556;Melibocusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3415558760;node;1;50,0819471;8,6248149;Rhonestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3434152459;node;1;50,0819625;8,6400006;Melibocusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2533676447;node;1;50,0821221;8,6277841;;taxi;;Taxi
+Frankfurt;773592766;node;1;50,0822756;8,574978;An der Kreuzheck;bus_stop;platform;Bus stop
+Frankfurt;119827382;node;1;50,082324;8,5814124;Rheinlandstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3411082163;node;1;50,0823571;8,5803733;Rheinlandstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4541940735;node;1;50,082394;8,5811328;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;773592769;node;1;50,0824112;8,5738613;An der Kreuzheck;bus_stop;platform;Bus stop
+Frankfurt;778299831;node;1;50,0824281;8,6042062;Schwarzbachm¸hle;bus_stop;platform;Bus stop
+Frankfurt;773581454;node;1;50,0824549;8,5806384;Rheinlandstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;772782296;node;1;50,0824589;8,6105739;Waldau/Goldsteinstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773581447;node;1;50,0825014;8,581666;Rheinlandstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5420778317;node;1;50,0826181;8,5807149;;taxi;;Taxi
+Frankfurt;763638445;node;1;50,0826345;8,5880544;Ferdinand-Dirichs-Weg;tram_stop;stop_position;Tram Stop
+Frankfurt;119827307;node;1;50,0826607;8,5882533;Ferdinand-Dirichs-Weg;tram_stop;stop_position;Tram Stop
+Frankfurt;778708634;node;1;50,0828907;8,6293978;Lyoner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708686;node;1;50,0829001;8,6296071;Lyoner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1588740574;node;1;50,0831728;8,6809907;Lerchesberg;bus_stop;platform;Bus stop
+Frankfurt;763016611;node;1;50,0832492;8,6512593;Rennbahn;tram_stop;stop_position;Tram Stop
+Frankfurt;763016602;node;1;50,0832654;8,6512967;Rennbahn;tram_stop;stop_position;Tram Stop
+Frankfurt;1588740577;node;1;50,0832675;8,6793631;Lerchesbergring;bus_stop;platform;Bus stop
+Frankfurt;582939268;node;1;50,0832853;8,6512845;Rennbahn;bus_stop;stop_position;Bus stop
+Frankfurt;1588740578;node;1;50,0832959;8,6786829;Lerchesbergring;bus_stop;platform;Bus stop
+Frankfurt;773581440;node;1;50,0833477;8,5878969;Ferdinand-Dirichs-Weg;bus_stop;platform;Bus stop
+Frankfurt;773581451;node;1;50,0835098;8,5880976;Ferdinand-Dirichs-Weg;bus_stop;platform;Bus stop
+Frankfurt;773620796;node;1;50,0837141;8,6384338;Jugenheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708621;node;1;50,0837188;8,6448691;Gerauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;637798683;node;1;50,0838234;8,6703942;Frankfurt-Louisa;station;station;Subway Station
+Frankfurt;433947822;node;1;50,08387;8,5155007;Pfingstbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773592760;node;1;50,083884;8,570743;Rauenthaler Weg;bus_stop;platform;Bus stop
+Frankfurt;763206467;node;1;50,0839232;8,6709275;Louisa;tram_stop;stop_position;Tram Stop
+Frankfurt;115927773;node;1;50,0839235;8,6708857;Louisa;tram_stop;stop_position;Tram Stop
+Frankfurt;763638533;node;1;50,0839592;8,6451226;Gerauer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;247748197;node;1;50,083993;8,6451138;Gerauer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;778708671;node;1;50,0840316;8,6449102;Gerauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947828;node;1;50,0840456;8,5153037;Pfingstbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;778299864;node;1;50,084053;8,621018;Goldsteinstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1212556130;node;1;50,0840623;8,6985167;Hainer Weg;bus_stop;platform;Bus stop
+Frankfurt;778708683;node;1;50,0842397;8,6209923;Goldsteinstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;776918754;node;1;50,0844391;8,6286756;Heizkraftwerk Niederrad;bus_stop;platform;Bus stop
+Frankfurt;773592758;node;1;50,0844898;8,5709559;Rauenthaler Weg;bus_stop;platform;Bus stop
+Frankfurt;776918705;node;1;50,0845406;8,6281629;Heizkraftwerk Niederrad;bus_stop;platform;Bus stop
+Frankfurt;778708682;node;1;50,0845623;8,6321074;Hahnstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;252412305;node;1;50,0845835;8,6987949;Hainer Weg;bus_stop;platform;Bus stop
+Frankfurt;1588740571;node;1;50,0846486;8,6725537;Gablonzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;772785665;node;1;50,0846516;8,6174613;Morgenzeile;bus_stop;platform;Bus stop
+Frankfurt;1284623469;node;1;50,0846671;8,6982363;Hainer Weg;bus_stop;platform;Bus stop
+Frankfurt;1638974800;node;1;50,0846814;8,5512098;Industriepark Hˆchst Tor K801;bus_stop;platform;Bus stop
+Frankfurt;778708647;node;1;50,0847101;8,6316812;Hahnstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1588740572;node;1;50,0847817;8,6720323;Gablonzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1638974803;node;1;50,0848327;8,5511338;Industriepark Hˆchst Tor K801;bus_stop;platform;Bus stop
+Frankfurt;773581450;node;1;50,0848375;8,588709;Martinskirchstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;772785674;node;1;50,0848587;8,6175315;Morgenzeile;bus_stop;platform;Bus stop
+Frankfurt;778708636;node;1;50,085118;8,5988435;Ruhestein;bus_stop;platform;Bus stop
+Frankfurt;2011164801;node;1;50,0853684;8,5791313;Eifelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773581457;node;1;50,0853777;8,5889533;Martinskirchstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4541940742;node;1;50,0856056;8,589567;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;616488749;node;1;50,0858891;8,6361462;Haardtwaldplatz;bus_stop;platform;Bus stop
+Frankfurt;773581452;node;1;50,0859819;8,5910971;Henriette-F¸rth-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708608;node;1;50,0860558;8,6047044;Tannenkopfweg;bus_stop;platform;Bus stop
+Frankfurt;433947831;node;1;50,0861075;8,5137366;Industriepark Hˆchst Tor West;bus_stop;platform;Bus stop
+Frankfurt;433947833;node;1;50,0861222;8,5147112;Industriepark Hˆchst Tor West;bus_stop;platform;Bus stop
+Frankfurt;433947834;node;1;50,086201;8,5143918;Industriepark Hˆchst Tor West;bus_stop;platform;Bus stop
+Frankfurt;119801653;node;1;50,0862514;8,6361179;Haardtwaldplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;693645157;node;1;50,0862567;8,513696;Industriepark Hˆchst Tor West;bus_stop;platform;Bus stop
+Frankfurt;776858312;node;1;50,0862607;8,6089323;Tr‰nkweg;bus_stop;platform;Bus stop
+Frankfurt;616488750;node;1;50,0862916;8,6371651;Haardtwaldplatz;bus_stop;platform;Bus stop
+Frankfurt;776858298;node;1;50,0864116;8,6094385;Tr‰nkweg;bus_stop;platform;Bus stop
+Frankfurt;762919810;node;1;50,0864414;8,6416114;Odenwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773581456;node;1;50,0865165;8,5931693;Henriette-F¸rth-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;762919802;node;1;50,086529;8,6425236;Odenwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773620790;node;1;50,086536;8,6491684;Trift-/Frauenhofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1347268451;node;1;50,0866226;8,691669;Sachsenh‰user Warte;bus_stop;platform;Bus stop
+Frankfurt;778299816;node;1;50,0867229;8,6005166;Ruhestein;bus_stop;platform;Bus stop
+Frankfurt;773592763;node;1;50,0867486;8,5699887;Kelsterbacher Weg;bus_stop;platform;Bus stop
+Frankfurt;762919790;node;1;50,0867504;8,6463438;Schwarzwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773592765;node;1;50,0867751;8,5698445;Kelsterbacher Weg;bus_stop;platform;Bus stop
+Frankfurt;1588740573;node;1;50,0868203;8,6715233;Karlsbader Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708663;node;1;50,0868381;8,6921222;Sachsenh‰user Warte;bus_stop;platform;Bus stop
+Frankfurt;762919843;node;1;50,0868575;8,6469946;Schwarzwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;778708626;node;1;50,0868672;8,6912716;Sachsenh‰user Warte;bus_stop;platform;Bus stop
+Frankfurt;776858291;node;1;50,0870272;8,6160971;Sonnenweg;bus_stop;platform;Bus stop
+Frankfurt;773620788;node;1;50,0870324;8,6502988;Triftstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;776858308;node;1;50,087048;8,6155986;Sonnenweg;bus_stop;platform;Bus stop
+Frankfurt;762919748;node;1;50,0870822;8,6505202;Triftstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;247748196;node;1;50,0870891;8,6504878;Triftstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;5206768681;node;1;50,0871635;8,6507705;Triftstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640041750;node;1;50,08724;8,5824844;Alt-Schwanheim;bus_stop;platform;Bus stop
+Frankfurt;762919859;node;1;50,0872464;8,6494317;Frauenhofstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773635928;node;1;50,0873248;8,5799739;Mauritiusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708659;node;1;50,0874588;8,6669455;Waldspielpark Louisa;bus_stop;platform;Bus stop
+Frankfurt;778299869;node;1;50,0874776;8,6672086;Waldspielpark Louisa;bus_stop;platform;Bus stop
+Frankfurt;2967371861;node;1;50,0874839;8,5804533;Mauritiusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3933430468;node;1;50,0875382;8,5123032;Frankfurt am Main Sindlingen;halt;station;Train Station
+Frankfurt;778708655;node;1;50,0878552;8,6621425;Humperdinckstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;778708674;node;1;50,0879384;8,6621953;Humperdinckstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947839;node;1;50,087943;8,5115393;Sindlingen Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;433947836;node;1;50,0880567;8,5117035;Sindlingen Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;782829938;node;1;50,0881453;8,6513492;Niederr‰der Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;762919862;node;1;50,0882841;8,6513363;Niederr‰der Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;660236391;node;1;50,0883428;8,6512131;Niederr‰der Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222847;node;1;50,0884257;8,6967435;Bergkirche;bus_stop;platform;Bus stop
+Frankfurt;2006477625;node;1;50,0884349;8,650644;;taxi;;Taxi
+Frankfurt;1289222843;node;1;50,0885934;8,700019;Hasselhorstweg;bus_stop;platform;Bus stop
+Frankfurt;762919761;node;1;50,0887328;8,6516832;Niederr‰der Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773620776;node;1;50,0889626;8,5754665;Geisenheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1588740579;node;1;50,0890731;8,6713918;Stresemannallee/Mˆrfelder Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763206488;node;1;50,0891617;8,6716603;Stresemannallee/Mˆrfelder Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;115927767;node;1;50,0891756;8,6716206;Stresemannallee/Mˆrfelder Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;778708680;node;1;50,0892038;8,670063;Stresemannallee/Mˆrfelder Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773620763;node;1;50,0892685;8,5761021;Geisenheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;773620783;node;1;50,0894056;8,5723861;Alter Friedhof Schwanheim;bus_stop;platform;Bus stop
+Frankfurt;792277375;node;1;50,089436;8,7095805;Goetheturm;bus_stop;platform;Bus stop
+Frankfurt;1289222825;node;1;50,0894749;8,7065442;Anton-Burger-Weg;bus_stop;platform;Bus stop
+Frankfurt;778708645;node;1;50,0897039;8,6720868;Stresemannallee/Mˆrfelder Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1643074240;node;1;50,0902479;8,5526102;Industriepark Hˆchst Tor H831;bus_stop;platform;Bus stop
+Frankfurt;4203777149;node;1;50,0902826;8,5066433;Frankfurt-Zeilsheim;halt;;Train Station
+Frankfurt;3402538234;node;1;50,0902836;8,593258;Chemisches Werk;bus_stop;platform;Bus stop
+Frankfurt;1643074246;node;1;50,0902904;8,5527146;Industriepark Hˆchst Tor H831;bus_stop;platform;Bus stop
+Frankfurt;783983095;node;1;50,0903018;8,5721534;Alter Friedhof Schwanheim;bus_stop;platform;Bus stop
+Frankfurt;3402538235;node;1;50,0903422;8,5944201;Chemisches Werk;bus_stop;platform;Bus stop
+Frankfurt;3212069760;node;1;50,0909175;8,6121573;Auf dem Schafberg;bus_stop;platform;Bus stop
+Frankfurt;3402096207;node;1;50,0909243;8,6963754;S¸dfriedhof Ost;bus_stop;platform;Bus stop
+Frankfurt;3212067390;node;1;50,0909614;8,6053982;Jungmannstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;332489144;node;1;50,0910907;8,6120495;Auf dem Schafberg;bus_stop;platform;Bus stop
+Frankfurt;1702575683;node;1;50,0911665;8,6071681;Alte Falterstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3408258245;node;1;50,0911915;8,6845832;Groﬂer Hasenpfad S¸d;bus_stop;platform;Bus stop
+Frankfurt;3212073779;node;1;50,0912169;8,6149146;Schˆffenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3402538243;node;1;50,0912582;8,6010948;Staustufe Griesheim;bus_stop;platform;Bus stop
+Frankfurt;4106620421;node;1;50,0912757;8,6489251;Haus 95;bus_stop;platform;Bus stop
+Frankfurt;3402538244;node;1;50,0912873;8,5999341;Staustufe Griesheim;bus_stop;platform;Bus stop
+Frankfurt;763206455;node;1;50,091296;8,6742637;Beuthener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2832697011;node;1;50,0913668;8,6857792;;bicycle_rental;;Bicycle Rental
+Frankfurt;4257562973;node;1;50,0913872;8,6857797;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3410839799;node;1;50,091393;8,6741036;Beuthener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3410839800;node;1;50,0914837;8,6748404;Beuthener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;867380130;node;1;50,0915768;8,6915686;;taxi;;Taxi
+Frankfurt;115927733;node;1;50,0916458;8,6748386;Beuthener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4106620416;node;1;50,0916578;8,6610111;Haus 54;bus_stop;platform;Bus stop
+Frankfurt;778708678;node;1;50,0916851;8,691058;S¸dfriedhof West;bus_stop;platform;Bus stop
+Frankfurt;252412307;node;1;50,0917173;8,6913449;S¸dfriedhof West;bus_stop;platform;Bus stop
+Frankfurt;3408258248;node;1;50,0919025;8,6859676;Tucholskystraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4106623794;node;1;50,0920475;8,6489169;Friedrichsheim;bus_stop;platform;Bus stop
+Frankfurt;984529483;node;1;50,0920674;8,5781289;Lachegraben;bus_stop;platform;Bus stop
+Frankfurt;433947844;node;1;50,0920824;8,5024198;Annabergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;762919744;node;1;50,0921305;8,6530645;Heinrich-Hoffmann-Straﬂe / Blutspendedienst;tram_stop;stop_position;Tram Stop
+Frankfurt;119801469;node;1;50,0921314;8,6530231;Heinrich-Hoffmann-Straﬂe / Blutspendedienst;tram_stop;stop_position;Tram Stop
+Frankfurt;3402538232;node;1;50,0921554;8,5024781;Annabergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3402538238;node;1;50,0922422;8,5781706;Lachegraben;bus_stop;platform;Bus stop
+Frankfurt;4106620420;node;1;50,0922615;8,6507004;Haus 93;bus_stop;platform;Bus stop
+Frankfurt;3408258246;node;1;50,0925572;8,6834362;Niersteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3410839801;node;1;50,0927462;8,6771206;Breslauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222816;node;1;50,0927877;8,6963504;Schweinfurter Weg;bus_stop;platform;Bus stop
+Frankfurt;3410839802;node;1;50,0928708;8,6767835;Breslauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4106620417;node;1;50,092948;8,6556537;Haus 68;bus_stop;platform;Bus stop
+Frankfurt;1289222839;node;1;50,0932569;8,6961647;Schweinfurter Weg;bus_stop;platform;Bus stop
+Frankfurt;763206429;node;1;50,0933238;8,6779519;Breslauer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;115927728;node;1;50,0933413;8,6779231;Breslauer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4106620415;node;1;50,0934924;8,659183;Haus 32E;bus_stop;platform;Bus stop
+Frankfurt;1012483667;node;1;50,0936533;8,7317789;Waldfriedhof Oberrad;bus_stop;platform;Bus stop
+Frankfurt;3029457949;node;1;50,0936838;8,7056509;Schnappbornweg;bus_stop;platform;Bus stop
+Frankfurt;332489984;node;1;50,093771;8,6071988;Griesheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;3361554690;node;1;50,0939901;8,4961683;Zeilsheim Kolonie;bus_stop;platform;Bus stop
+Frankfurt;433947847;node;1;50,0940045;8,4957708;Zeilsheim Kolonie;bus_stop;platform;Bus stop
+Frankfurt;902695973;node;1;50,0940318;8,6065086;Griesheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;4428508366;node;1;50,0941263;8,6712732;;taxi;;Taxi
+Frankfurt;3212073780;node;1;50,0941594;8,6140241;Erzbergerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;622706053;node;1;50,0941915;8,6377941;Briefzentrum;bus_stop;platform;Bus stop
+Frankfurt;29803407;node;1;50,0942339;8,6058328;Griesheim;station;station;Subway Station
+Frankfurt;505978225;node;1;50,0942383;8,6709594;Stresemannallee;halt;station;Train Station
+Frankfurt;4391460084;node;1;50,0942454;8,504022;M‰rchensiedlung;bus_stop;platform;Bus stop
+Frankfurt;4106620414;node;1;50,0942615;8,6582843;Haus 32C;bus_stop;platform;Bus stop
+Frankfurt;4106620411;node;1;50,0942776;8,6637822;Haus 15A;bus_stop;platform;Bus stop
+Frankfurt;4391460083;node;1;50,0942834;8,5042553;M‰rchensiedlung;bus_stop;platform;Bus stop
+Frankfurt;1289222837;node;1;50,0943074;8,7004807;Am Sandberg;bus_stop;platform;Bus stop
+Frankfurt;743365428;node;1;50,0943129;8,6907019;Brauerei;bus_stop;platform;Bus stop
+Frankfurt;743323572;node;1;50,0943169;8,6909739;Brauerei;bus_stop;platform;Bus stop
+Frankfurt;4106620412;node;1;50,0943776;8,6636532;Haus 15A;bus_stop;platform;Bus stop
+Frankfurt;5463571557;node;1;50,0943931;8,67116;Stresemannallee Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;3484038948;node;1;50,0943942;8,6712189;Stresemannallee;bus_stop;stop_position;Bus stop
+Frankfurt;1012483701;node;1;50,0944448;8,725385;Burgenlandweg;bus_stop;platform;Bus stop
+Frankfurt;622706056;node;1;50,0945471;8,639143;Erntestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483713;node;1;50,0945618;8,725085;Burgenlandweg;bus_stop;platform;Bus stop
+Frankfurt;5463571558;node;1;50,0946237;8,6711809;Stresemannallee Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;622706059;node;1;50,0947444;8,6389571;Erntestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1685852368;node;1;50,0948095;8,6248422;Friedrich-Ebert-Siedlung;bus_stop;platform;Bus stop
+Frankfurt;902695971;node;1;50,0948603;8,6070975;Griesheim Bf/Eichenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763206505;node;1;50,0949202;8,6805732;Oppenheimer Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1685852388;node;1;50,0949518;8,6246554;Friedrich-Ebert-Siedlung;bus_stop;platform;Bus stop
+Frankfurt;3403251396;node;1;50,0950124;8,4952538;Kolberger Weg;bus_stop;platform;Bus stop
+Frankfurt;433947849;node;1;50,0950127;8,4927954;Kirche Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;3408258244;node;1;50,095016;8,6863659;Groﬂer Hasenpfad Mitte;bus_stop;platform;Bus stop
+Frankfurt;795858917;node;1;50,0950488;8,6678868;Eschenbachstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;902695960;node;1;50,0950981;8,6073205;;taxi;;Taxi
+Frankfurt;3403251398;node;1;50,0952157;8,4955288;Kolberger Weg;bus_stop;platform;Bus stop
+Frankfurt;795858925;node;1;50,0952318;8,6678611;Eschenbachstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1685710916;node;1;50,095242;8,6065429;Griesheim Bf/Eichenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763206460;node;1;50,0953531;8,6814929;Oppenheimer Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;456137221;node;1;50,0953696;8,6822115;Oppenheimer Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222863;node;1;50,0953715;8,6959629;Wertheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222828;node;1;50,0954641;8,6960684;Wertheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;902695961;node;1;50,0954798;8,6072646;Griesheim Bf/Eichenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222861;node;1;50,0958356;8,7025077;Seehofpark;bus_stop;platform;Bus stop
+Frankfurt;622706064;node;1;50,09587;8,6419928;Halmstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4106620409;node;1;50,0958713;8,662999;Haus 11;bus_stop;platform;Bus stop
+Frankfurt;762919797;node;1;50,0958799;8,659323;Universit‰tsklinikum;tram_stop;stop_position;Tram Stop
+Frankfurt;247748195;node;1;50,0959085;8,6592849;Universit‰tsklinikum;tram_stop;stop_position;Tram Stop
+Frankfurt;4106620410;node;1;50,0959281;8,6628758;Haus 11;bus_stop;platform;Bus stop
+Frankfurt;622706066;node;1;50,0961712;8,6423666;Halmstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483682;node;1;50,0961819;8,7158074;Goldbergweg;bus_stop;platform;Bus stop
+Frankfurt;1012483654;node;1;50,0962011;8,7188091;Hansenweg;bus_stop;platform;Bus stop
+Frankfurt;4264208188;node;1;50,09624;8,62788;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1685748297;node;1;50,0962441;8,598844;Elektronstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3876026014;node;1;50,0963033;8,4871987;Friedhof Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;684470279;node;1;50,0963161;8,4907036;Hofheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1166986146;node;1;50,0963324;8,5713689;D¸rkheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3876026016;node;1;50,0963677;8,4865215;Friedhof Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;776633247;node;1;50,0963773;8,5705428;D¸rkheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2614719219;node;1;50,0963895;8,5926076;In der Schildwacht;bus_stop;platform;Bus stop
+Frankfurt;1685748300;node;1;50,0964721;8,5982274;Elektronstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1685676049;node;1;50,0964829;8,6108927;Am M¸hlgewann;bus_stop;platform;Bus stop
+Frankfurt;3408785377;node;1;50,0965005;8,5926151;In der Schildwacht;bus_stop;platform;Bus stop
+Frankfurt;2614719214;node;1;50,09658;8,5980207;Elektronstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1685676087;node;1;50,096588;8,6104635;Am M¸hlgewann;bus_stop;platform;Bus stop
+Frankfurt;4106620418;node;1;50,0966515;8,664346;Haus 8;bus_stop;platform;Bus stop
+Frankfurt;4508663884;node;1;50,0966586;8,5295244;Tor Nord;bus_stop;;Bus stop
+Frankfurt;783983087;node;1;50,0966856;8,6839532;Schweizer Straﬂe/Mˆrfelder Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763206514;node;1;50,0966916;8,684112;Schweizer Straﬂe/Mˆrfelder Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1347287834;node;1;50,0966997;8,6910425;Darmst‰dter Landstraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;4106620419;node;1;50,0967194;8,6642613;Haus 8;bus_stop;platform;Bus stop
+Frankfurt;4391460086;node;1;50,0967551;8,5055936;Lenzenbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4185289172;node;1;50,0968707;8,4976739;Pfaffenwiese/Kolberger Weg;bus_stop;platform;Bus stop
+Frankfurt;3405528609;node;1;50,0968885;8,6544604;Main-Neckar-Br¸cke;bus_stop;platform;Bus stop
+Frankfurt;3402538240;node;1;50,0968945;8,4971385;Pfaffenwiese/Kolberger Weg;bus_stop;platform;Bus stop
+Frankfurt;1012483659;node;1;50,0969042;8,7220505;Mathildenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433968731;node;1;50,0969062;8,5109819;Rabenkopfweg;bus_stop;platform;Bus stop
+Frankfurt;2968378971;node;1;50,0969496;8,5415886;Br¸ningstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4391460085;node;1;50,0969669;8,5057558;Lenzenbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947857;node;1;50,0970117;8,4973614;Pfaffenwiese/Kolberger Weg;bus_stop;platform;Bus stop
+Frankfurt;1685676098;node;1;50,0970233;8,6296749;Kleyerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947854;node;1;50,0970309;8,4927374;Neu Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;3402538241;node;1;50,0970404;8,5018479;Stadthalle Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;433947851;node;1;50,0970527;8,4896037;Hofheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3402538239;node;1;50,0970738;8,5046891;Lenzenbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483688;node;1;50,0971304;8,7247308;Buchrainstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947859;node;1;50,0971326;8,5012259;Stadthalle Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;433968729;node;1;50,0971504;8,5095775;Rabenkopfweg;bus_stop;platform;Bus stop
+Frankfurt;3484038945;node;1;50,0971566;8,6734248;Burnitzstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3484038946;node;1;50,0971587;8,6731648;Burnitzstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1347287836;node;1;50,0971811;8,6908549;Darmst‰dter Landstraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;1685676106;node;1;50,0971859;8,6304111;Kleyerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433947860;node;1;50,0972413;8,5048177;Lenzenbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;433968734;node;1;50,0972522;8,5199012;Jahrhunderthalle;bus_stop;platform;Bus stop
+Frankfurt;3725813741;node;1;50,0972567;8,6696334;Interline Frankfurt;car_rental;;Car rental
+Frankfurt;3404952691;node;1;50,0973546;8,5378653;Industriepark Hˆchst Tor Ost;bus_stop;platform;Bus stop
+Frankfurt;2651871660;node;1;50,0973972;8,6990883;Dielmannstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3217750443;node;1;50,0974033;8,519765;Jahrhunderthalle;bus_stop;platform;Bus stop
+Frankfurt;3484038943;node;1;50,0974222;8,6768698;Achenbachstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483634;node;1;50,0974468;8,7245155;Buchrainstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3202997713;node;1;50,0974831;8,542034;Br¸ningstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289165998;node;1;50,0974899;8,6063246;Platanenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;622706070;node;1;50,0975159;8,646877;Johanna-Kirchner-Altenhilfezentrum;bus_stop;platform;Bus stop
+Frankfurt;622706069;node;1;50,0975167;8,6472581;Johanna-Kirchner-Altenhilfezentrum;bus_stop;platform;Bus stop
+Frankfurt;3484038944;node;1;50,0975491;8,6763608;Achenbachstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483651;node;1;50,0975832;8,7279404;Melanchthonplatz;bus_stop;platform;Bus stop
+Frankfurt;762919739;node;1;50,0976056;8,6651832;Vogelweidstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;762919766;node;1;50,0976279;8,6651571;Vogelweidstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;433968739;node;1;50,0977318;8,5275068;Industriepark Hˆchst Tor Nord;bus_stop;platform;Bus stop
+Frankfurt;1289165999;node;1;50,09781;8,6063392;Platanenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289222818;node;1;50,0978694;8,6935799;Henninger Turm;bus_stop;platform;Bus stop
+Frankfurt;433947852;node;1;50,09797;8,4924431;Neu Zeilsheim;bus_stop;platform;Bus stop
+Frankfurt;3408258247;node;1;50,0979863;8,6868132;S¸dbahnhof/Mˆrfelder Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;902583410;node;1;50,0979939;8,5509725;F‰hre Hˆchst;ferry_terminal;;Ferry Terminal
+Frankfurt;1012483707;node;1;50,0980092;8,730257;Schafheckstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763206441;node;1;50,0980158;8,6836545;S¸dbahnhof/Schweizer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;117088412;node;1;50,0980222;8,6836712;S¸dbahnhof/Schweizer Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;776633290;node;1;50,0980965;8,5665878;Nied Kirche;bus_stop;platform;Bus stop
+Frankfurt;392855873;node;1;50,0981356;8,5454263;Leverkuser Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3408994403;node;1;50,0981755;8,5905461;Ernst-Wiss-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;336742155;node;1;50,0982091;8,6835299;S¸dbahnhof/Schweizer Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;763206480;node;1;50,0982204;8,68355;S¸dbahnhof/Schweizer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;433968741;node;1;50,0982521;8,5293046;Industriepark Hˆchst Tor Nord;bus_stop;platform;Bus stop
+Frankfurt;763080542;node;1;50,0982851;8,566914;Nied Kirche;tram_stop;stop_position;Tram Stop
+Frankfurt;1289222852;node;1;50,0983018;8,6935076;Henninger Turm;bus_stop;platform;Bus stop
+Frankfurt;1012483705;node;1;50,0983453;8,7148195;Georg-Treser-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;119662734;node;1;50,0984354;8,5675594;Nied Kirche;tram_stop;stop_position;Tram Stop
+Frankfurt;1716602456;node;1;50,0984434;8,5868397;L‰rchenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3405528610;node;1;50,098477;8,6562255;Rotfeder-Ring;bus_stop;platform;Bus stop
+Frankfurt;670397051;node;1;50,098506;8,5284327;Frankfurt-Hˆchst Farbwerke;halt;station;Train Station
+Frankfurt;494249103;node;1;50,0985574;8,5668746;Nied Kirche;bus_stop;platform;Bus stop
+Frankfurt;3408785379;node;1;50,0985861;8,6332619;Ordnungsamt;bus_stop;platform;Bus stop
+Frankfurt;3408785380;node;1;50,0987023;8,6331578;Ordnungsamt;bus_stop;platform;Bus stop
+Frankfurt;622706071;node;1;50,0987324;8,6508212;Camberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;447964896;node;1;50,0987446;8,6874241;S¸dbahnhof/Mˆrfelder Landstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;622706074;node;1;50,0987647;8,6512245;Camberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;29920572;node;1;50,098787;8,550054;F‰hre Hˆchst;ferry_terminal;;Ferry Terminal
+Frankfurt;569847040;node;1;50,0988192;8,6692655;Stresemannallee/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1012483631;node;1;50,0988207;8,7343715;Grazer Weg;bus_stop;platform;Bus stop
+Frankfurt;3048801064;node;1;50,0988294;8,6723217;Stresemann-/Kennedyallee;bus_stop;platform;Bus stop
+Frankfurt;3833903134;node;1;50,0988729;8,6340802;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1599930681;node;1;50,0988842;8,6696591;Stresemannallee/Gartenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3048801063;node;1;50,0989137;8,6721742;Stresemann-/Kennedyallee;bus_stop;platform;Bus stop
+Frankfurt;761117255;node;1;50,0989822;8,6691492;Stresemannallee/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761117212;node;1;50,0990138;8,6692132;Stresemannallee/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763080543;node;1;50,0990806;8,5720818;Luthmerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;586450386;node;1;50,0991006;8,6794444;Holbein-Schule;bus_stop;platform;Bus stop
+Frankfurt;3220604288;node;1;50,0991137;8,5729094;Luthmerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4391460087;node;1;50,0991678;8,504451;Bechtenwaldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4391460088;node;1;50,0991949;8,5042491;Bechtenwaldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5902586327;node;1;50,0992156;8,686705;S¸dbahnhof;station;station;Subway Station
+Frankfurt;2495992379;node;1;50,0992498;8,5247337;Silostraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;205274812;node;1;50,0993131;8,5735035;Luthmerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2553727757;node;1;50,0993379;8,6862694;Frankfurt (Main) S¸d;station;station;Subway Station
+Frankfurt;3705237644;node;1;50,0993386;8,7233873;book-n-drive Station;car_sharing;;Car Sharing
+Frankfurt;3484038947;node;1;50,0993437;8,6804272;Holbein-Schule;bus_stop;platform;Bus stop
+Frankfurt;2495992376;node;1;50,0993459;8,5245708;Silostraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;761140140;node;1;50,0994084;8,7148533;Balduinstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;619815252;node;1;50,0994221;8,6845438;S¸dbahnhof;bus_stop;platform;Bus stop
+Frankfurt;761140197;node;1;50,0994407;8,7148523;Balduinstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;5109393746;node;1;50,0994444;8,6583776;Call a Bike R¸ckgabe kostenfrei;bicycle_rental;;Bicycle Rental
+Frankfurt;346195107;node;1;50,0994639;8,6852371;;taxi;;Taxi
+Frankfurt;761117168;node;1;50,0995363;8,6693475;Stresemannallee/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761117186;node;1;50,0995555;8,6685555;Stresemannallee/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1458999835;node;1;50,0995775;8,6685324;Stresemannallee/Gartenstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;4257470395;node;1;50,0996283;8,6850623;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;622706076;node;1;50,0996434;8,6540479;Gutleut-/Heilbronner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;761140110;node;1;50,0996567;8,703802;Lettigkautweg;tram_stop;stop_position;Tram Stop
+Frankfurt;1910808422;node;1;50,0997289;8,6947817;Geleitsstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;902640662;node;1;50,0997495;8,6038481;Waldschulstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483672;node;1;50,0997933;8,7367366;Wiener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3407750645;node;1;50,0998381;8,685524;S¸dbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;902640663;node;1;50,0998489;8,6040367;Waldschulstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1684769125;node;1;50,0998525;8,6364641;Galluspark;bus_stop;platform;Bus stop
+Frankfurt;776633306;node;1;50,0998693;8,5649639;Nied Br¸cke;bus_stop;platform;Bus stop
+Frankfurt;3404952692;node;1;50,0998707;8,5414828;Ludwigshafener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1012483664;node;1;50,0998819;8,7240283;Buchrainplatz;bus_stop;platform;Bus stop
+Frankfurt;622706080;node;1;50,0998889;8,6544356;Gutleut-/Heilbronner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5217850709;node;1;50,0998927;8,6856873;S¸dbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;5217850710;node;1;50,0998954;8,6856162;S¸dbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;1275812131;node;1;50,099936;8,7032804;Lettigkautweg;tram_stop;stop_position;Tram Stop
+Frankfurt;3220604286;node;1;50,0999563;8,5807961;Birminghamstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640057549;node;1;50,0999773;8,5898959;J‰gerallee;bus_stop;platform;Bus stop
+Frankfurt;611110336;node;1;50,0999779;8,6850292;S¸dbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;119662662;node;1;50,0999872;8,5782068;Birminghamstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763080431;node;1;50,1000164;8,5787452;Birminghamstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;392855868;node;1;50,1000169;8,5497326;Mainberg;bus_stop;platform;Bus stop
+Frankfurt;1570933004;node;1;50,1000284;8,6596495;Zanderstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1570933008;node;1;50,100047;8,6586702;Zanderstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;761140174;node;1;50,1000543;8,7199133;Bleiweiﬂstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;310454223;node;1;50,1000563;8,6911696;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;3936552667;node;1;50,1000657;8,5980164;Linnegraben;bus_stop;platform;Bus stop
+Frankfurt;761140235;node;1;50,1000868;8,7198996;Bleiweiﬂstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3220604295;node;1;50,1001132;8,6044063;Waldschulstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763080549;node;1;50,100135;8,5906157;J‰gerallee;tram_stop;stop_position;Tram Stop
+Frankfurt;117769405;node;1;50,100154;8,5902617;J‰gerallee;tram_stop;stop_position;Tram Stop
+Frankfurt;2911709161;node;1;50,1001664;8,7243724;;taxi;;Taxi
+Frankfurt;763080588;node;1;50,100178;8,5967469;Linnegraben;tram_stop;stop_position;Tram Stop
+Frankfurt;619843783;node;1;50,1001903;8,6852668;S¸dbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;1684769127;node;1;50,1001936;8,6370351;Galluspark;bus_stop;platform;Bus stop
+Frankfurt;205276774;node;1;50,1002053;8,5965537;Linnegraben;tram_stop;stop_position;Tram Stop
+Frankfurt;763080620;node;1;50,1002297;8,6043118;Waldschulstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;205276778;node;1;50,1002543;8,6039633;Waldschulstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3217750444;node;1;50,1002587;8,5903952;J‰gerallee;bus_stop;platform;Bus stop
+Frankfurt;2411428652;node;1;50,10027;8,68576;Call a Bike S¸dbahnhof/ Eingang Diesterwegplatz;bicycle_rental;;Bicycle Rental
+Frankfurt;3403251393;node;1;50,1002762;8,5456242;Hˆchster Markt;bus_stop;platform;Bus stop
+Frankfurt;619843789;node;1;50,1003078;8,6856686;S¸dbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;310454447;node;1;50,1003171;8,6905049;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;3217750445;node;1;50,1003288;8,5968223;Linnegraben;bus_stop;platform;Bus stop
+Frankfurt;761140168;node;1;50,1003368;8,7360689;Wiener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3220604290;node;1;50,1003937;8,6181843;Mˆnchhofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1275774971;node;1;50,1004002;8,692255;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;1637937432;node;1;50,1004297;8,5645348;Nied Br¸cke;bus_stop;platform;Bus stop
+Frankfurt;310454012;node;1;50,1004384;8,6916583;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;761140206;node;1;50,1004464;8,737516;Wiener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761140219;node;1;50,1004531;8,7311465;Flaschenburgstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761140263;node;1;50,1004577;8,7305472;Flaschenburgstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;115969880;node;1;50,1004776;8,7241831;Buchrainplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;761140148;node;1;50,100495;8,7242134;Buchrainplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;1569296180;node;1;50,1005196;8,6166408;Mˆnchhofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;117769317;node;1;50,1005288;8,6178891;Mˆnchhofstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763080637;node;1;50,1005479;8,6181984;Mˆnchhofstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3217750440;node;1;50,1005817;8,579924;Birminghamstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5186182452;node;1;50,1005859;8,6686368;Stresemannallee/Gartenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1569296182;node;1;50,1005883;8,6173084;Mˆnchhofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4391460490;node;1;50,1005929;8,5026891;Pferdskopfweg;bus_stop;platform;Bus stop
+Frankfurt;5500382026;node;1;50,1008004;8,6875286;S¸dbahnhof/Bruchstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761117136;node;1;50,1008256;8,6815344;Schwanthalerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4264208289;node;1;50,10084;8,62526;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3833903135;node;1;50,1008512;8,6335151;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3212063289;node;1;50,100856;8,6030217;Bingelsweg;bus_stop;platform;Bus stop
+Frankfurt;4264208290;node;1;50,1009;8,62081;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;763080632;node;1;50,1009154;8,6222555;Wickerer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4391460489;node;1;50,100937;8,5027392;Pferdskopfweg;bus_stop;platform;Bus stop
+Frankfurt;1696659149;node;1;50,1009467;8,6032532;Bingelsweg;bus_stop;platform;Bus stop
+Frankfurt;763080553;node;1;50,1009955;8,6228636;Wickerer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4391460491;node;1;50,1010226;8,4977333;Siedlung Taunusblick;bus_stop;platform;Bus stop
+Frankfurt;622706091;node;1;50,1011777;8,6600655;Rottweiler Platz;bus_stop;platform;Bus stop
+Frankfurt;498568672;node;1;50,1011838;8,6926837;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;392776653;node;1;50,1011902;8,5424585;Hˆchst Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;795858921;node;1;50,1011959;8,6746368;Otto-Hahn-Platz;bus_stop;platform;Bus stop
+Frankfurt;763067491;node;1;50,1012045;8,6397674;Kriegkstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;761117164;node;1;50,1012204;8,6811647;Schwanthalerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2495992385;node;1;50,1012344;8,5295536;Silobad/Ballsporthalle;bus_stop;platform;Bus stop
+Frankfurt;763067527;node;1;50,1012385;8,6397348;Kriegkstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4259773838;node;1;50,1012563;8,6396533;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;498568670;node;1;50,1012926;8,6934503;Wendelsplatz;bus_stop;platform;Bus stop
+Frankfurt;392776647;node;1;50,1013006;8,55261;Bolongaropalast;bus_stop;platform;Bus stop
+Frankfurt;494249106;node;1;50,1013035;8,5601408;Tillystraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1201852198;node;1;50,101342;8,663052;;taxi;;Taxi
+Frankfurt;763083373;node;1;50,1014311;8,5602646;Tillystraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2495992382;node;1;50,1014395;8,5295763;Silobad/Ballsporthalle;bus_stop;platform;Bus stop
+Frankfurt;119662819;node;1;50,1014862;8,5602552;Tillystraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763067605;node;1;50,1014989;8,6280997;Rebstˆcker Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;684354314;node;1;50,1015488;8,5483478;Emmerich-Josef-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;763067489;node;1;50,1016295;8,6292417;Rebstˆcker Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4262241733;node;1;50,1016338;8,6906782;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2963987630;node;1;50,1016343;8,6634864;Call a Bike R¸ckgabe kostenfrei;bicycle_rental;;Bicycle Rental
+Frankfurt;776633332;node;1;50,1016543;8,5607249;Tillystraﬂe;bus_stop;platform;Bus stop
+Frankfurt;761128246;node;1;50,1017201;8,6869407;Br¸cken-/Textorstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761128248;node;1;50,1017438;8,6869199;Br¸cken-/Textorstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;452632733;node;1;50,1017524;8,69076;Lokalbahnhof/Hedderichstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;392776652;node;1;50,1017908;8,5413174;Hˆchst Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;2398424656;node;1;50,1017959;8,6336336;Sixt;car_rental;;Car rental
+Frankfurt;763083606;node;1;50,1018219;8,5527227;Bolongaropalast;tram_stop;stop_position;Tram Stop
+Frankfurt;616282306;node;1;50,1018257;8,6996314;M¸hlberg;bus_stop;platform;Bus stop
+Frankfurt;761117225;node;1;50,1018267;8,6756495;Otto-Hahn-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;616282318;node;1;50,1018292;8,700846;M¸hlberg;station;station;Subway Station
+Frankfurt;2411431393;node;1;50,10185;8,68117;Call a Bike Diesterwegstraﬂe / Schweizer Platz;bicycle_rental;;Bicycle Rental
+Frankfurt;761117220;node;1;50,1018512;8,675623;Otto-Hahn-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;761140143;node;1;50,1018743;8,6998068;M¸hlberg;tram_stop;stop_position;Tram Stop
+Frankfurt;4257487689;node;1;50,101934;8,6811197;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;116865476;node;1;50,1019365;8,6996335;M¸hlberg;tram_stop;stop_position;Tram Stop
+Frankfurt;903975224;node;1;50,1019974;8,6182371;AVIS/Budget;car_rental;;Car rental
+Frankfurt;616282310;node;1;50,1020051;8,6998441;M¸hlberg;bus_stop;platform;Bus stop
+Frankfurt;622706088;node;1;50,1020368;8,654661;Heilbronner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1945092029;node;1;50,1020377;8,5430173;;taxi;;Taxi
+Frankfurt;763027950;node;1;50,1020392;8,6545619;Heilbronner Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;392852698;node;1;50,1020393;8,5468365;Hostatostraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763027954;node;1;50,1020446;8,6546427;Heilbronner Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;622706083;node;1;50,1020451;8,6545365;Heilbronner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1750012267;node;1;50,1020853;8,5685272;Nied Bahnhof/Lotzstaﬂe;bus_stop;platform;Bus stop
+Frankfurt;1637937454;node;1;50,1020991;8,5683721;Nied Bahnhof/Lotzstaﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776648;node;1;50,1021747;8,5553144;Ludwig-Scriba-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1506876412;node;1;50,1022138;8,6928445;Lokalbahnhof;station;station;Subway Station
+Frankfurt;763067501;node;1;50,1022303;8,6358494;Schwalbacher Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1547641837;node;1;50,1022854;8,676888;Otto-Hahn-Platz;bus_stop;platform;Bus stop
+Frankfurt;615218718;node;1;50,1023096;8,6976121;M¸hlberg;bus_stop;platform;Bus stop
+Frankfurt;29803394;node;1;50,1023216;8,5714188;Nied;halt;station;Train Station
+Frankfurt;763067498;node;1;50,1023375;8,6367227;Schwalbacher Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4586687191;node;1;50,1024005;8,6800809;Schweizer Platz;station;station;Subway Station
+Frankfurt;613535266;node;1;50,1024094;8,6800572;Schweizer Platz;station;station;Subway Station
+Frankfurt;3838912586;node;1;50,102623;8,6375804;Enterprise Rent-A-Car;car_rental;;Car rental
+Frankfurt;761128213;node;1;50,1026294;8,6897188;Lokalbahnhof/Textorstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;776633371;node;1;50,1026774;8,5570095;Ludwig-Scriba-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;761128247;node;1;50,1026857;8,6900504;Lokalbahnhof/Textorstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1669067958;node;1;50,1027056;8,6187385;Buchbinder;car_rental;;Car rental
+Frankfurt;1704683949;node;1;50,1027438;8,5420871;Frankfurt-Hˆchst;station;station;Subway Station
+Frankfurt;475728409;node;1;50,1028524;8,672453;St‰del;bus_stop;platform;Bus stop
+Frankfurt;1547814842;node;1;50,1028828;8,6643875;Baseler Platz;bus_stop;platform;Bus stop
+Frankfurt;4264208291;node;1;50,10291;8,62639;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;616282294;node;1;50,1029349;8,6723299;St‰del;bus_stop;platform;Bus stop
+Frankfurt;1777965863;node;1;50,1029969;8,6635179;Mitfahrzentrale;car_sharing;;Car Sharing
+Frankfurt;3212063288;node;1;50,1030014;8,6025202;Heinrich-Hardt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;761117227;node;1;50,1030017;8,6798465;Schweizer-/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;340424587;node;1;50,1030098;8,692278;Lokalbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;776633360;node;1;50,1030264;8,5523843;Zuckschwerdtstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;763083375;node;1;50,103061;8,5525659;Zuckschwerdtstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;119662884;node;1;50,1031171;8,5526441;Zuckschwerdtstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;776633404;node;1;50,1031299;8,5524832;Zuckschwerdtstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;3048777367;node;1;50,1031352;8,6788387;Schweizer-/Gartenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;622706094;node;1;50,1031709;8,6571913;Hafenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;622706098;node;1;50,1031991;8,657445;Hafenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763027959;node;1;50,1032348;8,6573769;Hafenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;761117259;node;1;50,1032505;8,6794506;Schweizer-/Gartenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763027957;node;1;50,1032557;8,6573468;Hafenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1290038710;node;1;50,1032992;8,5710317;Nied Bahnhof/Friedhof;bus_stop;platform;Bus stop
+Frankfurt;761128208;node;1;50,1033204;8,6931589;Lokalbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;1290038709;node;1;50,103321;8,5714449;Nied Bahnhof/Friedhof;bus_stop;platform;Bus stop
+Frankfurt;1004317430;node;1;50,1033584;8,6453796;Galluswarte;bus_stop;stop_position;Bus stop
+Frankfurt;763046272;node;1;50,1033637;8,6451198;Galluswarte;tram_stop;stop_position;Tram Stop
+Frankfurt;117769444;node;1;50,1033857;8,6451041;Galluswarte;tram_stop;stop_position;Tram Stop
+Frankfurt;158694790;node;1;50,1034153;8,6918695;Lokalbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;488793895;node;1;50,1034214;8,6919523;Lokalbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;1696659150;node;1;50,1034322;8,6026016;Heinrich-Hardt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2514357130;node;1;50,1034608;8,6451026;Galluswarte;bus_stop;stop_position;Bus stop
+Frankfurt;761140202;node;1;50,1034734;8,6973764;Heister-/Seehofstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2339373569;node;1;50,1035012;8,6447073;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;488793858;node;1;50,1035189;8,6919516;Lokalbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;1569296270;node;1;50,10361;8,6182932;Schmidtstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1547917113;node;1;50,1036202;8,6969914;Heister-/Seehofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5215953752;node;1;50,1037356;8,6963189;Heister-/Seehofstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;366994274;node;1;50,1037987;8,551873;Zuckschwerdt-/Bauhofstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1569296293;node;1;50,1038963;8,6179886;Schmidtstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;25601842;node;1;50,1039142;8,6448659;Frankfurt (Main) Galluswarte;station;station;Subway Station
+Frankfurt;1547917120;node;1;50,1040279;8,6953658;Heister-/Siemensstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1637918102;node;1;50,1040334;8,5733723;Nidda-Kampfbahn;bus_stop;platform;Bus stop
+Frankfurt;4257585278;node;1;50,1041056;8,6648304;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;4264208292;node;1;50,10416;8,63558;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1547814846;node;1;50,104329;8,664111;Baseler Platz;bus_stop;platform;Bus stop
+Frankfurt;4840145974;node;1;50,104338;8,678564;Call a Bike Schweizer Straﬂe / St‰delstraﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;1520849571;node;1;50,1043396;8,5378874;Peter-Bied-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1515551646;node;1;50,1043423;8,6629853;Fernbussteig E;bus_stop;platform;Bus stop
+Frankfurt;2683398619;node;1;50,1043659;8,6982177;Turtle Rent Autovermietung;car_rental;;Car rental
+Frankfurt;783983123;node;1;50,104374;8,6829125;Oppenheimer Platz;bus_stop;platform;Bus stop
+Frankfurt;1515551655;node;1;50,1043822;8,6619914;Fernbussteig D;bus_stop;platform;Bus stop
+Frankfurt;778708638;node;1;50,104403;8,6898446;Affentorplatz;bus_stop;platform;Bus stop
+Frankfurt;3217750446;node;1;50,104412;8,5753021;Nidda-Kampfbahn;bus_stop;platform;Bus stop
+Frankfurt;767185762;node;1;50,1044523;8,6647749;Baseler Platz;tram_stop;station;Tram Stop
+Frankfurt;2871485361;node;1;50,104467;8,6418618;Frankenallee 111;car_sharing;;Car Sharing
+Frankfurt;5143403549;node;1;50,1044827;8,6624743;Ffm Hbf FOB Flixbus;bus_stop;platform;Bus stop
+Frankfurt;117091061;node;1;50,1044881;8,6647942;Baseler Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;783983055;node;1;50,1044915;8,682786;Oppenheimer Platz;bus_stop;platform;Bus stop
+Frankfurt;761117189;node;1;50,1044928;8,6647467;Baseler Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;5143403550;node;1;50,1045132;8,6625715;Ffm Hbf FOB Flixbus;bus_stop;platform;Bus stop
+Frankfurt;5143403551;node;1;50,1045438;8,6626688;Ffm Hbf FOB Flixbus;bus_stop;platform;Bus stop
+Frankfurt;762005007;node;1;50,1045664;8,6633674;Pforzheimer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1536786338;node;1;50,1045844;8,6223416;Schloﬂborner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4262272654;node;1;50,1045979;8,6616594;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4735972083;node;1;50,1046148;8,6609218;Behˆrdenzentrum Gutleut;bus_stop;platform;Bus stop
+Frankfurt;4735972084;node;1;50,1046913;8,6608349;Behˆrdenzentrum Gutleut;bus_stop;platform;Bus stop
+Frankfurt;3201081729;node;1;50,1046943;8,542066;Hˆchst Bahnhof Nordseite;bus_stop;platform;Bus stop
+Frankfurt;778299784;node;1;50,1047003;8,6899289;Affentorplatz;bus_stop;platform;Bus stop
+Frankfurt;4735677876;node;1;50,1047098;8,6661972;Baseler Platz;bus_stop;platform;Bus stop
+Frankfurt;1164011454;node;1;50,1047256;8,6434425;Haus Gallus;bus_stop;platform;Bus stop
+Frankfurt;2339373555;node;1;50,1047455;8,643644;Call a Bike Frankenallee / Bushaltestelle Haus Gallus;bicycle_rental;;Bicycle Rental
+Frankfurt;1536786325;node;1;50,1047903;8,6257724;Eppenhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1536786329;node;1;50,1048252;8,6250936;Eppenhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1547702611;node;1;50,1048301;8,7181841;Rudererdorf;bus_stop;platform;Bus stop
+Frankfurt;4264208293;node;1;50,10484;8,62519;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1637918103;node;1;50,1048886;8,5759662;Nidda-Kampfbahn;bus_stop;platform;Bus stop
+Frankfurt;392852702;node;1;50,1048997;8,5377025;Peter-Bied-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1538693481;node;1;50,1050118;8,6769465;Untermainbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;1164011459;node;1;50,1050191;8,6438894;Haus Gallus;bus_stop;platform;Bus stop
+Frankfurt;3541989644;node;1;50,1050198;8,6960506;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1547702622;node;1;50,1050249;8,7180193;Rudererdorf;bus_stop;platform;Bus stop
+Frankfurt;4793256747;node;1;50,1050345;8,7114684;Osthafenbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;2547087658;node;1;50,1050435;8,6620835;Intercity Buslines, Airport Hahn;bus_stop;platform;Bus stop
+Frankfurt;4262325936;node;1;50,1050559;8,6667801;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3398241055;node;1;50,1050879;8,6622173;Fernbussteig C;bus_stop;platform;Bus stop
+Frankfurt;3211943892;node;1;50,1051408;8,5446594;Gerlachstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763046280;node;1;50,1051847;8,6498559;Speyerer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2676931257;node;1;50,1052159;8,6863497;AVIS;car_rental;;Car rental
+Frankfurt;3407845806;node;1;50,1052252;8,7042856;Deutschherrnbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;4278405645;node;1;50,1052384;8,7216483;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1536786341;node;1;50,1052394;8,6299281;Schneidhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1547753289;node;1;50,105247;8,7241628;Gerberm¸hle;bus_stop;platform;Bus stop
+Frankfurt;2339373562;node;1;50,1052572;8,6503537;Call a Bike Mainzer Landstraﬂe 191/ Speyerer Straﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;618503560;node;1;50,1052738;8,6980505;Zum Apothekerhof;bus_stop;platform;Bus stop
+Frankfurt;618503559;node;1;50,1052862;8,6978715;Zum Apothekerhof;bus_stop;platform;Bus stop
+Frankfurt;1536786344;node;1;50,1053161;8,6293754;Schneidhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4793197850;node;1;50,1053198;8,7107994;Osthafenbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;4264208294;node;1;50,10532;8,62951;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1538693483;node;1;50,1053247;8,6774414;Untermainbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;2939767071;node;1;50,1053276;8,7041905;Deutschherrnbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;1538699657;node;1;50,1053654;8,6855625;Schulstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4257501876;node;1;50,1053807;8,6780579;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;392776644;node;1;50,1053997;8,5531886;Auerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1547753292;node;1;50,1055066;8,7240643;Gerberm¸hle;bus_stop;platform;Bus stop
+Frankfurt;430434907;node;1;50,1055975;8,7003084;Zum Brommenhof;bus_stop;platform;Bus stop
+Frankfurt;4262249601;node;1;50,1056093;8,6698878;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;762005038;node;1;50,1056445;8,663874;Hauptbahnhof S¸dseite;tram_stop;stop_position;Tram Stop
+Frankfurt;763046106;node;1;50,1056745;8,6509947;Speyerer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;430433927;node;1;50,1056945;8,7002857;Zum Brommenhof;bus_stop;platform;Bus stop
+Frankfurt;1524913138;node;1;50,1057001;8,6638033;Fernbussteig B;bus_stop;stop_position;Bus stop
+Frankfurt;1536786331;node;1;50,1057041;8,6348083;Paul-Hindemith-Schule;bus_stop;platform;Bus stop
+Frankfurt;778708654;node;1;50,1057406;8,6883264;Elisabethenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;299117822;node;1;50,1057416;8,6641573;Hauptbahnhof S¸dseite;bus_stop;stop_position;Bus stop
+Frankfurt;1637904312;node;1;50,1058277;8,5795766;Heusingerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;762004997;node;1;50,1058471;8,6644675;Hauptbahnhof S¸dseite;tram_stop;stop_position;Tram Stop
+Frankfurt;1536786336;node;1;50,1058648;8,6350415;Paul-Hindemith-Schule;bus_stop;platform;Bus stop
+Frankfurt;615218723;node;1;50,1058976;8,6937043;Wasserweg;bus_stop;platform;Bus stop
+Frankfurt;1400336446;node;1;50,1059148;8,6393188;DB-Zentrale;bus_stop;platform;Bus stop
+Frankfurt;778708613;node;1;50,1059304;8,6881975;Elisabethenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;615218721;node;1;50,1059309;8,6951344;Wasserweg;bus_stop;platform;Bus stop
+Frankfurt;2550936900;node;1;50,1059526;8,6522369;BD MZL;car_sharing;;Car Sharing
+Frankfurt;762172663;node;1;50,1059556;8,6923446;Frankensteiner Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;3058195679;node;1;50,10597;8,6523091;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;782830001;node;1;50,1060156;8,6863407;Schulstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1400336428;node;1;50,1060639;8,6400044;DB-Zentrale;bus_stop;platform;Bus stop
+Frankfurt;3541989650;node;1;50,1061229;8,6870053;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3220604289;node;1;50,1062353;8,6711747;Mainluststraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1289166755;node;1;50,1062802;8,6011445;Lindenhag;bus_stop;platform;Bus stop
+Frankfurt;1637904313;node;1;50,1062899;8,5806581;Heusingerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;366992359;node;1;50,1062946;8,552606;Auerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3212063287;node;1;50,1064474;8,600731;Lindenhag;bus_stop;platform;Bus stop
+Frankfurt;5214402264;node;1;50,1064718;8,6925014;Frankensteiner Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;616282333;node;1;50,1064741;8,6922913;Frankensteiner Platz;bus_stop;platform;Bus stop
+Frankfurt;3051931999;node;1;50,1064946;8,6650642;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;3465738069;node;1;50,1064992;8,6694741;Elbestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;622706102;node;1;50,1065224;8,6646912;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;1458837963;node;1;50,1065808;8,6646259;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;2871485360;node;1;50,1066039;8,6402492;Flinkster;car_sharing;;Car Sharing
+Frankfurt;2639952544;node;1;50,1066069;8,5489537;Konrad-Glatt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1456559554;node;1;50,1066453;8,6645607;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;205364328;node;1;50,1066539;8,6625808;Frankfurt (Main) Hauptbahnhof;station;station;Subway Station
+Frankfurt;392801012;node;1;50,106656;8,6127124;Feldbahnmuseum;bus_stop;platform;Bus stop
+Frankfurt;392801011;node;1;50,1066697;8,6120222;Feldbahnmuseum;bus_stop;platform;Bus stop
+Frankfurt;4107711263;node;1;50,1067025;8,6587541;PO - Poststraﬂe 28;car_sharing;;Car Sharing
+Frankfurt;1458837965;node;1;50,106714;8,6644847;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;392855866;node;1;50,1067251;8,5489592;Konrad-Glatt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1458837966;node;1;50,1067773;8,6644222;Hauptbahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;2303469473;node;1;50,1068092;8,6648399;Fernbussteig A;bus_stop;platform;Bus stop
+Frankfurt;1458837974;node;1;50,1068387;8,6643586;Hauptbahnhof Frankfurt;bus_stop;stop_position;Bus stop
+Frankfurt;762005023;node;1;50,1068474;8,6658808;Hauptbahnhof / M¸nchener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;762005020;node;1;50,1068942;8,6661825;Hauptbahnhof / M¸nchener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1547814849;node;1;50,1069212;8,6648201;Hauptbahnhof;bus_stop;platform;Bus stop
+Frankfurt;763046253;node;1;50,1069434;8,6542978;G¸terplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;1506888190;node;1;50,1070214;8,6906202;Frankensteiner Platz;bus_stop;platform;Bus stop
+Frankfurt;1506888189;node;1;50,1070461;8,6913406;Frankensteiner Platz;bus_stop;platform;Bus stop
+Frankfurt;1506895948;node;1;50,1070806;8,682725;Eiserner Steg;bus_stop;platform;Bus stop
+Frankfurt;2339373533;node;1;50,1071076;8,6400921;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;677374148;node;1;50,1071137;8,6623209;Hauptbahnhof (tief);station;station;Subway Station
+Frankfurt;1506895956;node;1;50,1071737;8,6829382;Eiserner Steg;bus_stop;platform;Bus stop
+Frankfurt;1777255792;node;1;50,1071789;8,7142501;Schmickstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4257501877;node;1;50,1072126;8,6726431;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3201087901;node;1;50,1072318;8,5444263;Klinikum Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;1777255793;node;1;50,1072467;8,7150086;Schmickstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3408628913;node;1;50,107248;8,6558739;G¸terplatz;bus_stop;platform;Bus stop
+Frankfurt;772800493;node;1;50,1072483;8,6647335;Hauptbahnhof;bus_stop;platform;Bus stop
+Frankfurt;4264208295;node;1;50,10728;8,62897;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2639952546;node;1;50,1073025;8,5841355;Neumarkt;bus_stop;platform;Bus stop
+Frankfurt;305263669;node;1;50,1073205;8,6560677;G¸terplatz;bus_stop;platform;Bus stop
+Frankfurt;4262311142;node;1;50,1073374;8,6708055;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3201087942;node;1;50,107347;8,5421786;Klinikum Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;4259806992;node;1;50,1073579;8,6644874;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4257562972;node;1;50,1074124;8,6643554;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;2639952547;node;1;50,1074155;8,5848893;Neumarkt;bus_stop;platform;Bus stop
+Frankfurt;4259806550;node;1;50,1074377;8,6636219;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4262334831;node;1;50,1074437;8,6587127;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2591298883;node;1;50,1074528;8,6240424;Europaviertel West;bus_stop;platform;Bus stop
+Frankfurt;2411400263;node;1;50,1074797;8,6483996;Call a Bike Speyerer Straﬂe/ Koblenzer Straﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;761117257;node;1;50,1075415;8,6648317;Hauptbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;1569296260;node;1;50,1075828;8,618438;Rˆmerhof;bus_stop;platform;Bus stop
+Frankfurt;299121887;node;1;50,1076117;8,663924;;taxi;;Taxi
+Frankfurt;763046265;node;1;50,1076532;8,6560304;G¸terplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;4265262066;node;1;50,10768;8,6746;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;564182673;node;1;50,1076895;8,651452;;car_sharing;;Car Sharing
+Frankfurt;1569296266;node;1;50,1077241;8,6182954;Rˆmerhof;bus_stop;platform;Bus stop
+Frankfurt;767185691;node;1;50,1077261;8,6646358;Hauptbahnhof (Straﬂenbahn);tram_stop;station;Tram Stop
+Frankfurt;767185754;node;1;50,1077355;8,6637933;Hauptbahnhof (U-Bahn);station;station;Subway Station
+Frankfurt;2591298809;node;1;50,1077532;8,6237525;Europaviertel West;bus_stop;platform;Bus stop
+Frankfurt;117091087;node;1;50,1077853;8,6645954;Hauptbahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;3404239119;node;1;50,1077958;8,6211283;Messeparkhaus;bus_stop;platform;Bus stop
+Frankfurt;772800500;node;1;50,1078143;8,6649202;Hauptbahnhof;bus_stop;platform;Bus stop
+Frankfurt;5207996801;node;1;50,1078414;8,6699119;Weserstraﬂe / M¸nchener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1777255790;node;1;50,1078488;8,7195603;M¸hlenwerke;bus_stop;platform;Bus stop
+Frankfurt;1777255791;node;1;50,1078788;8,7193514;M¸hlenwerke;bus_stop;platform;Bus stop
+Frankfurt;3404239120;node;1;50,1079446;8,621081;Messeparkhaus;bus_stop;platform;Bus stop
+Frankfurt;2970248393;node;1;50,1079758;8,5279993;Unterliederbach;halt;station;Train Station
+Frankfurt;3845622671;node;1;50,1080245;8,7011115;Europ‰ische Zentralbank;halt;;Train Station
+Frankfurt;2591298828;node;1;50,108066;8,6369067;Europagarten / Messe West;bus_stop;platform;Bus stop
+Frankfurt;762895123;node;1;50,108077;8,6707297;Weserstraﬂe / M¸nchener Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4262272223;node;1;50,1081015;8,6727662;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;5208074079;node;1;50,108133;8,6707577;Weserstraﬂe / M¸nchener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2150774299;node;1;50,1081883;8,5349834;Wasgaustraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2150774300;node;1;50,1082783;8,5350216;Wasgaustraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2874176655;node;1;50,1083051;8,6437449;Call a Bike Dormero-Hotel / Europaallee;bicycle_rental;;Bicycle Rental
+Frankfurt;2591298825;node;1;50,1083288;8,6365934;Europagarten / Messe West;bus_stop;platform;Bus stop
+Frankfurt;2591298856;node;1;50,108351;8,6427769;Stephensonstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2874182909;node;1;50,1083712;8,6291684;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2591298876;node;1;50,1084268;8,6285066;Maastrichter Ring;bus_stop;platform;Bus stop
+Frankfurt;2591298853;node;1;50,1084664;8,6274203;Maastrichter Ring;bus_stop;platform;Bus stop
+Frankfurt;615218711;node;1;50,108474;8,6463033;Dubliner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2591298872;node;1;50,1084965;8,6415046;Stephensonstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4257501878;node;1;50,1085881;8,6695181;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3408628912;node;1;50,108619;8,6514139;Den Haager Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2591298849;node;1;50,1086631;8,6335488;Rˆmischer Ring;bus_stop;platform;Bus stop
+Frankfurt;2591298845;node;1;50,1087084;8,6326417;Rˆmischer Ring;bus_stop;platform;Bus stop
+Frankfurt;615218715;node;1;50,1087423;8,646141;Dubliner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;803546921;node;1;50,108762;8,6637479;Hauptbahnhof/Karlstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3468035049;node;1;50,1088136;8,6622911;Platz der Republik;bus_stop;platform;Bus stop
+Frankfurt;2683735883;node;1;50,108916;8,6737059;Willy-Brandt-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;759943999;node;1;50,1089436;8,6742726;Willy-Brandt-Platz;tram_stop;station;Tram Stop
+Frankfurt;615218716;node;1;50,108962;8,651063;Den Haager Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;392801010;node;1;50,1089667;8,6049772;Sportanlage Rebstock;bus_stop;platform;Bus stop
+Frankfurt;2683735884;node;1;50,1089843;8,6738124;Willy-Brandt-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;660384692;node;1;50,1089882;8,6821028;Frankfurt (Main) Eiserner Steg;halt;;Train Station
+Frankfurt;3217750507;node;1;50,1090056;8,6738066;Willy-Brandt-Platz;bus_stop;platform;Bus stop
+Frankfurt;2874176656;node;1;50,1090481;8,6514211;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;5273583820;node;1;50,1090817;8,697272;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3217750447;node;1;50,109089;8,6593133;Platz der Republik;bus_stop;platform;Bus stop
+Frankfurt;761117290;node;1;50,1091022;8,661336;Platz der Republik;tram_stop;stop_position;Tram Stop
+Frankfurt;5219648676;node;1;50,1091531;8,6609435;Platz der Republik;bus_stop;platform;Bus stop
+Frankfurt;4257516010;node;1;50,1091637;8,6747109;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;5902639717;node;1;50,109177;8,6743448;Willy-Brandt-Platz;station;station;Subway Station
+Frankfurt;1777255788;node;1;50,1091794;8,7240479;Hafenm¸hlenweg;bus_stop;platform;Bus stop
+Frankfurt;3404068236;node;1;50,109194;8,6047563;Sportanlage Rebstock;bus_stop;platform;Bus stop
+Frankfurt;3428756223;node;1;50,109236;8,6755986;Willy-Brandt-Platz;bus_stop;platform;Bus stop
+Frankfurt;117091092;node;1;50,1092791;8,6610064;Platz der Republik;tram_stop;stop_position;Tram Stop
+Frankfurt;366992355;node;1;50,1092966;8,5513551;Friedhof Kurmainzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;28783089;node;1;50,1093939;8,6749413;Willy-Brandt-Platz;station;station;Subway Station
+Frankfurt;1777255789;node;1;50,1094231;8,7245263;Hafenm¸hlenweg;bus_stop;platform;Bus stop
+Frankfurt;615218717;node;1;50,1094774;8,651484;Den Haager Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;630644490;node;1;50,1095035;8,673007;;taxi;;Taxi
+Frankfurt;3395188063;node;1;50,1095423;8,663975;;taxi;;Taxi
+Frankfurt;4259804268;node;1;50,1095902;8,6611983;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4028963405;node;1;50,1096411;8,6697329;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4265228283;node;1;50,1097;8,68767;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3220604297;node;1;50,1097109;8,6744101;Willy-Brandt-Platz;bus_stop;platform;Bus stop
+Frankfurt;1461099832;node;1;50,109745;8,6246489;Messeparkhaus Rebstock;bus_stop;stop_position;Bus stop
+Frankfurt;2917046276;node;1;50,1097523;8,700191;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4265228284;node;1;50,1098;8,67976;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;640549316;node;1;50,1098662;8,6876241;Schˆne Aussicht;bus_stop;platform;Bus stop
+Frankfurt;392776643;node;1;50,1099001;8,5515735;Friedhof Kurmainzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;418164059;node;1;50,109906;8,5392622;Euckenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618684879;node;1;50,1099324;8,6687636;Weserstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392855867;node;1;50,1099341;8,5483546;Windthorststraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1777255796;node;1;50,1100576;8,7266879;Staustufe Ost;bus_stop;platform;Bus stop
+Frankfurt;4265228285;node;1;50,11006;8,6849;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;640549327;node;1;50,1100646;8,6880628;Schˆne Aussicht;bus_stop;platform;Bus stop
+Frankfurt;1777255795;node;1;50,1101659;8,7273357;Staustufe Ost;bus_stop;platform;Bus stop
+Frankfurt;634132336;node;1;50,1102233;8,6767663;;taxi;;Taxi
+Frankfurt;2132600835;node;1;50,110374;8,5490807;Windthorststraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4265228286;node;1;50,11042;8,67501;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;762172659;node;1;50,1104554;8,6926716;Hospital zum Heiligen Geist;tram_stop;stop_position;Tram Stop
+Frankfurt;392852703;node;1;50,110468;8,5350938;Ludwig-Erhard-Schule;bus_stop;platform;Bus stop
+Frankfurt;762172698;node;1;50,1105492;8,6927342;Hospital zum Heiligen Geist;tram_stop;stop_position;Tram Stop
+Frankfurt;3409221882;node;1;50,1105881;8,537691;Kˆnigsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3404068237;node;1;50,1106049;8,5320551;Unterliederbach Markt;bus_stop;platform;Bus stop
+Frankfurt;392852710;node;1;50,1106068;8,5322837;Unterliederbach Markt;bus_stop;platform;Bus stop
+Frankfurt;4734868797;node;1;50,1106764;8,6536418;Platz der Einheit;bus_stop;platform;Bus stop
+Frankfurt;2939767092;node;1;50,1106768;8,7088576;Ostbahnhof/Honsellstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;28783081;node;1;50,1106795;8,6835871;Dom/Rˆmer;station;station;Subway Station
+Frankfurt;795742737;node;1;50,1107256;8,5979318;Neufeld;bus_stop;platform;Bus stop
+Frankfurt;760646131;node;1;50,1107627;8,6577127;Hohenstaufenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4257516011;node;1;50,1108015;8,6818303;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;4262294810;node;1;50,1108035;8,6651078;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;762895173;node;1;50,1108283;8,6815873;Rˆmer/Paulskirche;tram_stop;stop_position;Tram Stop
+Frankfurt;294259484;node;1;50,1108286;8,6814152;;taxi;;Taxi
+Frankfurt;117091105;node;1;50,1108471;8,6575955;Hohenstaufenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;795742779;node;1;50,1108533;8,597831;Neufeld;bus_stop;platform;Bus stop
+Frankfurt;4734868795;node;1;50,1108613;8,653165;Platz der Einheit;bus_stop;platform;Bus stop
+Frankfurt;4734868799;node;1;50,1108639;8,6645168;FranÁois-Mitterrand-Platz;bus_stop;platform;Bus stop
+Frankfurt;4265262067;node;1;50,11089;8,68216;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;762895133;node;1;50,1109793;8,6822766;Rˆmer/Paulskirche;tram_stop;stop_position;Tram Stop
+Frankfurt;2939767093;node;1;50,1109866;8,7085278;Ostbahnhof/Honsellstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;630644392;node;1;50,1110379;8,6726637;;taxi;;Taxi
+Frankfurt;3217750502;node;1;50,1110428;8,6824028;Rˆmer/Paulskirche;bus_stop;platform;Bus stop
+Frankfurt;418164060;node;1;50,1111278;8,5400719;Euckenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392852700;node;1;50,1111601;8,5275423;Unterliederbach West;bus_stop;platform;Bus stop
+Frankfurt;4265228287;node;1;50,1112;8,6924;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1675761836;node;1;50,111267;8,7093172;Ostbahnhof/Honsellstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5340383806;node;1;50,1112755;8,7075393;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;119706077;node;1;50,1113649;8,709272;Ostbahnhof/Honsellstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763106650;node;1;50,1113935;8,7092737;Ostbahnhof/Honsellstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;366992350;node;1;50,1113955;8,5526212;Eltviller Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3297187768;node;1;50,1114088;8,7315538;Intzestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1675761843;node;1;50,1114411;8,7092351;Ostbahnhof/Honsellstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392852699;node;1;50,111453;8,5272055;Unterliederbach West;bus_stop;platform;Bus stop
+Frankfurt;1984716063;node;1;50,1115404;8,6813787;Neue Kr‰me;bus_stop;platform;Bus stop
+Frankfurt;2968372502;node;1;50,1115707;8,5382681;Kˆnigsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;119706058;node;1;50,1116336;8,7053114;Ostbahnhof/Sonnemannstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;1984716064;node;1;50,1116423;8,6810865;Neue Kr‰me;bus_stop;platform;Bus stop
+Frankfurt;4265228288;node;1;50,11166;8,6844;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3297187771;node;1;50,1116616;8,7319977;Intzestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763106605;node;1;50,1117045;8,7050579;Ostbahnhof/Sonnemannstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;29271563;node;1;50,1117146;8,6558163;Festhalle/Messe;station;station;Subway Station
+Frankfurt;3431860387;node;1;50,1117495;8,7052321;Ostbahnhof/Sonnemannstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4265229889;node;1;50,11183;8,67489;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;392776641;node;1;50,1118365;8,5533112;Eltviller Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1512853014;node;1;50,1118764;8,7044962;Ostbahnhof/Sonnemannstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;203523397;node;1;50,1119161;8,7134711;Osthafenplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;1506776967;node;1;50,1119261;8,6198566;Zum Rebstockbad;bus_stop;platform;Bus stop
+Frankfurt;32622566;node;1;50,1119405;8,6434087;Frankfurt am Main Messe;halt;stop_position;Train Station
+Frankfurt;640549340;node;1;50,1120654;8,688049;Bˆrneplatz;bus_stop;platform;Bus stop
+Frankfurt;4265229890;node;1;50,11207;8,67697;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2411436488;node;1;50,11211;8,65419;Call a Bike Messe Haupteingang/ Friedrich-Ebert-Anlage;bicycle_rental;;Bicycle Rental
+Frankfurt;3212009975;node;1;50,11211;8,5368653;Alleehaus;bus_stop;platform;Bus stop
+Frankfurt;4265229891;node;1;50,11212;8,68782;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3297187773;node;1;50,1121998;8,7336538;Kaiserleibr¸cke;bus_stop;platform;Bus stop
+Frankfurt;763106600;node;1;50,1122238;8,7142945;Osthafenplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;3220604294;node;1;50,1122432;8,6720509;Taunustor;bus_stop;platform;Bus stop
+Frankfurt;640549333;node;1;50,1122478;8,6881608;Bˆrneplatz;bus_stop;platform;Bus stop
+Frankfurt;760646151;node;1;50,1122566;8,6543331;Festhalle/Messe;tram_stop;stop_position;Tram Stop
+Frankfurt;117091111;node;1;50,1122942;8,6543147;Festhalle/Messe;tram_stop;stop_position;Tram Stop
+Frankfurt;4265262068;node;1;50,11231;8,68219;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;616049145;node;1;50,1123317;8,653716;Festhalle/Messe;bus_stop;platform;Bus stop
+Frankfurt;1153514868;node;1;50,1123463;8,6671126;;taxi;;Taxi
+Frankfurt;119696708;node;1;50,1123737;8,6875362;Bˆrneplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;762895131;node;1;50,1124014;8,6875222;Bˆrneplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;5208074066;node;1;50,112409;8,6873612;Bˆrneplatz;bus_stop;platform;Bus stop
+Frankfurt;31263709;node;1;50,1124459;8,7070817;Ostbahnhof;station;station;Subway Station
+Frankfurt;3700765891;node;1;50,1124821;8,6437862;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;560859559;node;1;50,1125016;8,6889103;Bˆrneplatz/Stoltzestraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1506876414;node;1;50,1125091;8,6970061;Ostendstraﬂe;station;station;Subway Station
+Frankfurt;3429385177;node;1;50,11251;8,6884575;Bˆrneplatz/Stoltzestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;632933173;node;1;50,1125779;8,6531637;;taxi;;Taxi
+Frankfurt;3428756219;node;1;50,1125814;8,6758583;Roﬂmarkt;bus_stop;platform;Bus stop
+Frankfurt;3409604897;node;1;50,112589;8,5384708;Alleehaus;bus_stop;platform;Bus stop
+Frankfurt;4257562970;node;1;50,1126179;8,6671649;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;2410196460;node;1;50,11263;8,70714;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1957545389;node;1;50,1126431;8,6900577;Bˆrneplatz/Stoltzestraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;392801015;node;1;50,1126604;8,6191303;Zum Rebstockbad;bus_stop;platform;Bus stop
+Frankfurt;3429385178;node;1;50,1127037;8,6888181;Bˆrneplatz/Stoltzestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618684881;node;1;50,1127198;8,6687498;Taunusanlage;bus_stop;platform;Bus stop
+Frankfurt;3302668133;node;1;50,1128441;8,700703;Zobelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;610919824;node;1;50,1128983;8,6189267;Zum Rebstockbad;bus_stop;platform;Bus stop
+Frankfurt;119696898;node;1;50,1129065;8,7012293;Zobelstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4265229892;node;1;50,11291;8,6787;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1154351436;node;1;50,1129291;8,6684424;Taunusanlage;bus_stop;platform;Bus stop
+Frankfurt;762484937;node;1;50,1129334;8,7012287;Zobelstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2963992807;node;1;50,1129805;8,6712145;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;634132209;node;1;50,1129888;8,6787206;;taxi;;Taxi
+Frankfurt;5217850720;node;1;50,1129906;8,6521137;Festhalle/Messe;tram_stop;stop_position;Tram Stop
+Frankfurt;475736377;node;1;50,1129913;8,6544673;Festhalle/Messe;bus_stop;platform;Bus stop
+Frankfurt;4257516012;node;1;50,1130062;8,6763818;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3431460916;node;1;50,113072;8,6980412;Ostendstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3302668134;node;1;50,1130733;8,7009925;Zobelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4265262069;node;1;50,1132;8,69231;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3431284360;node;1;50,1132051;8,6940224;Allerheiligentor;bus_stop;platform;Bus stop
+Frankfurt;4829633170;node;1;50,1132085;8,6276546;Leonardo-da-Vinci-Allee (nur zur Messe);bus_stop;;Bus stop
+Frankfurt;560389;node;1;50,1132713;8,7077083;Ostbahnhof/Danziger Platz;bus_stop;stop_position;Bus stop
+Frankfurt;2661523870;node;1;50,1132758;8,7095763;Frankfurt(Main)Ost;station;station;Subway Station
+Frankfurt;158694809;node;1;50,113278;8,6936158;Allerheiligentor;tram_stop;stop_position;Tram Stop
+Frankfurt;158694812;node;1;50,1132808;8,6971192;Ostendstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;634834608;node;1;50,1132861;8,671985;;taxi;;Taxi
+Frankfurt;418164069;node;1;50,1132943;8,5423067;Walter-Kolb-Schule;bus_stop;platform;Bus stop
+Frankfurt;762172651;node;1;50,1133074;8,6936063;Allerheiligentor;tram_stop;stop_position;Tram Stop
+Frankfurt;762484926;node;1;50,1133086;8,6971262;Ostendstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3211997919;node;1;50,1133707;8,5374071;Burgunderweg;bus_stop;platform;Bus stop
+Frankfurt;4434331723;node;1;50,1134249;8,6277125;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2974183043;node;1;50,1134382;8,6937608;Allerheiligentor;bus_stop;platform;Bus stop
+Frankfurt;2682026539;node;1;50,1134576;8,6269292;Leonardo-da-Vinci-Allee;tram_stop;stop_position;Tram Stop
+Frankfurt;2682026540;node;1;50,1134821;8,6269473;Leonardo-da-Vinci-Allee;tram_stop;stop_position;Tram Stop
+Frankfurt;1569296220;node;1;50,113577;8,6192931;Rebstockbad;bus_stop;platform;Bus stop
+Frankfurt;1569296168;node;1;50,1135832;8,6271119;Leonardo-da-Vinci-Allee;bus_stop;platform;Bus stop
+Frankfurt;4278407762;node;1;50,113588;8,6963585;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3302668131;node;1;50,113591;8,6955195;Ostendstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3428756222;node;1;50,1136008;8,6705293;Taunusanlage;bus_stop;platform;Bus stop
+Frankfurt;2184120369;node;1;50,1136334;8,5434419;Walter-Kolb-Schule;bus_stop;platform;Bus stop
+Frankfurt;30622742;node;1;50,113636;8,6689503;Taunusanlage;station;station;Subway Station
+Frankfurt;2682026543;node;1;50,1136503;8,619313;Rebstockbad;tram_stop;stop_position;Tram Stop
+Frankfurt;2682026544;node;1;50,1137127;8,6191804;Rebstockbad;tram_stop;stop_position;Tram Stop
+Frankfurt;2184120354;node;1;50,1137193;8,540569;Alemannenweg;bus_stop;platform;Bus stop
+Frankfurt;306362454;node;1;50,1137729;8,6887308;Sixt;car_rental;;Car rental
+Frankfurt;30049622;node;1;50,1137833;8,6792621;Hauptwache;station;station;Subway Station
+Frankfurt;392801019;node;1;50,1137856;8,649267;Ludwig-Erhard-Anlage;bus_stop;platform;Bus stop
+Frankfurt;4434331724;node;1;50,1138362;8,6230709;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1569296235;node;1;50,1138709;8,6197513;Rebstockbad;bus_stop;platform;Bus stop
+Frankfurt;203523413;node;1;50,1138833;8,7191854;Schwedlerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;5206159379;node;1;50,1139018;8,6281009;Leonardo-da-Vinci-Allee;bus_stop;platform;Bus stop
+Frankfurt;3693637601;node;1;50,1139215;8,6563079;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3693637600;node;1;50,1139439;8,6500691;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;760646153;node;1;50,1139554;8,6504116;Ludwig-Erhard-Anlage;tram_stop;stop_position;Tram Stop
+Frankfurt;433990853;node;1;50,1139756;8,6568336;Bettinaplatz;bus_stop;platform;Bus stop
+Frankfurt;503471638;node;1;50,1139968;8,6419363;Emser Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;392801021;node;1;50,1140005;8,6567262;Bettinaplatz;bus_stop;platform;Bus stop
+Frankfurt;1514365044;node;1;50,1140133;8,7079599;Ostbahnhof/Danziger Platz;bus_stop;platform;Bus stop
+Frankfurt;759424346;node;1;50,1140262;8,6783652;Hauptwache;station;station;Subway Station
+Frankfurt;763106640;node;1;50,1140798;8,7196853;Schwedlerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;117100180;node;1;50,1140988;8,6501592;Ludwig-Erhard-Anlage;tram_stop;stop_position;Tram Stop
+Frankfurt;5902639716;node;1;50,1141086;8,6789897;Hauptwache;station;station;Subway Station
+Frankfurt;269600739;node;1;50,1141142;8,6786876;;taxi;;Taxi
+Frankfurt;3700767234;node;1;50,1141414;8,6458866;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3693637602;node;1;50,1141663;8,6866232;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3417784723;node;1;50,1141913;8,534749;Hans-Bˆckler-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3417784724;node;1;50,1141929;8,534405;Hans-Bˆckler-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;503471636;node;1;50,1142011;8,6433612;Emser Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5119988242;node;1;50,1142089;8,6763533;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;763176300;node;1;50,1142709;8,6878444;Konstablerwache;tram_stop;stop_position;Tram Stop
+Frankfurt;640507073;node;1;50,1143192;8,6878168;Konstablerwache;bus_stop;platform;Bus stop
+Frankfurt;633166677;node;1;50,1143334;8,6794806;;taxi;;Taxi
+Frankfurt;366992341;node;1;50,1144588;8,5557879;Sossenheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;433990852;node;1;50,1144855;8,6354276;Philipp-Reis-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;763176249;node;1;50,114492;8,6878891;Konstablerwache;tram_stop;stop_position;Tram Stop
+Frankfurt;392801007;node;1;50,1145058;8,5482788;Friedhof Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;2132600804;node;1;50,1145135;8,5484673;Friedhof Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;5912274447;node;1;50,1145548;8,6862033;Konstablerwache;station;station;Subway Station
+Frankfurt;491077174;node;1;50,1145626;8,687905;Konstablerwache;bus_stop;platform;Bus stop
+Frankfurt;3220604287;node;1;50,1145651;8,6725607;Freﬂgass;bus_stop;platform;Bus stop
+Frankfurt;778708666;node;1;50,114644;8,6860299;Konstablerwache;station;station;Subway Station
+Frankfurt;2640028026;node;1;50,1146917;8,5482066;Friedhof Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;2968368858;node;1;50,1147291;8,5477586;Friedhof Hˆchst;bus_stop;platform;Bus stop
+Frankfurt;5912274448;node;1;50,1147323;8,6862295;Konstablerwache;station;station;Subway Station
+Frankfurt;2640028044;node;1;50,1147571;8,5365683;Engelsruhe;bus_stop;platform;Bus stop
+Frankfurt;4257528547;node;1;50,1147927;8,6875898;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;4257528549;node;1;50,1148242;8,6725612;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;795877443;node;1;50,1149045;8,6766904;;taxi;;Taxi
+Frankfurt;392801020;node;1;50,1149056;8,6362497;Philipp-Reis-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1659010484;node;1;50,1149277;8,7636532;Dieburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776640;node;1;50,1149297;8,556561;Sossenheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;30947992;node;1;50,1149359;8,5536044;Sossenheim;station;;Subway Station
+Frankfurt;5912274449;node;1;50,1149772;8,6876403;Konstablerwache;station;station;Subway Station
+Frankfurt;611363878;node;1;50,1150044;8,6879628;Konstablerwache;bus_stop;platform;Bus stop
+Frankfurt;1659010497;node;1;50,1150399;8,7636432;Dieburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4265229893;node;1;50,1151;8,67231;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2973030460;node;1;50,115121;8,7231292;Union-Gel‰nde;bus_stop;platform;Bus stop
+Frankfurt;1548514418;node;1;50,1152564;8,7686487;Starkenburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3404239112;node;1;50,1152738;8,6292095;Katharinenkreisel;bus_stop;platform;Bus stop
+Frankfurt;2973030461;node;1;50,1153021;8,7230092;Union-Gel‰nde;bus_stop;platform;Bus stop
+Frankfurt;30353880;node;1;50,1153052;8,6712366;Alte Oper;station;station;Subway Station
+Frankfurt;760646095;node;1;50,1153189;8,6473106;Varrentrappstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4257528550;node;1;50,1153434;8,6711479;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3302668135;node;1;50,115354;8,6983885;Zoo;bus_stop;platform;Bus stop
+Frankfurt;1195530621;node;1;50,115366;8,687493;Intalnire;taxi;;Taxi
+Frankfurt;117100178;node;1;50,11538;8,6472426;Varrentrappstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548514420;node;1;50,1153943;8,7687672;Starkenburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3617360993;node;1;50,1153975;8,6473268;tram;bicycle_rental;;Bicycle Rental
+Frankfurt;2682026568;node;1;50,1154383;8,6992958;Zoo;tram_stop;stop_position;Tram Stop
+Frankfurt;5912274446;node;1;50,1154467;8,6986254;Zoo;station;station;Subway Station
+Frankfurt;2682026569;node;1;50,1154658;8,6992872;Zoo;tram_stop;stop_position;Tram Stop
+Frankfurt;846572789;node;1;50,1154771;8,698244;;taxi;;Taxi
+Frankfurt;3700765890;node;1;50,1154852;8,6428098;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;392801009;node;1;50,1155547;8,5562736;Sossenheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;2184120361;node;1;50,1156193;8,5391011;Alemannenweg;bus_stop;platform;Bus stop
+Frankfurt;3428756213;node;1;50,1156828;8,6692855;Alte Oper;bus_stop;platform;Bus stop
+Frankfurt;392801008;node;1;50,1156897;8,5566713;Sossenheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;31263382;node;1;50,1157582;8,6983699;Zoo;tram_stop;station;Tram Stop
+Frankfurt;2619090819;node;1;50,1157675;8,6711052;Alte Oper;bus_stop;platform;Bus stop
+Frankfurt;3431284368;node;1;50,1157799;8,6972157;Zoo;bus_stop;platform;Bus stop
+Frankfurt;3738845458;node;1;50,1157867;8,72572;Starcar;car_rental;;Car rental
+Frankfurt;1777255786;node;1;50,1158939;8,7284445;AVIS;car_rental;;Car rental
+Frankfurt;311620211;node;1;50,1159048;8,6712646;Opernplatz;taxi;;Taxi
+Frankfurt;392801018;node;1;50,1159385;8,6302557;Katharinenkreisel;bus_stop;platform;Bus stop
+Frankfurt;659993053;node;1;50,1159415;8,6916488;Friedberger Anlage;bus_stop;platform;Bus stop
+Frankfurt;2408182360;node;1;50,11595;8,69882;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;618684886;node;1;50,1161261;8,6707836;Alte Oper;bus_stop;platform;Bus stop
+Frankfurt;3291428491;node;1;50,1161749;8,6977655;Zoo;bus_stop;platform;Bus stop
+Frankfurt;433990854;node;1;50,1161755;8,6582852;Kettenhofweg;bus_stop;platform;Bus stop
+Frankfurt;3431284364;node;1;50,1162385;8,6946013;Friedberger Anlage;bus_stop;platform;Bus stop
+Frankfurt;1548446271;node;1;50,1163248;8,7611159;Carl-Benz-Straﬂe S¸d;bus_stop;platform;Bus stop
+Frankfurt;5544448577;node;1;50,1163673;8,7271891;T2R Time 2 Rent;car_rental;;Car rental
+Frankfurt;2184120368;node;1;50,1163902;8,5411499;Cheruskerweg;bus_stop;platform;Bus stop
+Frankfurt;1548446272;node;1;50,1164972;8,7611207;Carl-Benz-Straﬂe S¸d;bus_stop;platform;Bus stop
+Frankfurt;2973030458;node;1;50,1165012;8,7271383;Riederhˆfe;bus_stop;platform;Bus stop
+Frankfurt;392801022;node;1;50,1165503;8,6583144;Kettenhofweg;bus_stop;platform;Bus stop
+Frankfurt;2973030459;node;1;50,1165735;8,7267695;Riederhˆfe;bus_stop;platform;Bus stop
+Frankfurt;2289464586;node;1;50,1167571;8,6801165;Europcar;car_rental;;Car rental
+Frankfurt;513477758;node;1;50,1167585;8,7087317;Habsburgerallee;bus_stop;platform;Bus stop
+Frankfurt;340291653;node;1;50,1168488;8,6388727;;taxi;;Taxi
+Frankfurt;762085730;node;1;50,1168529;8,6438423;Nauheimer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4257528548;node;1;50,1168552;8,6791854;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;2682026573;node;1;50,1168561;8,6407676;Kuhwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;117100181;node;1;50,1168562;8,6439008;Nauheimer Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1781544606;node;1;50,1168566;8,6673908;Niedenau;bus_stop;platform;Bus stop
+Frankfurt;2682026574;node;1;50,116895;8,6405756;Kuhwaldstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;392776638;node;1;50,1168971;8,5617054;Am Kapellenberg;bus_stop;platform;Bus stop
+Frankfurt;1524429562;node;1;50,116941;8,6530553;Senckenbergmuseum;bus_stop;platform;Bus stop
+Frankfurt;5912274445;node;1;50,1170421;8,7079003;Habsburgerallee;station;station;Subway Station
+Frankfurt;4257562971;node;1;50,1170445;8,6660409;Nextbike-Station;bicycle_rental;;Bicycle Rental
+Frankfurt;3473158672;node;1;50,1170627;8,6711303;Alte Oper;bus_stop;platform;Bus stop
+Frankfurt;3404674647;node;1;50,1170892;8,6803438;Eschenheimer Tor;bus_stop;platform;Bus stop
+Frankfurt;366988253;node;1;50,117213;8,5623244;Am Kapellenberg;bus_stop;platform;Bus stop
+Frankfurt;1548514407;node;1;50,1172409;8,7704779;B¸rgeler Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3391401027;node;1;50,1172466;8,6310353;An der Dammheide;tram_stop;stop_position;Tram Stop
+Frankfurt;3391401028;node;1;50,11727;8,6310384;An der Dammheide;tram_stop;stop_position;Tram Stop
+Frankfurt;763106607;node;1;50,117281;8,7286009;Riederhˆfe;tram_stop;stop_position;Tram Stop
+Frankfurt;203523423;node;1;50,1173228;8,7287589;Riederhˆfe;tram_stop;stop_position;Tram Stop
+Frankfurt;1524429568;node;1;50,1173291;8,6523501;Senckenbergmuseum;bus_stop;platform;Bus stop
+Frankfurt;30049623;node;1;50,1173865;8,679264;Eschenheimer Tor;station;station;Subway Station
+Frankfurt;1781001259;node;1;50,1173962;8,6658581;Wˆhlerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;31263703;node;1;50,1173972;8,7082287;Habsburgerallee;tram_stop;station;Tram Stop
+Frankfurt;2408180771;node;1;50,11751;8,70855;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3775019059;node;1;50,1175365;8,649145;"CityFlitzer Spot ""Gr‰fstraﬂe 45""";car_sharing;;Car Sharing
+Frankfurt;366988263;node;1;50,1177296;8,5563431;Dunantring;bus_stop;platform;Bus stop
+Frankfurt;3217158526;node;1;50,1177769;8,6781324;Eschenheimer Tor;bus_stop;platform;Bus stop
+Frankfurt;1548514408;node;1;50,1178153;8,7707045;B¸rgeler Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1781544607;node;1;50,1178266;8,6835958;Peterskirche;bus_stop;platform;Bus stop
+Frankfurt;742740108;node;1;50,1179266;8,7585036;Siemens-Werk;bus_stop;platform;Bus stop
+Frankfurt;763157967;node;1;50,1179887;8,7015352;Waldschmidtstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;513477756;node;1;50,118007;8,7079816;Habsburgerallee;bus_stop;platform;Bus stop
+Frankfurt;1781544610;node;1;50,118035;8,6630648;Westend;bus_stop;platform;Bus stop
+Frankfurt;1781001256;node;1;50,1180406;8,663434;Westend;bus_stop;platform;Bus stop
+Frankfurt;640549347;node;1;50,1181504;8,6870693;Alte Gasse;bus_stop;platform;Bus stop
+Frankfurt;30353879;node;1;50,118164;8,6625889;Westend;station;station;Subway Station
+Frankfurt;3775019067;node;1;50,1182608;8,6441421;"CityFlitzer Spot ""Schloﬂstraﬂe 88-90""";car_sharing;;Car Sharing
+Frankfurt;1548446284;node;1;50,1183599;8,7580763;Siemens-Werk;bus_stop;platform;Bus stop
+Frankfurt;442891828;node;1;50,1184497;8,6797675;Eschenheimer Tor;bus_stop;platform;Bus stop
+Frankfurt;968695445;node;1;50,1184664;8,6642225;;taxi;;Taxi
+Frankfurt;763157957;node;1;50,1184864;8,7018997;Waldschmidtstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548571707;node;1;50,1185697;8,7737745;M¸hlheimer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2264736400;node;1;50,1186111;8,6518645;DB CallaBike Station;bicycle_rental;;Bicycle Rental
+Frankfurt;433990855;node;1;50,1186349;8,659704;Schubertstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;742861369;node;1;50,1186683;8,6236316;Postsiedlung;bus_stop;platform;Bus stop
+Frankfurt;760625016;node;1;50,1187372;8,6441314;Adalbert-/Schloﬂstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763176122;node;1;50,1187635;8,6891658;Hessendenkmal;tram_stop;stop_position;Tram Stop
+Frankfurt;614989325;node;1;50,1188759;8,6406207;Westbahnhof;bus_stop;platform;Bus stop
+Frankfurt;3775019068;node;1;50,1188791;8,6402741;"CityFlitzer Spot ""Westbahnhof""";car_sharing;;Car Sharing
+Frankfurt;742829980;node;1;50,1188857;8,6237742;Postsiedlung;bus_stop;platform;Bus stop
+Frankfurt;966094807;node;1;50,1188884;8,6402621;3xH&W - Westbahnhof;car_sharing;;Car Sharing
+Frankfurt;392801023;node;1;50,1189034;8,6595243;Schubertstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;158695644;node;1;50,1189042;8,6893611;Hessendenkmal;tram_stop;stop_position;Tram Stop
+Frankfurt;2723802930;node;1;50,1189446;8,640502;Westbahnhof;bus_stop;platform;Bus stop
+Frankfurt;455278633;node;1;50,1191398;8,6398872;Frankfurt (Main) West;station;station;Subway Station
+Frankfurt;1781544604;node;1;50,1191873;8,6444974;Adalbert-/Schloﬂstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;614877751;node;1;50,1192275;8,6534649;Bockenheimer Warte;station;station;Subway Station
+Frankfurt;2683735879;node;1;50,119273;8,6893839;Hessendenkmal;bus_stop;platform;Bus stop
+Frankfurt;3404674665;node;1;50,119285;8,6844798;Unterweg;bus_stop;platform;Bus stop
+Frankfurt;559189;node;1;50,1193072;8,6445911;Adalbert-/Schloﬂstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;623539169;node;1;50,1193138;8,6487869;;car_sharing;;Car Sharing
+Frankfurt;1586670761;node;1;50,1193316;8,6429326;Adalbert-/Schloﬂstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1781001225;node;1;50,119439;8,6447781;Adalbert-/Schloﬂstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4385231123;node;1;50,1194879;8,6540422;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;5243985828;node;1;50,1195122;8,6535285;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;2023091195;node;1;50,1195207;8,6519106;KFZ-Referat Autovermietung;car_rental;;Car rental
+Frankfurt;610312623;node;1;50,1195263;8,6397562;Westbahnhof;bus_stop;platform;Bus stop
+Frankfurt;443917162;node;1;50,1195785;8,6573082;Palmengartenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776636;node;1;50,1196285;8,5666481;Sossenheimer Kirchberg;bus_stop;platform;Bus stop
+Frankfurt;366988244;node;1;50,1196375;8,5664596;Sossenheimer Kirchberg;bus_stop;platform;Bus stop
+Frankfurt;640549380;node;1;50,1196478;8,6874827;Scheffeleck;bus_stop;platform;Bus stop
+Frankfurt;433990856;node;1;50,1196967;8,6573324;Palmengartenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;742752436;node;1;50,1196968;8,7552012;Robert-Bosch-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1515267963;node;1;50,1197813;8,7049401;Habsburger / Wittelsbacher Allee;bus_stop;platform;Bus stop
+Frankfurt;1548514409;node;1;50,1198131;8,7718171;Einbiglerweg;bus_stop;platform;Bus stop
+Frankfurt;2723802937;node;1;50,1198825;8,6391303;Westbahnhof;bus_stop;platform;Bus stop
+Frankfurt;760458315;node;1;50,1199478;8,6949166;Merianplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;4385231256;node;1;50,1199484;8,6521826;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;5295358548;node;1;50,1199487;8,6949158;Merianplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;5912341583;node;1;50,1199769;8,6950815;Merianplatz;station;station;Subway Station
+Frankfurt;1548514412;node;1;50,1199886;8,7725744;Friedhof Fechenheim;bus_stop;platform;Bus stop
+Frankfurt;1548514413;node;1;50,1200083;8,7727968;Friedhof Fechenheim;bus_stop;platform;Bus stop
+Frankfurt;2526842297;node;1;50,1200108;8,651817;;taxi;;Taxi
+Frankfurt;29271568;node;1;50,1200336;8,6527636;Bockenheimer Warte;station;station;Subway Station
+Frankfurt;2408179318;node;1;50,12004;8,70519;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1517129356;node;1;50,1200608;8,7037214;Habsburger / Wittelsbacher Allee;bus_stop;platform;Bus stop
+Frankfurt;31263704;node;1;50,120065;8,7135633;Parlamentsplatz;station;station;Subway Station
+Frankfurt;967680925;node;1;50,1201874;8,6957499;;taxi;;Taxi
+Frankfurt;1517129353;node;1;50,1201939;8,7058001;Habsburger / Wittelsbacher Allee;bus_stop;platform;Bus stop
+Frankfurt;614877778;node;1;50,1201975;8,6541679;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;2939749861;node;1;50,1202418;8,6871854;;taxi;;Taxi
+Frankfurt;1548446283;node;1;50,1202443;8,7539664;Robert-Bosch-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3465553065;node;1;50,1202848;8,6905054;Hessendenkmal;bus_stop;platform;Bus stop
+Frankfurt;5243985120;node;1;50,1202858;8,6513724;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;3404674646;node;1;50,1203173;8,6677957;Eppsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735912;node;1;50,120346;8,705918;Habsburger / Wittelsbacher Allee;tram_stop;stop_position;Tram Stop
+Frankfurt;1548514410;node;1;50,1203533;8,7722908;Einbiglerweg;bus_stop;platform;Bus stop
+Frankfurt;2683735913;node;1;50,1203687;8,7058835;Habsburger / Wittelsbacher Allee;tram_stop;stop_position;Tram Stop
+Frankfurt;2671760132;node;1;50,1203994;8,6963099;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2951438333;node;1;50,120474;8,714543;;taxi;;Taxi
+Frankfurt;437364929;node;1;50,1205201;8,7145351;44 K3;taxi;;Taxi
+Frankfurt;618684890;node;1;50,1206516;8,6705164;Kronberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1130974281;node;1;50,1207031;8,7046988;Habsburger / Wittelsbacher Allee;bus_stop;platform;Bus stop
+Frankfurt;729610520;node;1;50,12081;8,6223432;Europcar;car_rental;;Car rental
+Frankfurt;1781001228;node;1;50,1208491;8,6654418;Altkˆnigstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2682026585;node;1;50,1208594;8,6507381;Bockenheimer Warte;tram_stop;stop_position;Tram Stop
+Frankfurt;2682026586;node;1;50,1208652;8,6506939;Bockenheimer Warte;tram_stop;stop_position;Tram Stop
+Frankfurt;1586670762;node;1;50,1208774;8,640345;Kurf¸rstenplatz;bus_stop;platform;Bus stop
+Frankfurt;1586670763;node;1;50,1208789;8,6401402;Kurf¸rstenplatz;bus_stop;platform;Bus stop
+Frankfurt;1548514416;node;1;50,1209059;8,7713008;Schieﬂh¸ttenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3979849923;node;1;50,1210825;8,6509856;Bockenheimer Warte;bus_stop;platform;Bus stop
+Frankfurt;742750523;node;1;50,1211388;8,7508114;Carl-Benz-Straﬂe Nord;bus_stop;platform;Bus stop
+Frankfurt;3412616440;node;1;50,1211574;8,6706115;Kronberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767184;node;1;50,1212936;8,6206686;Sternbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;763120166;node;1;50,1212967;8,7737094;Schieﬂh¸ttenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;760309040;node;1;50,1213221;8,6861696;Musterschule;tram_stop;stop_position;Tram Stop
+Frankfurt;392767183;node;1;50,1213264;8,6272612;Birkenweg;bus_stop;platform;Bus stop
+Frankfurt;618448730;node;1;50,1213955;8,6207222;Sternbr¸cke;bus_stop;platform;Bus stop
+Frankfurt;431016815;node;1;50,1214523;8,6508181;Falkstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;771410347;node;1;50,1214554;8,6550034;Papageno-Theater;halt;platform;Train Station
+Frankfurt;1781001253;node;1;50,1214835;8,6593343;Siesmayerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548514417;node;1;50,1215224;8,7721211;Schieﬂh¸ttenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618448734;node;1;50,1215503;8,6275927;Birkenweg;bus_stop;platform;Bus stop
+Frankfurt;3404674643;node;1;50,1216021;8,680325;Bornwiesenweg;bus_stop;platform;Bus stop
+Frankfurt;392767185;node;1;50,1217718;8,6157823;Parkweg;bus_stop;platform;Bus stop
+Frankfurt;3404674644;node;1;50,1217778;8,6805187;Bornwiesenweg;bus_stop;platform;Bus stop
+Frankfurt;3017150053;node;1;50,1218744;8,7490877;Carl-Benz-Straﬂe Nord;bus_stop;platform;Bus stop
+Frankfurt;1548555439;node;1;50,1218955;8,769423;Pfortenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767186;node;1;50,1218991;8,614839;Parkweg;bus_stop;platform;Bus stop
+Frankfurt;5902639718;node;1;50,1219063;8,6757021;Gr¸neburgweg;station;station;Subway Station
+Frankfurt;763157956;node;1;50,1219778;8,7098076;Freiligrathstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1781001232;node;1;50,1219865;8,6618216;Feldbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;29988029;node;1;50,1219933;8,6757346;Gr¸neburgweg;halt;stop_position;Train Station
+Frankfurt;755862829;node;1;50,1219958;8,675695;Gr¸neburgweg;halt;stop_position;Train Station
+Frankfurt;158697809;node;1;50,1219986;8,7097845;Freiligrathstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548571703;node;1;50,1221148;8,766828;Mittelseestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773167038;node;1;50,1221178;8,5665175;Sossenheim Volkshaus;bus_stop;platform;Bus stop
+Frankfurt;2962596187;node;1;50,1221222;8,7397169;Daimlerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;119755952;node;1;50,1221225;8,7728677;Schieﬂh¸ttenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4009185163;node;1;50,1221348;8,7393166;Daimlerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548446269;node;1;50,1221915;8,7514561;Carl-Benz-Straﬂe Nord;bus_stop;platform;Bus stop
+Frankfurt;1517129348;node;1;50,1222577;8,7099577;Freiligrathstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548555446;node;1;50,1222904;8,7702576;Pfortenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1517129341;node;1;50,1222964;8,710785;Freiligrathstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548571705;node;1;50,1223363;8,7669251;Mittelseestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776622;node;1;50,1223902;8,6000297;In der Au;bus_stop;platform;Bus stop
+Frankfurt;2408180480;node;1;50,12247;8,69663;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2053119303;node;1;50,122479;8,5663378;Sossenheim Volkshaus;bus_stop;platform;Bus stop
+Frankfurt;638559757;node;1;50,1224876;8,7018212;Hˆhenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776623;node;1;50,1225662;8,599069;In der Au;bus_stop;;Bus stop
+Frankfurt;392776625;node;1;50,1225775;8,5949461;Gaugrafenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392458341;node;1;50,12259;8,741325;Europcar 24;car_rental;;Car rental
+Frankfurt;30606376;node;1;50,1226251;8,6455438;Leipziger Straﬂe;station;station;Subway Station
+Frankfurt;2962596188;node;1;50,1226379;8,740211;Daimlerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1140517647;node;1;50,1226405;8,7468384;Hertz;car_rental;;Car rental
+Frankfurt;203523438;node;1;50,1226603;8,7406807;Daimlerstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3704919291;node;1;50,1226689;8,6456601;Call a Bike U-Bahnstation Leipziger Straﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;366985362;node;1;50,1227742;8,568716;Westerwaldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767181;node;1;50,1228018;8,6320873;Kasernenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5912341584;node;1;50,1228696;8,7012626;Hˆhenstraﬂe;station;station;Subway Station
+Frankfurt;2408176258;node;1;50,1228815;8,7012399;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;119763907;node;1;50,1229292;8,6915958;Friedberger Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;760458235;node;1;50,1229683;8,7013401;Hˆhenstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;392776634;node;1;50,1229919;8,5695687;Westerwaldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4278410724;node;1;50,1230228;8,6920567;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;616775405;node;1;50,123173;8,6585045;Siesmayerstraﬂe (Palmengarten);bus_stop;platform;Bus stop
+Frankfurt;392767182;node;1;50,1232008;8,632909;Kasernenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618684892;node;1;50,1232524;8,6700634;Bremer Platz;bus_stop;platform;Bus stop
+Frankfurt;266893400;node;1;50,1232819;8,7014435;Hˆhenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1781544609;node;1;50,1233141;8,6653344;Mitscherlichplatz;bus_stop;platform;Bus stop
+Frankfurt;3403437334;node;1;50,123321;8,5874562;Wilhelm-Fay-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2404032612;node;1;50,123387;8,6926863;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;5208493660;node;1;50,1234032;8,7171458;Eissporthalle/Festplatz;bus_stop;platform;Bus stop
+Frankfurt;1586670764;node;1;50,123533;8,6361127;Schˆnhof;bus_stop;platform;Bus stop
+Frankfurt;392776629;node;1;50,1235442;8,5778164;Haigerer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735920;node;1;50,1235475;8,7168988;Eissporthalle/Festplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;3403437337;node;1;50,12357;8,5873592;Wilhelm-Fay-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2601057057;node;1;50,1236018;8,5784702;Haigerer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2962596189;node;1;50,123625;8,7434919;Dieselstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735921;node;1;50,1236424;8,7166279;Eissporthalle/Festplatz;tram_stop;stop_position;Tram Stop
+Frankfurt;616813861;node;1;50,1236612;8,6651773;Mitscherlichplatz;bus_stop;platform;Bus stop
+Frankfurt;2410199865;node;1;50,12367;8,71724;Call a Bike Saalburgallee/ Kettelerallee;bicycle_rental;;Bicycle Rental
+Frankfurt;392776626;node;1;50,1236714;8,5807542;Westerbachsiedlung;bus_stop;platform;Bus stop
+Frankfurt;5208521863;node;1;50,123712;8,7449074;Dieselstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;514897445;node;1;50,1237284;8,6061504;;taxi;;Taxi
+Frankfurt;3406874274;node;1;50,1237412;8,7555279;Adam-Opel-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;763176177;node;1;50,1238054;8,691725;Friedberger Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;366985363;node;1;50,1238072;8,5806613;Westerbachsiedlung;bus_stop;platform;Bus stop
+Frankfurt;1550004387;node;1;50,1238168;8,716535;Eissporthalle/Festplatz;bus_stop;platform;Bus stop
+Frankfurt;514897436;node;1;50,123844;8,5893374;Buchbinder;car_rental;;Car rental
+Frankfurt;3406874275;node;1;50,1238477;8,7554002;Adam-Opel-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2522610166;node;1;50,1239091;8,6075225;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;1545590985;node;1;50,1239374;8,5716755;Carl-Sonnenschein-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;610301938;node;1;50,1239475;8,6064563;Rˆdelheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;392776631;node;1;50,1239513;8,5726268;Carl-Sonnenschein-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1207027788;node;1;50,1239649;8,6656788;Taxi Point;taxi;;Taxi
+Frankfurt;655181553;node;1;50,1239756;8,6447886;;car_sharing;;Car Sharing
+Frankfurt;618684893;node;1;50,1240039;8,6697023;Bremer Platz;bus_stop;platform;Bus stop
+Frankfurt;1924888989;node;1;50,1240077;8,7448337;Sixt;car_rental;;Car rental
+Frankfurt;3404674637;node;1;50,1240435;8,6813134;Adlerflychtplatz;bus_stop;platform;Bus stop
+Frankfurt;1548571695;node;1;50,1240718;8,7656839;Bodenseestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392776620;node;1;50,1240807;8,6065258;Rˆdelheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;772800503;node;1;50,124084;8,6688175;Uni Campus Westend;bus_stop;platform;Bus stop
+Frankfurt;1569149952;node;1;50,1240863;8,636463;Schˆnhof;bus_stop;platform;Bus stop
+Frankfurt;3404674638;node;1;50,1241086;8,6814813;Adlerflychtplatz;bus_stop;platform;Bus stop
+Frankfurt;620897863;node;1;50,1241334;8,5963351;Gaugrafenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;763157996;node;1;50,1241594;8,7128602;Saalburg-/Wittelsbacherallee;tram_stop;stop_position;Tram Stop
+Frankfurt;616813862;node;1;50,1242145;8,668345;Uni Campus Westend;bus_stop;platform;Bus stop
+Frankfurt;3406107594;node;1;50,1242172;8,6077406;Rˆdelheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;31263705;node;1;50,1242674;8,7180761;Eissporthalle/Festplatz;station;station;Subway Station
+Frankfurt;2413718388;node;1;50,124286;8,6976796;Call a Bike Martin-Luther-Straﬂe/ Burgstraﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;2989654768;node;1;50,1243257;8,7125171;Saalburg-/Wittelsbacherallee;bus_stop;platform;Bus stop
+Frankfurt;1548571696;node;1;50,1243504;8,7647968;Bodenseestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548571702;node;1;50,1243608;8,7619844;Max-Eyth-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;203523452;node;1;50,1243882;8,7448063;Dieselstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;772800497;node;1;50,1244008;8,671246;Bremer Platz;bus_stop;platform;Bus stop
+Frankfurt;763113643;node;1;50,1244081;8,7447789;Dieselstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4373239248;node;1;50,1244113;8,6073066;Frankfurt-Rˆdelheim;station;;Subway Station
+Frankfurt;392767188;node;1;50,1244178;8,6120648;Alt-Rˆdelheim;bus_stop;platform;Bus stop
+Frankfurt;392767187;node;1;50,1244271;8,6119098;Alt-Rˆdelheim;bus_stop;platform;Bus stop
+Frankfurt;763158001;node;1;50,1244724;8,713767;Saalburg-/Wittelsbacherallee;tram_stop;stop_position;Tram Stop
+Frankfurt;772800489;node;1;50,1244881;8,6710523;Bremer Platz;bus_stop;platform;Bus stop
+Frankfurt;742753967;node;1;50,1245073;8,6349862;Schˆnhof;bus_stop;platform;Bus stop
+Frankfurt;2294704778;node;1;50,1246296;8,6075473;;taxi;;Taxi
+Frankfurt;2637685845;node;1;50,1246526;8,658299;Jugendverkehrsgarten;halt;;Train Station
+Frankfurt;119731966;node;1;50,1247431;8,7137129;Saalburg-/Wittelsbacherallee;tram_stop;stop_position;Tram Stop
+Frankfurt;119717299;node;1;50,1247523;8,7127248;Saalburg-/Wittelsbacherallee;tram_stop;stop_position;Tram Stop
+Frankfurt;2408177432;node;1;50,12477;8,71349;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3775019057;node;1;50,1248128;8,6837213;"CityFlitzer Spot ""Humboldtstraﬂe 37""";car_sharing;;Car Sharing
+Frankfurt;1548514404;node;1;50,1248133;8,7680694;Baumertstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;6058679861;node;1;50,1249126;8,718448;Eissporthalle Nordeingang;bus_stop;platform;Bus stop
+Frankfurt;3404674655;node;1;50,1249173;8,6730476;Lessing-Gymnasium;bus_stop;platform;Bus stop
+Frankfurt;5208433481;node;1;50,1250006;8,7115407;Saalburg-/Wittelsbacherallee;bus_stop;platform;Bus stop
+Frankfurt;119756100;node;1;50,1250326;8,7698618;Arthur-von-Weinberg-Steg;tram_stop;stop_position;Tram Stop
+Frankfurt;1643986232;node;1;50,1250326;8,7123443;Saalburg-/Wittelsbacherallee;bus_stop;platform;Bus stop
+Frankfurt;763120480;node;1;50,1250406;8,7699034;Arthur-von-Weinberg-Steg;tram_stop;stop_position;Tram Stop
+Frankfurt;3704919290;node;1;50,1250597;8,6372822;Call a Bike Fritzlarer Straﬂe / Kirchplatz;bicycle_rental;;Bicycle Rental
+Frankfurt;1569149943;node;1;50,1250847;8,6375368;Kirchplatz;bus_stop;platform;Bus stop
+Frankfurt;1437758919;node;1;50,1250928;8,6108518;Radilostraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3428756215;node;1;50,125213;8,646481;Juliusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30096205;node;1;50,1252224;8,6373458;Kirchplatz;station;station;Subway Station
+Frankfurt;3217158528;node;1;50,1253148;8,646607;Juliusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4465581389;node;1;50,1253383;8,6919506;;bicycle_rental;;Bicycle Rental
+Frankfurt;4066465426;node;1;50,1253597;8,6378221;;taxi;;Taxi
+Frankfurt;1437810337;node;1;50,1253618;8,6379623;Kirchplatz;bus_stop;stop_position;Bus stop
+Frankfurt;3405688349;node;1;50,1254654;8,6094223;Lorscher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;760656565;node;1;50,1255069;8,6469573;Juliusstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;760656552;node;1;50,1255334;8,6470138;Juliusstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;773167115;node;1;50,1255518;8,56558;Friedhof Sossenheim;bus_stop;platform;Bus stop
+Frankfurt;1548514405;node;1;50,1255916;8,7687347;Baumertstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;773167124;node;1;50,1255929;8,5654244;Friedhof Sossenheim;bus_stop;platform;Bus stop
+Frankfurt;3405272993;node;1;50,125879;8,6538784;Botanischer Garten;bus_stop;platform;Bus stop
+Frankfurt;771410368;node;1;50,1259146;8,6559495;Spielwiese;halt;stop_position;Train Station
+Frankfurt;1649025669;node;1;50,1259184;8,7160726;Ernst-May-Platz;bus_stop;platform;Bus stop
+Frankfurt;2974252174;node;1;50,1259532;8,7611323;Leo-Gans-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4111711989;node;1;50,1259875;8,7159618;Ernst-May-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;2974252173;node;1;50,1260327;8,7610469;Leo-Gans-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4078384832;node;1;50,1260712;8,6265827;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;5912341585;node;1;50,126098;8,7077502;Bornheim Mitte;station;station;Subway Station
+Frankfurt;29271744;node;1;50,1261131;8,7076981;Bornheim Mitte;halt;stop_position;Train Station
+Frankfurt;760458240;node;1;50,1261136;8,7076973;Bornheim Mitte;halt;stop_position;Train Station
+Frankfurt;1548571698;node;1;50,1261164;8,7651607;Jacobsbrunnenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3209346529;node;1;50,1261311;8,6845592;;car_sharing;;Car Sharing
+Frankfurt;763113676;node;1;50,126152;8,7541555;Hugo-Junkers-Straﬂe/Schleife;tram_stop;stop_position;Tram Stop
+Frankfurt;1550004376;node;1;50,1261967;8,7082579;Bornheim Mitte;bus_stop;platform;Bus stop
+Frankfurt;412309750;node;1;50,1262128;8,6289799;;taxi;;Taxi
+Frankfurt;763176325;node;1;50,1262381;8,708374;Bornheim Mitte;tram_stop;stop_position;Tram Stop
+Frankfurt;3405272994;node;1;50,1263353;8,6545577;Botanischer Garten;bus_stop;platform;Bus stop
+Frankfurt;3135797964;node;1;50,1263543;8,6052565;Kirschbaumweg;bus_stop;platform;Bus stop
+Frankfurt;3403720695;node;1;50,1264026;8,5865546;Heinrich-Hopf-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;616813863;node;1;50,1264946;8,6708555;Bremer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;763176327;node;1;50,1264957;8,7077263;Bornheim Mitte;tram_stop;stop_position;Tram Stop
+Frankfurt;1580431100;node;1;50,1265163;8,6725002;Holzhausenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1550004382;node;1;50,1265274;8,7078349;Bornheim Mitte;bus_stop;platform;Bus stop
+Frankfurt;5542474156;node;1;50,1265548;8,7163931;Ernst-May-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;1580431101;node;1;50,1265553;8,6733187;Holzhausenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618684894;node;1;50,126559;8,6712381;Bremer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;755862844;node;1;50,1265725;8,6738022;Holzhausenstraﬂe;halt;stop_position;Train Station
+Frankfurt;29824290;node;1;50,1265787;8,6738382;Holzhausenstraﬂe;halt;stop_position;Train Station
+Frankfurt;5902639719;node;1;50,1266038;8,6738022;Holzhausenstraﬂe;station;station;Subway Station
+Frankfurt;2520705226;node;1;50,126619;8,7074003;;taxi;;Taxi
+Frankfurt;5208167966;node;1;50,1266529;8,6919825;Rohrbachstraﬂe / Friedberger Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548571699;node;1;50,1266943;8,7651823;Jacobsbrunnenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735877;node;1;50,1267444;8,6976322;G¸nthersburgallee;bus_stop;platform;Bus stop
+Frankfurt;1548571701;node;1;50,1268488;8,765122;Jacobsbrunnenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1483604354;node;1;50,126893;8,6822585;;taxi;;Taxi
+Frankfurt;300891871;node;1;50,1269632;8,6963742;G¸nthersburgallee;bus_stop;platform;Bus stop
+Frankfurt;158697830;node;1;50,1270063;8,6920627;Rohrbachstraﬂe / Friedberger Landstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;4114254366;node;1;50,1270359;8,7533174;Hugo-Junkers-Straﬂe/Schleife;tram_stop;stop_position;Tram Stop
+Frankfurt;587939715;node;1;50,1270925;8,6763808;Holzhausen-Park;bus_stop;platform;Bus stop
+Frankfurt;5239212348;node;1;50,1271477;8,7548373;Hugo-Junkers-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;587939736;node;1;50,127164;8,6772483;Holzhausen-Park;bus_stop;platform;Bus stop
+Frankfurt;3775019058;node;1;50,1272066;8,6406857;"CityFlitzer Spot ""Ginnheimer Straﬂe 40""";car_sharing;;Car Sharing
+Frankfurt;4483855346;node;1;50,1274598;8,6852144;Glauburgstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;1505704800;node;1;50,1274873;8,702953;Hartmann-Ibach-Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;203523461;node;1;50,1275242;8,7532136;Hugo-Junkers-Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763176159;node;1;50,1275438;8,7048924;Burgstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;763113586;node;1;50,1275441;8,7531881;Hugo-Junkers-Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;537913825;node;1;50,1275644;8,7048969;Burgstraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;2404036223;node;1;50,1275704;8,6925114;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;620897864;node;1;50,1275778;8,5990495;Wolf-Heidenheim-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5314638026;node;1;50,1276297;8,7049104;Burgstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1125567672;node;1;50,1276504;8,6013856;Wolf-Heidenheim-Straﬂe;bus_stop;;Bus stop
+Frankfurt;3406107595;node;1;50,1276648;8,6410806;Sophienstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;31079801;node;1;50,1277169;8,7257257;Johanna-Tesch-Platz;station;station;Subway Station
+Frankfurt;763176346;node;1;50,127753;8,6939571;Rothschildallee;tram_stop;stop_position;Tram Stop
+Frankfurt;1649025707;node;1;50,1277902;8,7185278;Lˆwengasse;bus_stop;platform;Bus stop
+Frankfurt;329377986;node;1;50,1278052;8,6814511;Hynspergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;329377980;node;1;50,1278053;8,6823092;Hynspergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1125567670;node;1;50,1278258;8,6011892;Wolf-Heidenheim-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3406107596;node;1;50,1278669;8,6410485;Sophienstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2639952542;node;1;50,1278796;8,579921;Adolph-Prior-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1517129357;node;1;50,1279807;8,7267544;Johanna-Tesch-Platz;bus_stop;platform;Bus stop
+Frankfurt;901335579;node;1;50,1280124;8,5798923;;taxi;;Taxi
+Frankfurt;763176340;node;1;50,1281194;8,695871;Rothschildallee;tram_stop;stop_position;Tram Stop
+Frankfurt;2639952543;node;1;50,1281272;8,5796655;Adolph-Prior-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1569296239;node;1;50,1281926;8,6152783;Reifenberger Straﬂe/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;5239212351;node;1;50,1281997;8,7557477;Hugo-Junkers-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5213973048;node;1;50,1282851;8,7674617;Alt-Fechenheim;bus_stop;platform;Bus stop
+Frankfurt;3775032431;node;1;50,1282904;8,7158038;"CityFlitzer Spot ""Lˆwengasse 33""";car_sharing;;Car Sharing
+Frankfurt;1649025729;node;1;50,1283379;8,7167474;Lˆwengasse;bus_stop;platform;Bus stop
+Frankfurt;763120490;node;1;50,1283828;8,7678036;Alt-Fechenheim;tram_stop;stop_position;Tram Stop
+Frankfurt;1550004433;node;1;50,1283976;8,7068399;Pr¸fling;bus_stop;platform;Bus stop
+Frankfurt;1569296243;node;1;50,1283984;8,6154079;Reifenberger Straﬂe/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;3406874279;node;1;50,1284365;8,7423857;Sontraer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;203523489;node;1;50,1284774;8,7677262;Alt-Fechenheim;tram_stop;stop_position;Tram Stop
+Frankfurt;1548514403;node;1;50,1285019;8,7676037;Alt-Fechenheim;bus_stop;platform;Bus stop
+Frankfurt;1550004435;node;1;50,1285489;8,7071272;Pr¸fling;bus_stop;platform;Bus stop
+Frankfurt;1550004441;node;1;50,1285511;8,7060698;Pr¸fling;bus_stop;platform;Bus stop
+Frankfurt;30883062;node;1;50,1285885;8,6298175;Industriehof;station;station;Subway Station
+Frankfurt;2484685597;node;1;50,1286291;8,6294625;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;760656572;node;1;50,128635;8,646522;Frauenfriedenskirche;tram_stop;stop_position;Tram Stop
+Frankfurt;3403720698;node;1;50,1287684;8,584984;Leonhard-Heiﬂwolf-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1508406948;node;1;50,1287701;8,6996943;G¸nthersburgpark;tram_stop;stop_position;Tram Stop
+Frankfurt;1508406952;node;1;50,1288885;8,7001207;G¸nthersburgpark;tram_stop;stop_position;Tram Stop
+Frankfurt;581749859;node;1;50,1288895;8,69241;;bicycle_rental;;Bicycle Rental
+Frankfurt;760656592;node;1;50,1289016;8,6464264;Frauenfriedenskirche;tram_stop;stop_position;Tram Stop
+Frankfurt;2520704923;node;1;50,1289174;8,706456;;taxi;;Taxi
+Frankfurt;616813864;node;1;50,1289751;8,6699196;Max-Horkheimer-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2404011828;node;1;50,12901;8,70069;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;4945702014;node;1;50,1290225;8,5954254;Graf-Vollrath-Weg;bus_stop;platform;Bus stop
+Frankfurt;4945706588;node;1;50,1291291;8,5954361;Graf-Vollrath-Weg;bus_stop;platform;Bus stop
+Frankfurt;1505748963;node;1;50,129178;8,6922007;Nibelungenplatz/FH;bus_stop;platform;Bus stop
+Frankfurt;30883076;node;1;50,1293756;8,6251947;Fischstein;tram_stop;station;Tram Stop
+Frankfurt;1354974487;node;1;50,1293924;8,6698667;Max-Horkheimer-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5314638025;node;1;50,1294443;8,7591795;Cassellastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735881;node;1;50,1294837;8,6926542;Nibelungenplatz/FH;bus_stop;platform;Bus stop
+Frankfurt;203523478;node;1;50,1294995;8,7591318;Cassellastraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;391973067;node;1;50,1296895;8,6938689;Nibelungenplatz/FH;tram_stop;stop_position;Tram Stop
+Frankfurt;1665255751;node;1;50,1297928;8,6946127;;car_sharing;;Car Sharing
+Frankfurt;659993054;node;1;50,1298005;8,6838349;Cronstettenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2404029558;node;1;50,1298321;8,7137577;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;2683735882;node;1;50,129917;8,6940024;Nibelungenplatz/FH;bus_stop;stop_position;Bus stop
+Frankfurt;763120482;node;1;50,1299857;8,7603332;Cassellastraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;5314638024;node;1;50,1300384;8,7602355;Cassellastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1502803181;node;1;50,130087;8,6941084;Nibelungenplatz/FH;tram_stop;stop_position;Tram Stop
+Frankfurt;4945701959;node;1;50,1301848;8,5912626;Eschborner Landstraﬂe West;bus_stop;platform;Bus stop
+Frankfurt;4945701958;node;1;50,1302777;8,5913487;Eschborner Landstraﬂe West;bus_stop;platform;Bus stop
+Frankfurt;302518112;node;1;50,1303362;8,6884742;Richard-Wagner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1569088799;node;1;50,1307066;8,6449942;Universit‰tssportanlagen;bus_stop;platform;Bus stop
+Frankfurt;1569088803;node;1;50,1308438;8,6453723;Universit‰tssportanlagen;bus_stop;platform;Bus stop
+Frankfurt;4685779985;node;1;50,1308576;8,6703421;;car_sharing;;Car Sharing
+Frankfurt;1568971772;node;1;50,1309841;8,7054098;Usinger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;618684896;node;1;50,1310327;8,6719963;Miquel-/Adickesallee;bus_stop;platform;Bus stop
+Frankfurt;629100619;node;1;50,1310488;8,6723867;Miquel-/Adickesallee;bus_stop;platform;Bus stop
+Frankfurt;2683736562;node;1;50,1310498;8,6879456;Richard-Wagner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;28121239;node;1;50,1310808;8,6840203;Deutsche Nationalbibliothek;tram_stop;station;Tram Stop
+Frankfurt;2404028798;node;1;50,13111;8,70535;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;3406683455;node;1;50,1311778;8,7169809;Panoramabad;bus_stop;platform;Bus stop
+Frankfurt;1517129364;node;1;50,1312096;8,7346839;Sch‰fflestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3405272995;node;1;50,1312102;8,6615324;Gr¸neburgpark;bus_stop;platform;Bus stop
+Frankfurt;4020412931;node;1;50,1312718;8,7342609;Riederwald Sch‰fflestraﬂe;station;station;Subway Station
+Frankfurt;1568971778;node;1;50,1313197;8,705653;Usinger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;724226249;node;1;50,1313884;8,684832;Deutsche Nationalbibliothek;bus_stop;platform;Bus stop
+Frankfurt;30883080;node;1;50,131425;8,6198226;Hausener Weg;tram_stop;station;Tram Stop
+Frankfurt;2667231072;node;1;50,1314543;8,6689318;Miquel-/Hansaallee;bus_stop;platform;Bus stop
+Frankfurt;1438208139;node;1;50,1314633;8,7097327;Weidenbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;29824289;node;1;50,131475;8,6722223;Miquel-/Adickesallee;halt;stop_position;Train Station
+Frankfurt;755862907;node;1;50,1314754;8,6721797;Miquel-/Adickesallee;halt;stop_position;Train Station
+Frankfurt;3216922145;node;1;50,1315038;8,5928891;Friedrich-Kahl-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1438208140;node;1;50,1315186;8,7100626;Weidenbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5902639720;node;1;50,131535;8,6721951;Miquel-/Adickesallee;station;station;Subway Station
+Frankfurt;679234461;node;1;50,1315535;8,5937893;Friedrich-Kahl-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1894722079;node;1;50,1315683;8,6728327;Miquel-/Adickesallee;bus_stop;platform;Bus stop
+Frankfurt;3775019069;node;1;50,1316108;8,7117246;"CityFlitzer Spot ""Eulengasse 21""";car_sharing;;Car Sharing
+Frankfurt;2690043119;node;1;50,1316513;8,6186575;;taxi;;Taxi
+Frankfurt;1569296164;node;1;50,1316684;8,6184466;Hausener Weg;bus_stop;platform;Bus stop
+Frankfurt;3405273000;node;1;50,1316952;8,6677624;Miquel-/Hansaallee;bus_stop;platform;Bus stop
+Frankfurt;430928764;node;1;50,1317259;8,6613629;Gr¸neburgpark;bus_stop;stop_position;Bus stop
+Frankfurt;316011115;node;1;50,1317467;8,6712546;Miquel-/Adickesallee;bus_stop;stop_position;Bus stop
+Frankfurt;3406874276;node;1;50,1317964;8,7424802;Lahmeyerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3406874278;node;1;50,1319083;8,7426509;Lahmeyerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683735876;node;1;50,1319545;8,6831551;Deutsche Nationalbibliothek;bus_stop;platform;Bus stop
+Frankfurt;743369206;node;1;50,1319933;8,7448792;Schlitzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478435;node;1;50,1320422;8,7444027;Schlitzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;430928252;node;1;50,1321374;8,6770641;Bertramstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;3403720700;node;1;50,1321563;8,5761591;Wilhelm-Fay-Straﬂe Nord;bus_stop;platform;Bus stop
+Frankfurt;3403720701;node;1;50,1321761;8,576341;Wilhelm-Fay-Straﬂe Nord;bus_stop;platform;Bus stop
+Frankfurt;147838259;node;1;50,1321926;8,6834667;Europcar;car_rental;;Car rental
+Frankfurt;430928254;node;1;50,1321949;8,6771206;Bertramstraﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;3430797490;node;1;50,1322348;8,6842914;Deutsche Nationalbibliothek;bus_stop;platform;Bus stop
+Frankfurt;1548478423;node;1;50,132304;8,7488717;Lauterbacher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478424;node;1;50,1323615;8,7485309;Lauterbacher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2404030721;node;1;50,1325479;8,7153336;Call a Bike;bicycle_rental;;Bicycle Rental
+Frankfurt;119755893;node;1;50,1325741;8,7663969;Mainkur Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;763120474;node;1;50,1325886;8,7663491;Mainkur Bahnhof;tram_stop;stop_position;Tram Stop
+Frankfurt;618448737;node;1;50,1326501;8,6284228;Groﬂe Nelkenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478418;node;1;50,1326685;8,7535596;Langenselbolder Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478420;node;1;50,1327146;8,7531447;Langenselbolder Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1541501875;node;1;50,1328064;8,6952632;M¸nzenberger Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;1502803178;node;1;50,1328099;8,695235;M¸nzenberger Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1502803179;node;1;50,1329027;8,6953228;M¸nzenberger Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1548478437;node;1;50,1329414;8,7577001;Steinauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;30883069;node;1;50,1330284;8,6283519;Groﬂe Nelkenstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;1548478439;node;1;50,1330639;8,7577281;Steinauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478430;node;1;50,1331181;8,7664482;Mainkur Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;2398816517;node;1;50,1331472;8,7677466;Mainkur Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;1523846995;node;1;50,1331571;8,7615021;Fuldaer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1523847004;node;1;50,1332156;8,7608973;Fuldaer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2647641334;node;1;50,1332558;8,5782;;taxi;;Taxi
+Frankfurt;3775032430;node;1;50,1333331;8,7128412;"CityFlitzer Spot ""Ilbenst‰dter Straﬂe 17""";car_sharing;;Car Sharing
+Frankfurt;392767179;node;1;50,133404;8,628295;Groﬂe Nelkenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1568386889;node;1;50,1335107;8,7058616;Comeniusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1568386895;node;1;50,1335425;8,7061686;Comeniusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;31079818;node;1;50,1336289;8,7411615;Gwinnerstraﬂe;station;station;Subway Station
+Frankfurt;5912341586;node;1;50,1337504;8,7117066;Seckbacher Landstraﬂe;station;station;Subway Station
+Frankfurt;316011279;node;1;50,1338223;8,6683504;Plieningerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3473158680;node;1;50,1338535;8,6681741;Plieningerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5254216202;node;1;50,1339515;8,7416617;Gwinnerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;31080686;node;1;50,1339717;8,7116568;Seckbacher Landstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;1548478416;node;1;50,1340783;8,7409682;Gwinnerstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548478433;node;1;50,1341189;8,7639601;Meerholzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;6041491154;node;1;50,1341726;8,7689459;Avis;car_rental;;Car rental
+Frankfurt;660452751;node;1;50,1345505;8,767312;Frankfurt-Mainkur;station;station;Subway Station
+Frankfurt;1657899168;node;1;50,134597;8,7118462;Seckbacher Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640064188;node;1;50,1346197;8,5989866;Guerickestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1657899178;node;1;50,1346652;8,7120418;Seckbacher Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2520714758;node;1;50,1349651;8,7130439;;car_rental;;Car rental
+Frankfurt;1548478403;node;1;50,1350749;8,7632996;Birsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;618448741;node;1;50,1351361;8,6252826;Ellerfeld;bus_stop;platform;Bus stop
+Frankfurt;1505226360;node;1;50,1351668;8,6962754;Wasserpark;tram_stop;stop_position;Tram Stop
+Frankfurt;1541501880;node;1;50,1351974;8,6963179;Wasserpark;bus_stop;stop_position;Bus stop
+Frankfurt;392767177;node;1;50,1352991;8,6257501;Ellerfeld;bus_stop;platform;Bus stop
+Frankfurt;1548478404;node;1;50,1357399;8,7649755;Birsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;291273577;node;1;50,1358912;8,6845571;;taxi;;Taxi
+Frankfurt;2640064189;node;1;50,1360962;8,5990962;Guerickestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1200874974;node;1;50,1361383;8,6542084;Europaturm;bus_stop;platform;Bus stop
+Frankfurt;1569035799;node;1;50,1361656;8,6643222;Platenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1505226367;node;1;50,136186;8,6968237;Wasserpark;tram_stop;stop_position;Tram Stop
+Frankfurt;316010704;node;1;50,1361899;8,6711628;Dornbusch/Am Gr¸nhof;bus_stop;platform;Bus stop
+Frankfurt;1568386862;node;1;50,136192;8,7018969;Friedhof Bornheim;bus_stop;platform;Bus stop
+Frankfurt;1569035785;node;1;50,1362145;8,6602243;Deutsche Bundesbank;bus_stop;platform;Bus stop
+Frankfurt;3377189935;node;1;50,1362152;8,6968113;Wasserpark;bus_stop;stop_position;Bus stop
+Frankfurt;518192952;node;1;50,1362214;8,7635543;Birsteiner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1568386867;node;1;50,1362219;8,7020781;Friedhof Bornheim;bus_stop;platform;Bus stop
+Frankfurt;1200875031;node;1;50,1362803;8,6529232;Europaturm;bus_stop;platform;Bus stop
+Frankfurt;30998484;node;1;50,136283;8,6149963;Stephan-Heise-Straﬂe;tram_stop;station;Tram Stop
+Frankfurt;760309122;node;1;50,1363189;8,6843154;Hauptfriedhof;tram_stop;station;Tram Stop
+Frankfurt;1569035800;node;1;50,1363531;8,6644151;Platenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1569035790;node;1;50,1363773;8,6597181;Deutsche Bundesbank;bus_stop;platform;Bus stop
+Frankfurt;331211542;node;1;50,1366057;8,6460055;Markus-Krankenhaus;bus_stop;platform;Bus stop
+Frankfurt;117444065;node;1;50,1366388;8,6457564;Markus-Krankenhaus;tram_stop;stop_position;Tram Stop
+Frankfurt;750600650;node;1;50,1366419;8,6457914;Markus-Krankenhaus;tram_stop;stop_position;Tram Stop
+Frankfurt;268121773;node;1;50,1367471;8,6455294;Markus-Krankenhaus;bus_stop;platform;Bus stop
+Frankfurt;3430797492;node;1;50,136988;8,6843684;Hauptfriedhof;bus_stop;platform;Bus stop
+Frankfurt;29863725;node;1;50,1370229;8,6710985;Dornbusch;halt;stop_position;Train Station
+Frankfurt;758715784;node;1;50,1370246;8,6710534;Dornbusch;halt;stop_position;Train Station
+Frankfurt;613517708;node;1;50,137073;8,6712664;Dornbusch;bus_stop;platform;Bus stop
+Frankfurt;316010574;node;1;50,1370759;8,6651314;Platenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5269686453;node;1;50,1376127;8,6848561;Hauptfriedhof;bus_stop;platform;Bus stop
+Frankfurt;30840279;node;1;50,1377612;8,6245399;Hausen;tram_stop;station;Tram Stop
+Frankfurt;315810364;node;1;50,1378166;8,6632107;Astrid Lindgren Schule;bus_stop;platform;Bus stop
+Frankfurt;31079822;node;1;50,1379284;8,7444682;Kruppstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;1083707854;node;1;50,1379952;8,7756072;Roter Graben;bus_stop;platform;Bus stop
+Frankfurt;1083708256;node;1;50,1381002;8,7764206;Roter Graben;bus_stop;platform;Bus stop
+Frankfurt;1548478412;node;1;50,1383192;8,7372676;Gwinnerstraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;1569035798;node;1;50,1383507;8,6697721;Dornbusch;bus_stop;platform;Bus stop
+Frankfurt;1171819734;node;1;50,1384056;8,6694121;;taxi;;Taxi
+Frankfurt;1505751202;node;1;50,1384252;8,6850253;Neuer J¸discher Friedhof;bus_stop;platform;Bus stop
+Frankfurt;312517616;node;1;50,1384974;8,7160458;Eschweger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1505751205;node;1;50,1386494;8,6847131;Neuer J¸discher Friedhof;bus_stop;platform;Bus stop
+Frankfurt;618448762;node;1;50,1387098;8,6244003;Hausen;bus_stop;platform;Bus stop
+Frankfurt;316010050;node;1;50,1387557;8,6645285;Fallerslebenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30883085;node;1;50,1388388;8,6126856;Friedhof Westhausen;tram_stop;station;Tram Stop
+Frankfurt;392767176;node;1;50,1388994;8,6246307;Hausen;bus_stop;platform;Bus stop
+Frankfurt;1569003742;node;1;50,1390269;8,6715551;Dornbusch;bus_stop;platform;Bus stop
+Frankfurt;1548478415;node;1;50,1390646;8,7368643;Gwinnerstraﬂe Mitte;bus_stop;platform;Bus stop
+Frankfurt;315810362;node;1;50,139073;8,659134;Franz-Werfel-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;269600768;node;1;50,1391115;8,6642985;Fallerslebenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1438208131;node;1;50,1391914;8,7203381;Hufeland-Haus;bus_stop;platform;Bus stop
+Frankfurt;1792781794;node;1;50,1392963;8,7452101;Europcar;car_rental;;Car rental
+Frankfurt;296393832;node;1;50,1393242;8,7172021;Eschweger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1463780028;node;1;50,1393721;8,6982657;Friedberger Warte;tram_stop;stop_position;Tram Stop
+Frankfurt;1541501906;node;1;50,1395217;8,6983622;Friedberger Warte;bus_stop;stop_position;Bus stop
+Frankfurt;1438208132;node;1;50,1395874;8,7209872;Hufeland-Haus;bus_stop;platform;Bus stop
+Frankfurt;316010347;node;1;50,1396585;8,6468576;Ginnheim;bus_stop;platform;Bus stop
+Frankfurt;1463780027;node;1;50,1398083;8,6985158;Friedberger Warte;tram_stop;stop_position;Tram Stop
+Frankfurt;316010262;node;1;50,1398302;8,6550108;Stefan-Zweig-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;268124681;node;1;50,1401652;8,6472317;Ginnheim;bus_stop;platform;Bus stop
+Frankfurt;117444096;node;1;50,1401805;8,6466127;Ginnheim;tram_stop;stop_position;Tram Stop
+Frankfurt;750600592;node;1;50,1402029;8,6466334;Ginnheim;tram_stop;stop_position;Tram Stop
+Frankfurt;5560039803;node;1;50,1403245;8,6465665;Ginnheim;station;station;Subway Station
+Frankfurt;316010346;node;1;50,1403724;8,6481376;Ginnheim;bus_stop;platform;Bus stop
+Frankfurt;31079826;node;1;50,140506;8,7490937;Hessencenter;tram_stop;station;Tram Stop
+Frankfurt;1438212922;node;1;50,140598;8,7192754;Atzelberg West;bus_stop;platform;Bus stop
+Frankfurt;618448765;node;1;50,1406373;8,6243475;Geiselwiesen;bus_stop;platform;Bus stop
+Frankfurt;1568978681;node;1;50,1406992;8,6776992;Kaiser-Sigmund-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1568978684;node;1;50,1407099;8,6780441;Kaiser-Sigmund-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;316010051;node;1;50,1408767;8,6608743;Paquetstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1786354920;node;1;50,1408976;8,7234771;Altebornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767174;node;1;50,140973;8,6245228;Geiselwiesen;bus_stop;platform;Bus stop
+Frankfurt;618398664;node;1;50,140982;8,5966106;Stadtbahnzentralwerkstatt;bus_stop;platform;Bus stop
+Frankfurt;1548517860;node;1;50,1410344;8,7538611;Am Hessen-Center;bus_stop;platform;Bus stop
+Frankfurt;1786354919;node;1;50,1410921;8,7237183;Altebornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618398663;node;1;50,1412033;8,5970031;Stadtbahnzentralwerkstatt;bus_stop;platform;Bus stop
+Frankfurt;1548478409;node;1;50,1413529;8,734685;Gelastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4734579124;node;1;50,1414841;8,6475002;Ginnheimer Waldgasse;bus_stop;platform;Bus stop
+Frankfurt;1548478410;node;1;50,1415037;8,7347612;Gelastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;316010365;node;1;50,1416189;8,6525123;Schˆnbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;316011286;node;1;50,1416275;8,6520498;Schˆnbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1568971653;node;1;50,1417866;8,6824862;Eckenheimer Landstraﬂe/Marbachweg;bus_stop;platform;Bus stop
+Frankfurt;1438212917;node;1;50,1419813;8,7195406;Atzelberg Mitte;bus_stop;platform;Bus stop
+Frankfurt;5269655826;node;1;50,1420265;8,6842396;Marbachweg/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;1502832904;node;1;50,1420822;8,7012158;Bodenweg;tram_stop;stop_position;Tram Stop
+Frankfurt;3377189931;node;1;50,1421422;8,7013827;Bodenweg;bus_stop;stop_position;Bus stop
+Frankfurt;27618747;node;1;50,1421988;8,6844969;Marbachweg/Sozialzentrum;tram_stop;station;Tram Stop
+Frankfurt;769849577;node;1;50,1422305;8,701588;Bodenweg;tram_stop;stop_position;Tram Stop
+Frankfurt;1438208129;node;1;50,1422514;8,7228097;Atzelberg Ost;bus_stop;platform;Bus stop
+Frankfurt;4735044700;node;1;50,1423325;8,6832849;Marbachweg/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;1568971791;node;1;50,1423851;8,6970108;Wetzlarer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;4735044701;node;1;50,1424158;8,683541;Marbachweg/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;5269655832;node;1;50,1424647;8,6850697;Marbachweg/Sozialzentrum;bus_stop;platform;Bus stop
+Frankfurt;31079828;node;1;50,1425306;8,7537714;Enkheim;tram_stop;station;Tram Stop
+Frankfurt;579808314;node;1;50,1425541;8,753686;Enkheim [U];bus_stop;platform;Bus stop
+Frankfurt;1517129340;node;1;50,1426187;8,7554767;Enkheim [U];bus_stop;platform;Bus stop
+Frankfurt;613514011;node;1;50,1426247;8,6684905;Fritz-Tarnow-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;513413780;node;1;50,1426759;8,75492;;taxi;;Taxi
+Frankfurt;1568971798;node;1;50,1427051;8,6962754;Wetzlarer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;29863531;node;1;50,1427694;8,6687437;Fritz-Tarnow-Straﬂe;halt;stop_position;Train Station
+Frankfurt;758715883;node;1;50,1427702;8,6687025;Fritz-Tarnow-Straﬂe;halt;stop_position;Train Station
+Frankfurt;613514012;node;1;50,1427878;8,6689341;Fritz-Tarnow-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640000767;node;1;50,1430186;8,7567764;Leuchte;bus_stop;platform;Bus stop
+Frankfurt;3401875247;node;1;50,1434183;8,7622907;Leuchte/Rangenbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30839093;node;1;50,1434561;8,6083618;Heerstraﬂe;tram_stop;station;Tram Stop
+Frankfurt;366974615;node;1;50,1434713;8,6034084;Theodor-Fischer-Weg;bus_stop;platform;Bus stop
+Frankfurt;618398665;node;1;50,1434948;8,6037406;Theodor-Fischer-Weg;bus_stop;platform;Bus stop
+Frankfurt;316010469;node;1;50,1436487;8,6551417;Pfeiferstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5268104348;node;1;50,1436858;8,690646;Gieﬂener Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;588467323;node;1;50,1437458;8,6242446;Pflanzl‰nder;bus_stop;platform;Bus stop
+Frankfurt;750600661;node;1;50,1438093;8,6421341;Niddapark;halt;stop_position;Train Station
+Frankfurt;1548478425;node;1;50,1438096;8,7321533;Leonhardsgasse;bus_stop;platform;Bus stop
+Frankfurt;29914361;node;1;50,1438238;8,6421823;Niddapark;halt;stop_position;Train Station
+Frankfurt;1787581265;node;1;50,1438311;8,7262343;Zentgrafenschule;bus_stop;platform;Bus stop
+Frankfurt;3401875257;node;1;50,1438641;8,7468521;Victor-Slotosch-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;27612110;node;1;50,1438815;8,6918498;Gieﬂener Straﬂe;tram_stop;station;Tram Stop
+Frankfurt;5902639721;node;1;50,1439425;8,6420609;Niddapark;station;station;Subway Station
+Frankfurt;1787581266;node;1;50,1439741;8,7264152;Zentgrafenschule;bus_stop;platform;Bus stop
+Frankfurt;1548478428;node;1;50,1439811;8,7319613;Leonhardsgasse;bus_stop;platform;Bus stop
+Frankfurt;1568971669;node;1;50,1440446;8,6938099;Homburger Landstraﬂe/Marbachweg;bus_stop;platform;Bus stop
+Frankfurt;392767173;node;1;50,1440604;8,6244433;Pflanzl‰nder;bus_stop;platform;Bus stop
+Frankfurt;1568971681;node;1;50,1442584;8,6933641;Homburger Landstraﬂe/Marbachweg;bus_stop;platform;Bus stop
+Frankfurt;1157448601;node;1;50,1445069;8,7060498;Unfallklinik;bus_stop;platform;Bus stop
+Frankfurt;316010553;node;1;50,1445256;8,6548422;Kurhessenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;296241694;node;1;50,1446265;8,682291;Schwabstraﬂe;tram_stop;;Tram Stop
+Frankfurt;1530104544;node;1;50,1446487;8,7057947;Unfallklinik;bus_stop;platform;Bus stop
+Frankfurt;4735044698;node;1;50,1447767;8,6831108;Schwabstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;442916620;node;1;50,1449452;8,6553812;;taxi;;Taxi
+Frankfurt;316010554;node;1;50,1450998;8,6551878;Kurhessenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548517862;node;1;50,1453172;8,7547727;Trieb-/Barbarossastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;372734046;node;1;50,145372;8,7546161;Trieb-/Barbarossastraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3407078611;node;1;50,1457414;8,7288274;Draisbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3407078612;node;1;50,145792;8,7286865;Draisbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640028047;node;1;50,1458114;8,7061274;Unfallklinik/B3;bus_stop;platform;Bus stop
+Frankfurt;1530083351;node;1;50,1458207;8,7063401;Unfallklinik/B3;bus_stop;stop_position;Bus stop
+Frankfurt;727276403;node;1;50,1463303;8,6591924;Theodor-Storm-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;366971898;node;1;50,1463997;8,6110164;Hofgut;bus_stop;platform;Bus stop
+Frankfurt;1502832938;node;1;50,146474;8,7032359;Walter-Kolb-Siedlung;tram_stop;stop_position;Tram Stop
+Frankfurt;2640000764;node;1;50,1464846;8,7612802;Barbarossastr./Riedschule;bus_stop;platform;Bus stop
+Frankfurt;587684526;node;1;50,1466289;8,6119839;Hofgut;bus_stop;platform;Bus stop
+Frankfurt;727276404;node;1;50,1466925;8,6594989;Theodor-Storm-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1502832939;node;1;50,1468119;8,7031761;Walter-Kolb-Siedlung;tram_stop;stop_position;Tram Stop
+Frankfurt;613517778;node;1;50,1468963;8,6673536;H¸gelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3775032432;node;1;50,1471179;8,6730409;"CityFlitzer Spot ""Walter-Leiske-Straﬂe 60-62""";car_sharing;;Car Sharing
+Frankfurt;613517776;node;1;50,1473318;8,6666279;H¸gelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;29824287;node;1;50,147585;8,6666667;H¸gelstraﬂe;halt;stop_position;Train Station
+Frankfurt;587684530;node;1;50,1476644;8,6147056;Schˆnberger Weg;bus_stop;platform;Bus stop
+Frankfurt;317054946;node;1;50,1478472;8,6659224;;taxi;;Taxi
+Frankfurt;560094382;node;1;50,1478574;8,6147636;Schˆnberger Weg;bus_stop;platform;Bus stop
+Frankfurt;1143856872;node;1;50,1479664;8,6917467;Theobald-Ziegler-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;317053445;node;1;50,1479895;8,6654629;H¸gelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;317053443;node;1;50,1480381;8,6673474;H¸gelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767172;node;1;50,1480468;8,6229765;Praunheimer Br¸cke;bus_stop;platform;Bus stop
+Frankfurt;392767170;node;1;50,1481543;8,6230576;Praunheimer Br¸cke;bus_stop;platform;Bus stop
+Frankfurt;758715774;node;1;50,148265;8,6659712;H¸gelstraﬂe;halt;stop_position;Train Station
+Frankfurt;3419406480;node;1;50,1485883;8,7537941;Florianweg;bus_stop;platform;Bus stop
+Frankfurt;372734049;node;1;50,1486685;8,7536588;Florianweg;bus_stop;platform;Bus stop
+Frankfurt;3407078609;node;1;50,1490238;8,7373827;Budge-Heim/Lohrberg;bus_stop;platform;Bus stop
+Frankfurt;3407078610;node;1;50,1490253;8,7379222;Budge-Heim/Lohrberg;bus_stop;platform;Bus stop
+Frankfurt;1143857044;node;1;50,1490342;8,6920003;Theobald-Ziegler-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1893124613;node;1;50,149133;8,7601695;Rangenbergstr./Riedschule;bus_stop;platform;Bus stop
+Frankfurt;441407675;node;1;50,149286;8,6193014;Alt-Praunheim/Krankenhaus Nordwest;bus_stop;platform;Bus stop
+Frankfurt;317405274;node;1;50,1493122;8,6733344;Reinhardstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;727775633;node;1;50,1493784;8,6813163;Engelthaler Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;310642274;node;1;50,1494085;8,672691;Reinhardstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;320262372;node;1;50,1496985;8,6785202;Karl-von-Drais-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;311850986;node;1;50,1498127;8,6729803;Reinhardstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;320262368;node;1;50,1498676;8,6773184;Karl-von-Drais-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;727775629;node;1;50,1501656;8,6856387;Friedhof Eckenheim;bus_stop;platform;Bus stop
+Frankfurt;3401875253;node;1;50,1503176;8,7588342;Rangenbergstr./Riedschule;bus_stop;platform;Bus stop
+Frankfurt;727775632;node;1;50,150428;8,6866282;Friedhof Eckenheim;bus_stop;platform;Bus stop
+Frankfurt;4223387701;node;1;50,1504578;8,6198218;;taxi;;Taxi
+Frankfurt;392767169;node;1;50,1505271;8,6223021;Graebestraﬂe / Pflegeheim;bus_stop;platform;Bus stop
+Frankfurt;1548530557;node;1;50,1506109;8,7503595;Friedhof Enkheim;bus_stop;platform;Bus stop
+Frankfurt;727775627;node;1;50,1506488;8,6881713;Ronneburgstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548530558;node;1;50,1507364;8,750239;Friedhof Enkheim;bus_stop;platform;Bus stop
+Frankfurt;318769545;node;1;50,1508889;8,669913;Andreaskirche;bus_stop;platform;Bus stop
+Frankfurt;618398666;node;1;50,1509021;8,6204025;Krankenhaus Nordwest;bus_stop;platform;Bus stop
+Frankfurt;318769546;node;1;50,1509131;8,6700833;Andreaskirche;bus_stop;platform;Bus stop
+Frankfurt;3296312713;node;1;50,1509373;8,6890713;Ronneburgstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1523841218;node;1;50,1511473;8,7424192;Vilbeler Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618398669;node;1;50,1512917;8,6223898;Graebestraﬂe / Pflegeheim;bus_stop;platform;Bus stop
+Frankfurt;2683736544;node;1;50,1513737;8,6881397;Ronneburgstraﬂe;halt;stop_position;Train Station
+Frankfurt;1448144685;node;1;50,1514005;8,7625723;Riedbad;bus_stop;platform;Bus stop
+Frankfurt;356775040;node;1;50,1514504;8,6261259;Am Alten Schloﬂ;bus_stop;platform;Bus stop
+Frankfurt;727775631;node;1;50,1514619;8,684122;B¸dinger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;356775044;node;1;50,1515643;8,6261245;Am Alten Schloﬂ;bus_stop;platform;Bus stop
+Frankfurt;1502832902;node;1;50,1516532;8,6997941;Alkmenestraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;1502832903;node;1;50,1518081;8,6997878;Alkmenestraﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;318770471;node;1;50,1519744;8,6693814;Ziegenhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875255;node;1;50,1519983;8,7627492;Riedbad;bus_stop;platform;Bus stop
+Frankfurt;613517787;node;1;50,1520145;8,6692103;Ziegenhainer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640000786;node;1;50,1521347;8,7431345;Vilbeler Landstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875256;node;1;50,1521746;8,7538381;Schule Am Hang;bus_stop;platform;Bus stop
+Frankfurt;1548530555;node;1;50,1522097;8,7486232;Am Rebenborn;bus_stop;platform;Bus stop
+Frankfurt;372733085;node;1;50,1522489;8,7484556;Am Rebenborn;bus_stop;platform;Bus stop
+Frankfurt;1143845382;node;1;50,1523108;8,6910346;Kreuzstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;758715765;node;1;50,1523853;8,6617166;Lindenbaum;halt;stop_position;Train Station
+Frankfurt;29866537;node;1;50,1524032;8,6617608;Lindenbaum;halt;stop_position;Train Station
+Frankfurt;366968838;node;1;50,1524713;8,6298729;Mithrasstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3211037005;node;1;50,1525224;8,6337856;Stadion Mithrasstraﬂe;car_sharing;;Car Sharing
+Frankfurt;1143845381;node;1;50,1525312;8,6909039;Kreuzstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;366968825;node;1;50,1525736;8,6309996;Mithrasstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;613514014;node;1;50,1526779;8,6611991;Lindenbaum;bus_stop;platform;Bus stop
+Frankfurt;613514015;node;1;50,152717;8,6615971;Lindenbaum;bus_stop;platform;Bus stop
+Frankfurt;321356690;node;1;50,1529505;8,6793838;Niederbornstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;618398673;node;1;50,1531532;8,6337737;Hadrianstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;755957774;node;1;50,1532116;8,6381156;Rˆmerstadt;halt;stop_position;Train Station
+Frankfurt;618398671;node;1;50,1532475;8,6337742;Hadrianstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5902639722;node;1;50,1533465;8,638148;Rˆmerstadt;station;station;Subway Station
+Frankfurt;618448766;node;1;50,1533844;8,6227126;Oberfeldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;29914360;node;1;50,1533931;8,6381724;Rˆmerstadt;halt;stop_position;Train Station
+Frankfurt;317948039;node;1;50,1534211;8,6682778;Rauschenberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3407078614;node;1;50,1538274;8,7470024;Kirchgasse;bus_stop;platform;Bus stop
+Frankfurt;2640000766;node;1;50,1539216;8,7469184;Kirchgasse;bus_stop;platform;Bus stop
+Frankfurt;401621450;node;1;50,1540656;8,6381782;Rˆmerstadt;bus_stop;platform;Bus stop
+Frankfurt;353879708;node;1;50,1540949;8,6228748;Oberfeldstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;319787858;node;1;50,1541066;8,6681098;Rauschenberger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;401621452;node;1;50,1542246;8,6380629;Rˆmerstadt;bus_stop;platform;Bus stop
+Frankfurt;1143858981;node;1;50,1544151;8,6912614;Weilbrunnstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1143852899;node;1;50,1544317;8,6914613;Weilbrunnstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875242;node;1;50,1545607;8,7592793;Heinrich-Bingemer-Weg;bus_stop;platform;Bus stop
+Frankfurt;2640039864;node;1;50,1546459;8,6339839;Ernst-Kahn-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875239;node;1;50,1546476;8,7562393;Am B‰chelchen;bus_stop;platform;Bus stop
+Frankfurt;518190653;node;1;50,1546632;8,7487437;Marktstraﬂe/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;2640039865;node;1;50,1546999;8,6342304;Ernst-Kahn-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2683736546;node;1;50,1548395;8,6861776;Sigmund-Freud-Straﬂe;tram_stop;stop_position;Tram Stop
+Frankfurt;3401875243;node;1;50,1548415;8,7600812;Heinrich-Bingemer-Weg;bus_stop;platform;Bus stop
+Frankfurt;473432365;node;1;50,1548793;8,717193;Heiligenstock/Lohrberg;bus_stop;stop_position;Bus stop
+Frankfurt;1548530559;node;1;50,1550088;8,7505877;Marktstraﬂe/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;1548530560;node;1;50,1550632;8,7504109;Marktstraﬂe/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;1508790130;node;1;50,1551024;8,6631534;Hinter den Ulmen;bus_stop;platform;Bus stop
+Frankfurt;3407078613;node;1;50,1551173;8,753019;Heimatmuseum Bergen-Enkheim;bus_stop;platform;Bus stop
+Frankfurt;1527550455;node;1;50,1551806;8,6986332;Preungesheim Gravensteiner-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;1527550461;node;1;50,1551909;8,6987254;Preungesheim Gravensteiner-Platz;tram_stop;stop_position;Tram Stop
+Frankfurt;513414128;node;1;50,1552381;8,7516449;;taxi;;Taxi
+Frankfurt;430928226;node;1;50,155299;8,7181261;Heiligenstock/Lohrberg;bus_stop;stop_position;Bus stop
+Frankfurt;401562468;node;1;50,1553482;8,6414682;Heidenfeld;bus_stop;platform;Bus stop
+Frankfurt;458891921;node;1;50,1553692;8,6982279;Gravensteiner-Platz;bus_stop;platform;Bus stop
+Frankfurt;1508790134;node;1;50,1554408;8,6629756;Hinter den Ulmen;bus_stop;platform;Bus stop
+Frankfurt;1548530562;node;1;50,1555125;8,7496719;Marktstraﬂe/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;3401875250;node;1;50,1555341;8,754768;Michlersbrunnen;bus_stop;platform;Bus stop
+Frankfurt;1548530564;node;1;50,15556;8,7495203;Marktstraﬂe/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;317948159;node;1;50,1555863;8,6669623;Burgholzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;317948105;node;1;50,1558224;8,6673115;Burgholzer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;304004280;node;1;50,1560473;8,7575695;Haingasse;bus_stop;platform;Bus stop
+Frankfurt;1541470333;node;1;50,1562016;8,6945261;Gundelandstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1541470337;node;1;50,1562395;8,694663;Gundelandstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;758715867;node;1;50,1563381;8,657078;Weiﬂer Stein;halt;stop_position;Train Station
+Frankfurt;1541470443;node;1;50,1564032;8,6976857;Wiesenh¸ttenstift;bus_stop;platform;Bus stop
+Frankfurt;659993055;node;1;50,156408;8,6565441;Weiﬂer Stein;bus_stop;platform;Bus stop
+Frankfurt;412542922;node;1;50,1565001;8,6444319;Habelstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875245;node;1;50,1565685;8,7609547;Karl-Wessendorft-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3401875246;node;1;50,1567037;8,7615927;Karl-Wessendorft-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;29865536;node;1;50,156727;8,6561336;Weiﬂer Stein;halt;stop_position;Train Station
+Frankfurt;338528964;node;1;50,1568048;8,6565855;Weiﬂer Stein;bus_stop;platform;Bus stop
+Frankfurt;1508790122;node;1;50,156887;8,6658218;Eleonore-Sterling-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3211037006;node;1;50,1570759;8,6387002;Station Antoninusstraﬂe;car_sharing;;Car Sharing
+Frankfurt;659993056;node;1;50,1571005;8,655463;Weiﬂer Stein;bus_stop;platform;Bus stop
+Frankfurt;1548530565;node;1;50,1571441;8,7485105;Nordring/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;1548571692;node;1;50,1571636;8,7673846;Bergen Ost;bus_stop;platform;Bus stop
+Frankfurt;613517723;node;1;50,1571929;8,6565372;Weiﬂer Stein;bus_stop;platform;Bus stop
+Frankfurt;1548571693;node;1;50,1573706;8,7683468;Bergen Ost;bus_stop;platform;Bus stop
+Frankfurt;356775311;node;1;50,1574202;8,6220004;Praunheimer Weg/Schulzentrum;bus_stop;platform;Bus stop
+Frankfurt;3401480996;node;1;50,1575022;8,6314266;Bernadottestraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1548530566;node;1;50,1575173;8,7483782;Nordring/Landgraben;bus_stop;platform;Bus stop
+Frankfurt;412542924;node;1;50,1575244;8,6405494;Antoninusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;353879709;node;1;50,1576483;8,622094;Praunheimer Weg/Schulzentrum;bus_stop;platform;Bus stop
+Frankfurt;775342744;node;1;50,1577836;8,6369653;Tacitusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;332286861;node;1;50,157817;8,6584323;Im Wˆrth;bus_stop;platform;Bus stop
+Frankfurt;755957732;node;1;50,1578968;8,6346731;Nordwestzentrum;halt;stop_position;Train Station
+Frankfurt;29953463;node;1;50,1579072;8,6347154;Nordwestzentrum;halt;stop_position;Train Station
+Frankfurt;3705779876;node;1;50,1579388;8,7591764;Erlenseer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5902639723;node;1;50,1579488;8,6346656;Nordwestzentrum;station;station;Subway Station
+Frankfurt;2783251114;node;1;50,1579844;8,6546619;Call a Bike Am Weiﬂen Stein / Maybachstraﬂe;bicycle_rental;;Bicycle Rental
+Frankfurt;1523250039;node;1;50,1581214;8,6332511;Nordwestzentrum;bus_stop;platform;Bus stop
+Frankfurt;1508790138;node;1;50,1581856;8,6598905;Im Wˆrth;bus_stop;platform;Bus stop
+Frankfurt;458891923;node;1;50,1583051;8,6953651;An den Drei Hohen;bus_stop;platform;Bus stop
+Frankfurt;1523250050;node;1;50,1583433;8,6340278;Nordwestzentrum;bus_stop;platform;Bus stop
+Frankfurt;458891922;node;1;50,158389;8,6952162;An den Drei Hohen;bus_stop;platform;Bus stop
+Frankfurt;3130992998;node;1;50,1584381;8,6553186;Frankfurt-Eschersheim;halt;station;Train Station
+Frankfurt;2683736548;node;1;50,1584684;8,6873055;Preungesheim;tram_stop;stop_position;Tram Stop
+Frankfurt;372733092;node;1;50,1586907;8,7588829;Marktplatz Bergen;bus_stop;platform;Bus stop
+Frankfurt;332994589;node;1;50,1587678;8,687796;Preungesheim (U);bus_stop;platform;Bus stop
+Frankfurt;618398675;node;1;50,1588021;8,652899;Niedwiesenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;304004281;node;1;50,1588735;8,7549107;Nordring/Haingasse;bus_stop;platform;Bus stop
+Frankfurt;3401875244;node;1;50,1589006;8,7613618;Hohe Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3467467532;node;1;50,1589492;8,6884441;Preungesheim (U);bus_stop;platform;Bus stop
+Frankfurt;332287318;node;1;50,1590622;8,6566616;Zehnmorgenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;613531072;node;1;50,1590628;8,6549206;Eschersheim Bahnhof;bus_stop;platform;Bus stop
+Frankfurt;441407676;node;1;50,1597113;8,6470365;Heddernheim Kirche;bus_stop;platform;Bus stop
+Frankfurt;425877742;node;1;50,1597754;8,6440561;Cohausenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640094735;node;1;50,1597968;8,739941;Berger Warte;bus_stop;platform;Bus stop
+Frankfurt;2640094736;node;1;50,1598454;8,7396022;Berger Warte;bus_stop;platform;Bus stop
+Frankfurt;311575953;node;1;50,1600227;8,6897601;August-Schanz-Straﬂe / Dachsberg;bus_stop;platform;Bus stop
+Frankfurt;311575951;node;1;50,1601039;8,6896327;August-Schanz-Straﬂe / Dachsberg;bus_stop;platform;Bus stop
+Frankfurt;310644536;node;1;50,1602804;8,6594346;Anne-Frank-Siedlung;bus_stop;platform;Bus stop
+Frankfurt;681580764;node;1;50,1604827;8,6194939;Gerhart-Hauptmann-Ring/Praunheimer Weg;bus_stop;platform;Bus stop
+Frankfurt;384773769;node;1;50,1606403;8,6601425;Anne-Frank-Siedlung;bus_stop;platform;Bus stop
+Frankfurt;1302241181;node;1;50,1610141;8,6423992;Kaltm¸hlstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30111214;node;1;50,1611291;8,6501215;Heddernheim;station;stop_position;Subway Station
+Frankfurt;741183832;node;1;50,1611427;8,6501637;Heddernheim;station;stop_position;Subway Station
+Frankfurt;630453970;node;1;50,1612204;8,6488092;Heddernheim;bus_stop;platform;Bus stop
+Frankfurt;3410358493;node;1;50,1614025;8,6490425;Heddernheim;bus_stop;platform;Bus stop
+Frankfurt;392767167;node;1;50,1615175;8,6206996;Praunheimer Weg Mitte;bus_stop;platform;Bus stop
+Frankfurt;618398679;node;1;50,1615621;8,656057;Dreih‰usergasse;bus_stop;platform;Bus stop
+Frankfurt;618398678;node;1;50,1615677;8,6558886;Dreih‰usergasse;bus_stop;platform;Bus stop
+Frankfurt;630453965;node;1;50,1615898;8,6480435;Heddernheim;bus_stop;platform;Bus stop
+Frankfurt;3410358495;node;1;50,1616443;8,6493494;Heddernheim;bus_stop;platform;Bus stop
+Frankfurt;1508741218;node;1;50,1618217;8,6401437;Oberschelder Weg;bus_stop;platform;Bus stop
+Frankfurt;1515972347;node;1;50,1618946;8,7237133;Parkfriedhof Heiligenstock;bus_stop;stop_position;Bus stop
+Frankfurt;1508741227;node;1;50,1620018;8,6399851;Oberschelder Weg;bus_stop;platform;Bus stop
+Frankfurt;1515972349;node;1;50,1621517;8,7237504;Parkfriedhof Heiligenstock;bus_stop;stop_position;Bus stop
+Frankfurt;332286862;node;1;50,1625194;8,6611985;Im Geeren;bus_stop;platform;Bus stop
+Frankfurt;3211037007;node;1;50,1625284;8,6428582;Station Dillenburger Straﬂe;car_sharing;;Car Sharing
+Frankfurt;1508790142;node;1;50,1626315;8,6615697;Im Geeren;bus_stop;platform;Bus stop
+Frankfurt;332996802;node;1;50,1626457;8,6843148;August-Schanz-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767163;node;1;50,1626633;8,6287604;Roﬂkopfstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;392767164;node;1;50,1628071;8,6290755;Roﬂkopfstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;332993832;node;1;50,1628751;8,6837547;August-Schanz-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;679259412;node;1;50,1634071;8,6152799;Thomas-Mann-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;311549598;node;1;50,163755;8,654934;Am Gr¸nen Graben;bus_stop;platform;Bus stop
+Frankfurt;30111230;node;1;50,1637958;8,6348233;Heddernheimer Landstraﬂe;halt;stop_position;Train Station
+Frankfurt;755957756;node;1;50,1637978;8,6347767;Heddernheimer Landstraﬂe;halt;stop_position;Train Station
+Frankfurt;392767165;node;1;50,1638025;8,62142;Eduard-Bernstein-Weg;bus_stop;platform;Bus stop
+Frankfurt;332286863;node;1;50,1640068;8,6635607;Am Gabelacker;bus_stop;platform;Bus stop
+Frankfurt;1508790117;node;1;50,1642288;8,6637917;Am Gabelacker;bus_stop;platform;Bus stop
+Frankfurt;757432901;node;1;50,164339;8,6430697;Zeilweg;halt;stop_position;Train Station
+Frankfurt;30111351;node;1;50,1643597;8,6431008;Zeilweg;halt;stop_position;Train Station
+Frankfurt;441278976;node;1;50,1644302;8,642434;Zeilweg;bus_stop;platform;Bus stop
+Frankfurt;441278974;node;1;50,1647504;8,6426259;Zeilweg;bus_stop;platform;Bus stop
+Frankfurt;1694214612;node;1;50,164804;8,6815372;;taxi;;Taxi
+Frankfurt;311566686;node;1;50,1649875;8,6930661;Dachsberg;bus_stop;platform;Bus stop
+Frankfurt;451723904;node;1;50,164997;8,6567543;Am Gr¸nen Graben;bus_stop;platform;Bus stop
+Frankfurt;332996803;node;1;50,1652733;8,6812205;Kaiserkronenweg;bus_stop;platform;Bus stop
+Frankfurt;401562770;node;1;50,165341;8,6259793;Heinrich-Kromer Schule;bus_stop;platform;Bus stop
+Frankfurt;401562771;node;1;50,1654348;8,6225357;Alt-Niederursel;bus_stop;platform;Bus stop
+Frankfurt;30751019;node;1;50,1655919;8,6452884;Sandelm¸hle;halt;stop_position;Train Station
+Frankfurt;332993829;node;1;50,1656034;8,6806363;Kaiserkronenweg;bus_stop;platform;Bus stop
+Frankfurt;311566683;node;1;50,1656461;8,6931948;Dachsberg;bus_stop;platform;Bus stop
+Frankfurt;1508790154;node;1;50,1659558;8,6692701;Rotdornweg;bus_stop;platform;Bus stop
+Frankfurt;332286864;node;1;50,1659632;8,6702757;Rotdornweg;bus_stop;platform;Bus stop
+Frankfurt;427594350;node;1;50,166107;8,6557732;Im Uhrig;bus_stop;platform;Bus stop
+Frankfurt;758595993;node;1;50,1661094;8,645147;Sandelm¸hle;halt;stop_position;Train Station
+Frankfurt;482617198;node;1;50,1663008;8,6448383;Sandelm¸hle;bus_stop;platform;Bus stop
+Frankfurt;482617196;node;1;50,1665074;8,6448449;Sandelm¸hle;bus_stop;platform;Bus stop
+Frankfurt;332287593;node;1;50,1665437;8,6734887;Fliederweg;bus_stop;platform;Bus stop
+Frankfurt;757432910;node;1;50,1666566;8,6301117;Wiesenau;halt;stop_position;Train Station
+Frankfurt;30431102;node;1;50,1666812;8,63013;Wiesenau;halt;stop_position;Train Station
+Frankfurt;1508790126;node;1;50,1667067;8,6736123;Fliederweg;bus_stop;platform;Bus stop
+Frankfurt;681580767;node;1;50,1670058;8,6179539;Weiﬂkirchener Weg;bus_stop;platform;Bus stop
+Frankfurt;332287963;node;1;50,1671293;8,6775788;Hagebuttenweg;bus_stop;platform;Bus stop
+Frankfurt;332996806;node;1;50,1671879;8,6770035;Hagebuttenweg;bus_stop;platform;Bus stop
+Frankfurt;311564929;node;1;50,1672902;8,6942977;Im Steinb¸gel;bus_stop;platform;Bus stop
+Frankfurt;494230807;node;1;50,167602;8,6785823;Siedlung Frankfurter Berg;bus_stop;platform;Bus stop
+Frankfurt;1508790159;node;1;50,1676066;8,6783406;Siedlung Frankfurter Berg;bus_stop;platform;Bus stop
+Frankfurt;332997059;node;1;50,1677313;8,6807974;Julius-Brecht-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;332288539;node;1;50,1678574;8,6820506;Julius-Brecht-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;311564934;node;1;50,1680597;8,6950101;Im Steinb¸gel;bus_stop;platform;Bus stop
+Frankfurt;332288544;node;1;50,1682404;8,6885763;Am Neuenberg;bus_stop;platform;Bus stop
+Frankfurt;332288542;node;1;50,1683783;8,6852854;Heinrich- Plett-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1508790129;node;1;50,1683944;8,6847948;Heinrich- Plett-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;757433037;node;1;50,1690302;8,6229994;Niederursel;halt;stop_position;Train Station
+Frankfurt;30431128;node;1;50,1693855;8,6224583;Niederursel;halt;stop_position;Train Station
+Frankfurt;443399389;node;1;50,1698417;8,6406954;Sebastian-Kneipp-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443399388;node;1;50,1698626;8,6412842;Sebastian-Kneipp-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;311563337;node;1;50,1699673;8,6960934;Berkersheim Mitte;bus_stop;platform;Bus stop
+Frankfurt;443399396;node;1;50,1700143;8,6378364;Emil-von-Behring-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3130992999;node;1;50,1702299;8,6767817;Frankfurt Frankfurter Berg;station;;Subway Station
+Frankfurt;443399397;node;1;50,1703301;8,6373795;Emil-von-Behring-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;310641727;node;1;50,1705434;8,6975014;Berkersheim Mitte;bus_stop;platform;Bus stop
+Frankfurt;3378300910;node;1;50,1705979;8,6761633;Frankfurter Berg Bahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;3378300911;node;1;50,1706915;8,6761332;Frankfurter Berg Bahnhof;bus_stop;stop_position;Bus stop
+Frankfurt;30751023;node;1;50,1708433;8,6431805;Riedwiese/Mertonviertel;halt;stop_position;Train Station
+Frankfurt;482617194;node;1;50,1709195;8,6356823;Lurgiallee;bus_stop;platform;Bus stop
+Frankfurt;758595912;node;1;50,1710973;8,6431179;Riedwiese/Mertonviertel;halt;stop_position;Train Station
+Frankfurt;482617193;node;1;50,1711812;8,6357887;Lurgiallee;bus_stop;platform;Bus stop
+Frankfurt;339504342;node;1;50,1738685;8,6344512;Geozentrum;bus_stop;platform;Bus stop
+Frankfurt;336621005;node;1;50,1739099;8,6346434;Geozentrum;bus_stop;platform;Bus stop
+Frankfurt;3901016766;node;1;50,1745143;8,6241395;Lucy-Hillebrand-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;3901016767;node;1;50,1746966;8,623636;Lucy-Hillebrand-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;2075502742;node;1;50,1747177;8,633172;Max-Planck-Institut/FIZ;bus_stop;platform;Bus stop
+Frankfurt;757432894;node;1;50,1753552;8,6281393;Uni-Campus Riedberg;halt;stop_position;Train Station
+Frankfurt;2075502773;node;1;50,1754046;8,6324006;Max-Planck-Institut/FIZ;bus_stop;platform;Bus stop
+Frankfurt;503719846;node;1;50,1755219;8,6284154;Uni-Campus Riedberg;halt;stop_position;Train Station
+Frankfurt;3901016775;node;1;50,1755828;8,6287526;Uni-Campus Riedberg;bus_stop;platform;Bus stop
+Frankfurt;3901016776;node;1;50,1757773;8,6284675;Uni-Campus Riedberg;bus_stop;platform;Bus stop
+Frankfurt;339504347;node;1;50,1760223;8,6415081;Am Bonifatiusbrunnen;bus_stop;platform;Bus stop
+Frankfurt;3901019531;node;1;50,1761522;8,6176032;Hans-Poelzig-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;1129676140;node;1;50,1762191;8,6974371;Frankfurt-Berkersheim;halt;stop_position;Train Station
+Frankfurt;2927509257;node;1;50,1762526;8,6168061;Hans-Poelzig-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;310644534;node;1;50,1766287;8,6975794;Berkersheim Bf;bus_stop;platform;Bus stop
+Frankfurt;339504345;node;1;50,1766436;8,6411702;Am Bonifatiusbrunnen;bus_stop;platform;Bus stop
+Frankfurt;4302169095;node;1;50,1766748;8,6979353;;bicycle_rental;;Bicycle Rental
+Frankfurt;311556729;node;1;50,1770715;8,6675725;Nordpark/Alter Flugplatz;bus_stop;platform;Bus stop
+Frankfurt;795846581;node;1;50,177291;8,6312307;Ludwig-Fulda-Weg;bus_stop;stop_position;Bus stop
+Frankfurt;795846587;node;1;50,1773916;8,6309713;Ludwig-Fulda-Weg;bus_stop;stop_position;Bus stop
+Frankfurt;3901019529;node;1;50,1776633;8,6168672;Ernst-Balser-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;311556730;node;1;50,177761;8,6669856;Nordpark/Alter Flugplatz;bus_stop;platform;Bus stop
+Frankfurt;3901019530;node;1;50,1778867;8,6169733;Ernst-Balser-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;336641652;node;1;50,178232;8,6376918;K‰the-Kruse-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;336643497;node;1;50,1783614;8,6377346;K‰the-Kruse-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3163075275;node;1;50,1785541;8,6285807;Annette-Kolb-Weg;bus_stop;stop_position;Bus stop
+Frankfurt;1508731727;node;1;50,1786934;8,6339424;Riedberg;bus_stop;platform;Bus stop
+Frankfurt;1508731728;node;1;50,1791027;8,6339967;Riedberg;bus_stop;platform;Bus stop
+Frankfurt;255537763;node;1;50,1796597;8,6354147;Riedberg;halt;stop_position;Train Station
+Frankfurt;757433012;node;1;50,179679;8,6353872;Riedberg;halt;stop_position;Train Station
+Frankfurt;3901024891;node;1;50,1802622;8,6197817;Hans-Leistikow-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;3901024892;node;1;50,1803695;8,6201421;Hans-Leistikow-Straﬂe;bus_stop;stop_position;Bus stop
+Frankfurt;494230809;node;1;50,1805998;8,6641674;Alt-Bonames;bus_stop;platform;Bus stop
+Frankfurt;534705251;node;1;50,180668;8,6638107;Alt-Bonames;bus_stop;platform;Bus stop
+Frankfurt;610287741;node;1;50,1823486;8,6252769;Johann-Beyer-Weg;bus_stop;platform;Bus stop
+Frankfurt;311998696;node;1;50,1823674;8,6965787;Sportanlage Harheim;bus_stop;platform;Bus stop
+Frankfurt;443417111;node;1;50,1823748;8,6254703;Johann-Beyer-Weg;bus_stop;platform;Bus stop
+Frankfurt;311998695;node;1;50,1824626;8,6965121;Sportanlage Harheim;bus_stop;platform;Bus stop
+Frankfurt;1507093078;node;1;50,1826992;8,6565075;Kalbach (U);bus_stop;platform;Bus stop
+Frankfurt;1510377934;node;1;50,1827456;8,6927225;Rathaus Harheim;bus_stop;platform;Bus stop
+Frankfurt;443417126;node;1;50,1827516;8,6567164;Kalbach (U);bus_stop;platform;Bus stop
+Frankfurt;616771749;node;1;50,1828374;8,6563388;Kalbach (U);bus_stop;platform;Bus stop
+Frankfurt;1507093084;node;1;50,182863;8,6563556;Kalbach (U);bus_stop;platform;Bus stop
+Frankfurt;494230811;node;1;50,1828785;8,6646114;Bonameser Hainstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30751038;node;1;50,1829344;8,6577236;Kalbach;halt;stop_position;Train Station
+Frankfurt;1510377954;node;1;50,1830061;8,6926132;Rathaus Harheim;bus_stop;platform;Bus stop
+Frankfurt;1507093071;node;1;50,1830945;8,6630749;Bonameser Hainstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1510377896;node;1;50,1831398;8,6731381;Harheimer Weg;bus_stop;platform;Bus stop
+Frankfurt;758595829;node;1;50,1832031;8,6583305;Kalbach;halt;stop_position;Train Station
+Frankfurt;1460381726;node;1;50,1832329;8,6677444;Haus Nidda;bus_stop;platform;Bus stop
+Frankfurt;1510377902;node;1;50,1832369;8,673328;Harheimer Weg;bus_stop;platform;Bus stop
+Frankfurt;1460381729;node;1;50,1833305;8,6676207;Haus Nidda;bus_stop;platform;Bus stop
+Frankfurt;1506254472;node;1;50,1836115;8,6649775;Bonameser Hainstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;5842394852;node;1;50,1838175;8,6841412;Im Niederfeld;bus_stop;platform;Bus stop
+Frankfurt;5842394851;node;1;50,1838287;8,6838904;Im Niederfeld;bus_stop;platform;Bus stop
+Frankfurt;610287728;node;1;50,1840933;8,6240698;Paul-Apel-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;472279443;node;1;50,1841422;8,6518889;Bonifatiusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;472279444;node;1;50,1841693;8,6516083;Bonifatiusstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;610287743;node;1;50,1842154;8,624191;Paul-Apel-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443420811;node;1;50,184295;8,6959685;Am Eschbachtal;bus_stop;platform;Bus stop
+Frankfurt;1510377873;node;1;50,1845568;8,6963145;Am Eschbachtal;bus_stop;platform;Bus stop
+Frankfurt;1508731676;node;1;50,1848984;8,6603882;Ben-Gurion-Ring S¸d;bus_stop;platform;Bus stop
+Frankfurt;484880837;node;1;50,1849734;8,6887487;Spitzenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1508731697;node;1;50,1850321;8,659955;Ben-Gurion-Ring S¸d;bus_stop;platform;Bus stop
+Frankfurt;484870729;node;1;50,1850391;8,688862;Spitzenstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;30751041;node;1;50,185148;8,6640805;Bonames Mitte;halt;stop_position;Train Station
+Frankfurt;494230813;node;1;50,1852258;8,6655223;Bonames Mitte;bus_stop;platform;Bus stop
+Frankfurt;758595850;node;1;50,1853467;8,664945;Bonames Mitte;halt;stop_position;Train Station
+Frankfurt;1508741178;node;1;50,1854363;8,6464719;Alte Riedbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;1508741184;node;1;50,1854987;8,6465322;Alte Riedbergstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;768540801;node;1;50,1858745;8,6656101;Bonames Mitte;bus_stop;platform;Bus stop
+Frankfurt;1508741215;node;1;50,1865109;8,6617644;Homburger Hohl;bus_stop;platform;Bus stop
+Frankfurt;1508741213;node;1;50,1866191;8,6615882;Homburger Hohl;bus_stop;platform;Bus stop
+Frankfurt;443420804;node;1;50,186685;8,6982146;Am Rˆmerbrunnen;bus_stop;platform;Bus stop
+Frankfurt;1507093087;node;1;50,1866967;8,6498708;Sportzentrum Kalbach;bus_stop;platform;Bus stop
+Frankfurt;443417128;node;1;50,1868645;8,6503262;Sportzentrum Kalbach;bus_stop;platform;Bus stop
+Frankfurt;2478014158;node;1;50,1870655;8,6982541;Am Rˆmerbrunnen;bus_stop;platform;Bus stop
+Frankfurt;1508741197;node;1;50,1871794;8,6468069;Am Hang;bus_stop;platform;Bus stop
+Frankfurt;443417116;node;1;50,1879303;8,6347045;Am Weiﬂkirchener Berg;bus_stop;platform;Bus stop
+Frankfurt;1508741199;node;1;50,1880702;8,6345675;Am Weiﬂkirchener Berg;bus_stop;platform;Bus stop
+Frankfurt;1508741255;node;1;50,1882106;8,6422712;Schule Kalbach;bus_stop;platform;Bus stop
+Frankfurt;1508741256;node;1;50,18824;8,6421637;Schule Kalbach;bus_stop;platform;Bus stop
+Frankfurt;443417135;node;1;50,1883474;8,658292;Seniorenwohnanlage B¸gel;bus_stop;platform;Bus stop
+Frankfurt;1508741252;node;1;50,188351;8,6431773;Schule Kalbach;bus_stop;platform;Bus stop
+Frankfurt;1506513510;node;1;50,1883836;8,6305592;Hopfenbrunnen;bus_stop;platform;Bus stop
+Frankfurt;443417114;node;1;50,1885025;8,631739;Schwalbenweg;bus_stop;platform;Bus stop
+Frankfurt;1507093086;node;1;50,1885254;8,6584606;Seniorenwohnanlage B¸gel;bus_stop;platform;Bus stop
+Frankfurt;1508741262;node;1;50,1885727;8,6319712;Schwalbenweg;bus_stop;platform;Bus stop
+Frankfurt;443420801;node;1;50,188799;8,6991574;Tempelhof;bus_stop;platform;Bus stop
+Frankfurt;1508731739;node;1;50,188986;8,6645345;ƒrztehaus am B¸gel;bus_stop;platform;Bus stop
+Frankfurt;1508731738;node;1;50,1890789;8,6647667;ƒrztehaus am B¸gel;bus_stop;platform;Bus stop
+Frankfurt;1508741194;node;1;50,1891892;8,6393243;Rathaus Kalbach;bus_stop;platform;Bus stop
+Frankfurt;1455056252;node;1;50,1893283;8,638767;Rathaus Kalbach;bus_stop;platform;Bus stop
+Frankfurt;1510377966;node;1;50,1893517;8,6996515;Tempelhof;bus_stop;platform;Bus stop
+Frankfurt;443417133;node;1;50,1896991;8,6524501;Heinrich-Lanz-Allee;bus_stop;platform;Bus stop
+Frankfurt;443417130;node;1;50,1897472;8,652813;Heinrich-Lanz-Allee;bus_stop;platform;Bus stop
+Frankfurt;1510377987;node;1;50,1899919;8,6999873;Tempelhof;bus_stop;;Bus stop
+Frankfurt;494230815;node;1;50,1901596;8,6667172;Konrad-Duden-Weg;bus_stop;platform;Bus stop
+Frankfurt;1505722439;node;1;50,1903106;8,6665582;Konrad-Duden-Weg;bus_stop;platform;Bus stop
+Frankfurt;443417146;node;1;50,190341;8,6586588;Ben-Gurion-Ring West;bus_stop;platform;Bus stop
+Frankfurt;1366432847;node;1;50,1904889;8,6592124;Ben-Gurion-Ring West;bus_stop;platform;Bus stop
+Frankfurt;1510377929;node;1;50,190625;8,700552;Lindenhof;bus_stop;platform;Bus stop
+Frankfurt;1510377931;node;1;50,1909065;8,7006348;Lindenhof;bus_stop;platform;Bus stop
+Frankfurt;2640000774;node;1;50,1910899;8,6506638;Xaver-Fendt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443417149;node;1;50,1913398;8,657761;Genfer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2640000775;node;1;50,1913512;8,6505043;Xaver-Fendt-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1366432848;node;1;50,191382;8,6572063;Genfer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1508741201;node;1;50,1915348;8,6620209;Ben-Gurion-Ring Nord;bus_stop;platform;Bus stop
+Frankfurt;1508741206;node;1;50,1917747;8,6614955;Ben-Gurion-Ring Nord;bus_stop;platform;Bus stop
+Frankfurt;768532380;node;1;50,1922388;8,6650539;Glogauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;768532388;node;1;50,19233;8,6651334;Glogauer Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443417165;node;1;50,1928571;8,662634;Berner Straﬂe/Ben-Gurion-Ring;bus_stop;platform;Bus stop
+Frankfurt;2640000784;node;1;50,1928777;8,6472205;Karl-Ritscher-Anlage;bus_stop;stop_position;Bus stop
+Frankfurt;5467183815;node;1;50,1929015;8,6612194;Main Taxi Frankfurt 069 - 73 30 30;taxi;;Taxi
+Frankfurt;1508741212;node;1;50,1930278;8,6623396;Berner Straﬂe/Ben-Gurion-Ring;bus_stop;platform;Bus stop
+Frankfurt;2640000785;node;1;50,1933779;8,6461949;Karl-Ritscher-Anlage;bus_stop;stop_position;Bus stop
+Frankfurt;1505722436;node;1;50,1934569;8,659636;Berner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443417151;node;1;50,1936461;8,6602001;Berner Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2535526808;node;1;50,1939973;8,6594534;Europcar;car_rental;;Car rental
+Frankfurt;1356490384;node;1;50,1947082;8,6481765;Frischezentrum;bus_stop;platform;Bus stop
+Frankfurt;443417162;node;1;50,1947172;8,6560365;Gewerbegebiet Niedereschbach;bus_stop;platform;Bus stop
+Frankfurt;1510377876;node;1;50,1951695;8,7051124;Erlenhof;bus_stop;platform;Bus stop
+Frankfurt;1510377891;node;1;50,1952077;8,704898;Erlenhof;bus_stop;platform;Bus stop
+Frankfurt;5607497762;node;1;50,1952237;8,6422893;Josef-Bautz-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;5607497761;node;1;50,1959805;8,6429062;Josef-Bautz-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;494230817;node;1;50,1969757;8,6672767;An der Bornhohl;bus_stop;platform;Bus stop
+Frankfurt;454335326;node;1;50,1970481;8,6672365;An der Bornhohl;bus_stop;platform;Bus stop
+Frankfurt;443420743;node;1;50,1971518;8,6664898;An der Bornhohl;bus_stop;platform;Bus stop
+Frankfurt;1507093064;node;1;50,1973542;8,6662141;An der Bornhohl;bus_stop;platform;Bus stop
+Frankfurt;443420766;node;1;50,1978662;8,7164862;Am Klingelborn;bus_stop;platform;Bus stop
+Frankfurt;494230821;node;1;50,1984605;8,6702854;Nieder-Eschbach (U);bus_stop;platform;Bus stop
+Frankfurt;1523267934;node;1;50,1985202;8,6702186;Nieder-Eschbach (U);bus_stop;platform;Bus stop
+Frankfurt;1508741216;node;1;50,1990336;8,6708062;Nieder-Eschbach (U);bus_stop;platform;Bus stop
+Frankfurt;1508741217;node;1;50,1990558;8,6708816;Nieder-Eschbach (U);bus_stop;platform;Bus stop
+Frankfurt;30751055;node;1;50,1994882;8,6702584;Nieder-Eschbach;tram_stop;station;Tram Stop
+Frankfurt;1507093089;node;1;50,1996554;8,6650415;Wilhelm-Flˆgel-Ring;bus_stop;platform;Bus stop
+Frankfurt;443420745;node;1;50,1998507;8,6651715;Wilhelm-Flˆgel-Ring;bus_stop;platform;Bus stop
+Frankfurt;1510377913;node;1;50,2000019;8,7077721;Hohe Br¸ck;bus_stop;platform;Bus stop
+Frankfurt;1510377962;node;1;50,2001248;8,6954937;Taunusblick;bus_stop;platform;Bus stop
+Frankfurt;1510377963;node;1;50,2001617;8,6953611;Taunusblick;bus_stop;platform;Bus stop
+Frankfurt;443420768;node;1;50,2002008;8,7080138;Hohe Br¸ck;bus_stop;platform;Bus stop
+Frankfurt;443420758;node;1;50,2002255;8,6744591;Glockengasse;bus_stop;platform;Bus stop
+Frankfurt;1506254478;node;1;50,20057;8,6714356;Michael-Grzimek-Schule;bus_stop;platform;Bus stop
+Frankfurt;1507093073;node;1;50,2006595;8,6743766;Glockengasse;bus_stop;platform;Bus stop
+Frankfurt;443420747;node;1;50,2015078;8,6670173;Otto-Hahn-Schule;bus_stop;platform;Bus stop
+Frankfurt;1507093085;node;1;50,201695;8,6679508;Otto-Hahn-Schule;bus_stop;platform;Bus stop
+Frankfurt;443420759;node;1;50,2018499;8,6770989;Heinrich-Becker-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1510377906;node;1;50,2018626;8,6768229;Heinrich-Becker-Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;617684414;node;1;50,2018839;8,6697599;Urseler Weg;bus_stop;platform;Bus stop
+Frankfurt;443420765;node;1;50,2019722;8,7127058;Schule Niedererlenbach;bus_stop;platform;Bus stop
+Frankfurt;443420762;node;1;50,2029188;8,7090427;Rathaus Niedererlenbach;bus_stop;platform;Bus stop
+Frankfurt;1510377958;node;1;50,2031783;8,7091057;Rathaus Niedererlenbach;bus_stop;platform;Bus stop
+Frankfurt;443420781;node;1;50,2037677;8,702895;Kurmarkstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;443420777;node;1;50,2039426;8,7035616;Kurmarkstraﬂe;bus_stop;platform;Bus stop
+Frankfurt;4123744386;node;1;50,2043136;8,7081711;B¸cherbus;bus_stop;;Bus stop
+Frankfurt;443420783;node;1;50,205366;8,7073772;Niedereschbacher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;1323317577;node;1;50,2055364;8,7066676;Niedereschbacher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;443420785;node;1;50,2059304;8,7069842;Niedereschbacher Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;2614719233;node;1;50,2071757;8,7055659;Mecklenburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;472327549;node;1;50,2072938;8,7055817;Mecklenburger Straﬂe;bus_stop;platform;Bus stop
+Frankfurt;3483694849;node;1;50,2077234;8,7037015;Im Fuchsloch;bus_stop;platform;Bus stop
+Frankfurt;2614719208;node;1;50,2097469;8,7019947;Am Riedsteg;bus_stop;platform;Bus stop
+Frankfurt;3483694842;node;1;50,2097604;8,7018111;Am Riedsteg;bus_stop;platform;Bus stop

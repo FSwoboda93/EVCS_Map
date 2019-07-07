@@ -1,0 +1,1943 @@
+city;id;type;otype;lat;lon;name;amenity;amenity_specification;amenity2
+Cologne;266411361;node;1;50,8382669;7,0694915;Libur Kiche;bus_stop;platform;Bus Stop
+Cologne;1963985707;node;1;50,8382986;7,0693844;Libur Kiche;bus_stop;;Bus Stop
+Cologne;266411360;node;1;50,8392576;7,0731571;Libur, Margarethenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5610280688;node;1;50,8392905;7,0731415;Libur, Margarethenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1963965952;node;1;50,8392942;7,0729544;Libur, Margarethenstraﬂe;bus_stop;;Bus Stop
+Cologne;1233659073;node;1;50,8411627;7,1043038;Niederkasseler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1383538209;node;1;50,8415008;7,0070825;Langel S¸d;bus_stop;platform;Bus Stop
+Cologne;1975165962;node;1;50,8415385;7,0069591;Langel S¸d;bus_stop;platform;Bus Stop
+Cologne;1224362896;node;1;50,8416245;7,1050333;Niederkasseler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1234552704;node;1;50,8426588;7,1012438;Spicher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;260688995;node;1;50,8447194;7,007538;Langel Kirche;bus_stop;platform;Bus Stop
+Cologne;1704837737;node;1;50,8447837;7,0076843;Langel Kirche;bus_stop;platform;Bus Stop
+Cologne;1234561605;node;1;50,845133;7,1021464;Niederkasseler Straﬂe/Kreisel;bus_stop;platform;Bus Stop
+Cologne;1360245265;node;1;50,8470844;6,9782897;Godorf;tram_stop;stop_position;Tram stop
+Cologne;2122649294;node;1;50,8471023;6,9783251;Godorf;tram_stop;station;Tram stop
+Cologne;58694630;node;1;50,8471216;6,9783719;Godorf;tram_stop;stop_position;Tram stop
+Cologne;2604652572;node;1;50,8477689;6,9785398;Godorf;bus_stop;platform;Bus Stop
+Cologne;6022288794;node;1;50,8478244;6,9785325;Godorf Bf;bus_stop;stop_position;Bus Stop
+Cologne;5873205882;node;1;50,8485788;7,0096343;Porz-Langel Zur Eiche;bus_stop;stop_position;Bus Stop
+Cologne;260688997;node;1;50,8485891;7,0095958;Porz-Langel Zur Eiche;bus_stop;platform;Bus Stop
+Cologne;1383536666;node;1;50,8490624;6,9756522;Pierstraﬂe;bus_stop;platform;Bus Stop
+Cologne;6022288793;node;1;50,8490856;6,9757113;Pierstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2792817104;node;1;50,8490877;6,9757754;Pierstraﬂe;bus_stop;platform;Bus Stop
+Cologne;6022288792;node;1;50,850368;6,9710545;Friedhof Godorf;bus_stop;stop_position;Bus Stop
+Cologne;1383536549;node;1;50,850378;6,971058;Friedhof Godorf;bus_stop;;Bus Stop
+Cologne;5873205881;node;1;50,8505154;7,0125279;Rheinbergstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;260688998;node;1;50,8505668;7,0124381;Rheinbergstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5873205880;node;1;50,8507757;7,0131175;Rheinbergstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5873205879;node;1;50,8508052;7,0130367;Rheinbergstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383538208;node;1;50,852984;7,018601;Porz-Langel M¸hle;bus_stop;stop_position;Bus Stop
+Cologne;1383536516;node;1;50,8530749;6,9751828;Bunsenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;387900292;node;1;50,8533679;6,9279378;Frankenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2536287711;node;1;50,8534926;6,9753421;Bunsenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;387900287;node;1;50,8537845;6,9210577;Engeldorfer Hof;bus_stop;stop_position;Bus Stop
+Cologne;205326998;node;1;50,8538157;6,9655831;Immendorf Siedlung;bus_stop;stop_position;Bus Stop
+Cologne;1457573885;node;1;50,855875;6,9287107;Im Rheintal;bus_stop;stop_position;Bus Stop
+Cologne;1383536602;node;1;50,8562756;6,9623586;Immendorf Schule;bus_stop;stop_position;Bus Stop
+Cologne;185700853;node;1;50,8563217;7,0255446;Porz-Langel Nord;bus_stop;stop_position;Bus Stop
+Cologne;1383536511;node;1;50,8569244;6,9233388;Auf der Freiheit;bus_stop;stop_position;Bus Stop
+Cologne;6028573541;node;1;50,8579295;6,9748202;Otto-Hahn-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;303323449;node;1;50,8581608;7,0795155;Wahn S-Bahn;bus_stop;platform;Bus Stop
+Cologne;4553072696;node;1;50,858162;7,079225;Porz-Wahn;station;station;Subway Station
+Cologne;1674359646;node;1;50,8583741;7,0918794;Kornblumenweg;bus_stop;stop_position;Bus Stop
+Cologne;3654032007;node;1;50,8583978;7,0797675;;taxi;;Taxi
+Cologne;1671606594;node;1;50,8584699;7,092472;Kornblumenweg;bus_stop;stop_position;Bus Stop
+Cologne;1129307601;node;1;50,8585957;6,9745084;Otto-Hahn-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;205326355;node;1;50,8588254;6,9590267;Immendorf;bus_stop;stop_position;Bus Stop
+Cologne;1383536531;node;1;50,8590414;6,9285219;Engeldorfer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383538217;node;1;50,8597996;7,1022621;Sportplatzstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3663779755;node;1;50,8601751;7,0342255;Oberz¸ndorf;bus_stop;stop_position;Bus Stop
+Cologne;6028245237;node;1;50,8603022;6,926963;Meschenich Kirche;bus_stop;platform;Bus Stop
+Cologne;447575087;node;1;50,8603386;7,0330957;Oberz¸ndorf;bus_stop;stop_position;Bus Stop
+Cologne;1383538227;node;1;50,860387;7,004559;Wesselinger Straﬂe;bus_stop;;Bus Stop
+Cologne;3961550847;node;1;50,8604636;6,9277092;Meschenich Kirche;bus_stop;platform;Bus Stop
+Cologne;276141508;node;1;50,8605051;6,9546955;Zaunhof;bus_stop;stop_position;Bus Stop
+Cologne;300580231;node;1;50,8606365;7,0370892;Z¸ndorf Ranzeler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;389145768;node;1;50,8609982;6,9320899;Kettelerstraﬂe;bus_stop;platform;Bus Stop
+Cologne;6022288791;node;1;50,8610463;6,9320887;Kettelerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6028573531;node;1;50,8611309;6,9742195;IKEA Godorf;bus_stop;platform;Bus Stop
+Cologne;3961550846;node;1;50,8612138;6,927409;Meschenich Kirche;bus_stop;platform;Bus Stop
+Cologne;6028573530;node;1;50,8613391;6,9744636;IKEA Godorf;bus_stop;platform;Bus Stop
+Cologne;4931098063;node;1;50,8619868;7,0070701;Marktplatz S¸rth;bus_stop;;Bus Stop
+Cologne;266411042;node;1;50,862107;7,0839179;Nachtigallenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383538206;node;1;50,8623605;7,0078348;Marktplatz S¸rth;bus_stop;;Bus Stop
+Cologne;904977615;node;1;50,8629254;7,08941;Schulzentrum Wahn;bus_stop;stop_position;Bus Stop
+Cologne;1383536507;node;1;50,8629364;6,9279018;Am Kˆlnberg;bus_stop;stop_position;Bus Stop
+Cologne;1690325436;node;1;50,8631204;7,0932608;Albin-Kˆbis-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;447574572;node;1;50,8631377;7,0368744;Z¸ndorf Altersheim;bus_stop;platform;Bus Stop
+Cologne;1690325438;node;1;50,8632389;7,0943355;Albin-Kˆbis-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;300572650;node;1;50,8634052;7,0410662;Olefsgasse;bus_stop;platform;Bus Stop
+Cologne;459941176;node;1;50,8639169;7,0544406;An St. Marien;bus_stop;stop_position;Bus Stop
+Cologne;1612937853;node;1;50,864478;7,011481;Kˆlnstraﬂe;bus_stop;;Bus Stop
+Cologne;2122649307;node;1;50,8645156;7,0037019;S¸rth;tram_stop;;Tram stop
+Cologne;1360245456;node;1;50,86462;7,0041949;S¸rth Bf;bus_stop;;Bus Stop
+Cologne;1360245452;node;1;50,8647035;7,0047362;;taxi;;Taxi
+Cologne;1612937859;node;1;50,8649579;7,0120863;Kˆlnstraﬂe;bus_stop;;Bus Stop
+Cologne;2909734170;node;1;50,8660632;7,0490364;Z¸ndorf;tram_stop;stop_position;Tram stop
+Cologne;2139019664;node;1;50,8660801;7,0489968;Z¸ndorf;tram_stop;stop_position;Tram stop
+Cologne;300603203;node;1;50,8663399;7,0415963;Z¸ndorf Kirche;bus_stop;platform;Bus Stop
+Cologne;300601402;node;1;50,8663455;7,0453141;Z¸ndorf Mitte;bus_stop;platform;Bus Stop
+Cologne;1383538171;node;1;50,8678808;7,0178245;Ernst-Volland-Straﬂe;bus_stop;;Bus Stop
+Cologne;1458993017;node;1;50,8684293;7,0446972;Z¸ndorf Marktstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6022288799;node;1;50,8687831;6,9912774;Mannesmannstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383536655;node;1;50,868788;6,991301;Mannesmannstraﬂe;bus_stop;;Bus Stop
+Cologne;4711963021;node;1;50,8690089;7,0062803;Heinrich-Erpenbach-Straﬂe;bus_stop;;Bus Stop
+Cologne;5182277306;node;1;50,8691102;7,0063696;Heinrich-Erpenbach-Straﬂe;bus_stop;;Bus Stop
+Cologne;6022288798;node;1;50,8700184;6,977994;Hahnwald;bus_stop;stop_position;Bus Stop
+Cologne;1383536576;node;1;50,870033;6,978002;Hahnwald;bus_stop;;Bus Stop
+Cologne;1383538188;node;1;50,8710956;7,0213626;Hammerschmidtstraﬂe;bus_stop;;Bus Stop
+Cologne;276374000;node;1;50,871106;7,041163;Z¸ndorf - Weiﬂ;ferry_terminal;;Ferry Terminal
+Cologne;389145767;node;1;50,8721031;6,9465735;Westerwaldstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1383538211;node;1;50,8724047;7,0238708;Ritterstraﬂe;bus_stop;;Bus Stop
+Cologne;5881673512;node;1;50,8727403;6,9935321;Kirschbaumweg;bus_stop;;Bus Stop
+Cologne;2614067352;node;1;50,8727521;7,0560473;;bus_stop;;Bus Stop
+Cologne;6022288800;node;1;50,8728111;6,9935011;Kirschbaumweg;bus_stop;stop_position;Bus Stop
+Cologne;1383536624;node;1;50,8728415;6,9934287;Kirschbaumweg;bus_stop;;Bus Stop
+Cologne;4629881665;node;1;50,8730361;7,0248254;Ritterstraﬂe;bus_stop;;Bus Stop
+Cologne;551377063;node;1;50,8735994;6,9374634;Friedhof Steinneuerhof;bus_stop;;Bus Stop
+Cologne;586357987;node;1;50,8738356;6,9545694;Rondorf;bus_stop;platform;Bus Stop
+Cologne;2909733380;node;1;50,8741926;7,0600808;Rosenh¸gel;tram_stop;stop_position;Tram stop
+Cologne;247488699;node;1;50,8741957;7,0600489;Rosenh¸gel;tram_stop;stop_position;Tram stop
+Cologne;477285016;node;1;50,8745022;6,9505698;Bˆdinger Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1469428073;node;1;50,874653;7,0395976;Weiﬂ - Z¸ndorf;ferry_terminal;;Ferry Terminal
+Cologne;2302143997;node;1;50,8752285;7,115566;Heinrich-Steinmann-Straﬂe;bus_stop;;Bus Stop
+Cologne;2598164512;node;1;50,8754144;7,1160588;Flughafen Personalparkplatz;bus_stop;;Bus Stop
+Cologne;278887280;node;1;50,8755116;6,994997;Am Neuen Forst;bus_stop;stop_position;Bus Stop
+Cologne;1388435607;node;1;50,8755625;7,0293426;Weiﬂer Hauptstraﬂe;bus_stop;;Bus Stop
+Cologne;1378699104;node;1;50,8756853;7,0297155;Weiﬂer Hauptstraﬂe;bus_stop;;Bus Stop
+Cologne;586357990;node;1;50,8757095;6,9574637;Habichtstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1383536667;node;1;50,875755;6,960205;Reiherstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2122649297;node;1;50,8759692;6,9990761;Michaelshoven;tram_stop;;Tram stop
+Cologne;551377072;node;1;50,876657;6,9381069;Am Steinneuerhof;bus_stop;;Bus Stop
+Cologne;1077291378;node;1;50,8766968;6,9143527;Rodenkirchener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1383538225;node;1;50,8772851;7,0268383;Weiﬂ Friedhof;bus_stop;;Bus Stop
+Cologne;439239354;node;1;50,8772931;6,9603295;Lerchenweg;bus_stop;;Bus Stop
+Cologne;2097303178;node;1;50,8783079;7,0875337;Urbach Friedhof;bus_stop;;Bus Stop
+Cologne;1383538228;node;1;50,8790119;7,0211142;Zum Hedelsberg;bus_stop;;Bus Stop
+Cologne;818639081;node;1;50,8790266;7,1218909;;taxi;;Taxi
+Cologne;2598164516;node;1;50,8790362;7,1199238;Kˆln/Bonn Flughafen;bus_stop;;Bus Stop
+Cologne;4530820016;node;1;50,8790802;7,1193621;Kˆln/Bonn Flughafen;station;station;Subway Station
+Cologne;2138910330;node;1;50,8793243;7,121563;Sixt;car_rental;;Car Rental
+Cologne;2138910331;node;1;50,8793979;7,1213874;;car_rental;;Car Rental
+Cologne;6061630885;node;1;50,8794085;7,003038;Friedhof Rodenkirchen;bus_stop;;Bus Stop
+Cologne;2608075516;node;1;50,8794503;6,9168745;Am Eifeltor;bus_stop;platform;Bus Stop
+Cologne;2138910332;node;1;50,8794714;7,1212118;;car_rental;;Car Rental
+Cologne;2138910335;node;1;50,8795449;7,1210362;;car_rental;;Car Rental
+Cologne;2598164513;node;1;50,8799213;7,1106595;Krieger-Straﬂe;bus_stop;;Bus Stop
+Cologne;2598164515;node;1;50,8800262;7,1105844;Krieger-Straﬂe;bus_stop;;Bus Stop
+Cologne;1383536591;node;1;50,880214;6,93688;Hˆningen Rondorfer Weg;bus_stop;;Bus Stop
+Cologne;2598164509;node;1;50,8802987;7,1034819;Grengel, Mauspfad;bus_stop;;Bus Stop
+Cologne;2598164510;node;1;50,8803748;7,1035168;Grengel, Mauspfad;bus_stop;;Bus Stop
+Cologne;1218835385;node;1;50,8805851;7,1183567;;taxi;;Taxi
+Cologne;1622461330;node;1;50,8805977;7,0155871;Adolf-Menzel-Straﬂe;bus_stop;;Bus Stop
+Cologne;464016811;node;1;50,8806575;7,0976067;Waldstr./Akazienweg;bus_stop;stop_position;Bus Stop
+Cologne;6063102706;node;1;50,8807759;7,0147169;Adolf-Menzel-Straﬂe;bus_stop;;Bus Stop
+Cologne;1457541039;node;1;50,8809933;6,9192908;G¸terverkehrszentrum S¸d;bus_stop;platform;Bus Stop
+Cologne;2096394518;node;1;50,8811121;7,0728696;Feuerwache;bus_stop;platform;Bus Stop
+Cologne;439239352;node;1;50,8811444;6,9623192;Lindenweg;bus_stop;platform;Bus Stop
+Cologne;2598164511;node;1;50,8812498;7,0986485;Waldstr./Akazienweg;bus_stop;;Bus Stop
+Cologne;2096394528;node;1;50,881262;7,0729806;Feuerwache;bus_stop;platform;Bus Stop
+Cologne;2096394529;node;1;50,8812745;7,0830513;Urbach, Waldstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2096394542;node;1;50,8813581;7,0809583;Urbach Kaiserstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2598164518;node;1;50,8814748;7,0971411;Waldstr./Akazienweg;bus_stop;;Bus Stop
+Cologne;2096394545;node;1;50,8814771;7,0808065;Urbach Kaiserstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2096394558;node;1;50,881632;7,0827358;Urbach, Waldstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2598164514;node;1;50,8816593;7,0916373;Antoniusstr.;bus_stop;;Bus Stop
+Cologne;2598164517;node;1;50,8817473;7,0928013;Antoniusstr.;bus_stop;;Bus Stop
+Cologne;2096394571;node;1;50,8820006;7,0686148;Celsiusstr.;bus_stop;platform;Bus Stop
+Cologne;1378661704;node;1;50,8820629;7,011921;Richard-Wagner-Straﬂe;bus_stop;;Bus Stop
+Cologne;2096394582;node;1;50,8821358;7,0686803;Celsiusstr.;bus_stop;platform;Bus Stop
+Cologne;1378661694;node;1;50,8826761;7,0111766;Richard-Wagner-Straﬂe;bus_stop;;Bus Stop
+Cologne;2096394597;node;1;50,8826911;7,0657153;Bf Porz;bus_stop;platform;Bus Stop
+Cologne;2096394600;node;1;50,8829371;7,0653296;Bf Porz;bus_stop;platform;Bus Stop
+Cologne;2598175000;node;1;50,8830537;7,0711264;Voltastr.;bus_stop;;Bus Stop
+Cologne;1383536514;node;1;50,883101;6,969735;Bonner Landstraﬂe;bus_stop;;Bus Stop
+Cologne;2598174994;node;1;50,8832026;7,0712444;Voltastr.;bus_stop;;Bus Stop
+Cologne;4551541310;node;1;50,8832667;7,0644885;Porz (Rhein);halt;station;Train Station
+Cologne;2122649305;node;1;50,8833367;6,9946362;Siegstraﬂe;tram_stop;;Tram stop
+Cologne;5292553449;node;1;50,8835212;7,07832;Cambio Pfaffenpfad;car_sharing;;Car Sharing
+Cologne;2096394601;node;1;50,8836018;7,0624543;Klingerstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2096394609;node;1;50,8837989;7,0626747;Klingerstraﬂe;bus_stop;platform;Bus Stop
+Cologne;446760407;node;1;50,8838461;7,0590764;;taxi;;Taxi
+Cologne;1383536592;node;1;50,8840544;6,9397648;Hˆningen Siedlung;bus_stop;;Bus Stop
+Cologne;6022288801;node;1;50,8843272;6,9896898;Schillingsrotter Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383536669;node;1;50,8843426;6,9896258;Schillingsrotter Straﬂe;bus_stop;;Bus Stop
+Cologne;1383538178;node;1;50,8846786;7,0055626;Gr¸ng¸rtelstraﬂe;bus_stop;;Bus Stop
+Cologne;205307116;node;1;50,8848648;7,0591507;Porz Markt;tram_stop;stop_position;Tram stop
+Cologne;1397149762;node;1;50,8849122;7,0052995;Bus Gr¸ng¸rtelstrasse Richtung Rodenkirchen;bus_stop;;Bus Stop
+Cologne;2096394482;node;1;50,8850296;7,0593956;Porz Markt;bus_stop;stop_position;Bus Stop
+Cologne;2909733322;node;1;50,8850412;7,0591979;Porz Markt;tram_stop;stop_position;Tram stop
+Cologne;331278586;node;1;50,8850732;7,0589468;Porz Markt;bus_stop;stop_position;Bus Stop
+Cologne;2598174999;node;1;50,8854024;7,0709601;Siemensstr.;bus_stop;;Bus Stop
+Cologne;1625969921;node;1;50,8854113;7,0605504;Markt/Porz;car_sharing;;Car Sharing
+Cologne;2598174997;node;1;50,8856935;7,0710835;Siemensstr.;bus_stop;;Bus Stop
+Cologne;4967436821;node;1;50,886294;7,073585;Dorotheenstraﬂe;bus_stop;;Bus Stop
+Cologne;1383538213;node;1;50,8863619;7,0028701;Sankt-Joseph-Kirche;bus_stop;;Bus Stop
+Cologne;5483261379;node;1;50,8868127;6,9207861;G¸terverkehrszentrum;bus_stop;platform;Bus Stop
+Cologne;6022288802;node;1;50,8871395;6,9896593;Schwabenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383536671;node;1;50,887141;6,989644;Schwabenstraﬂe;bus_stop;;Bus Stop
+Cologne;2598174998;node;1;50,8875533;7,0705926;Kopernikusschule;bus_stop;;Bus Stop
+Cologne;2598174993;node;1;50,8878357;7,0707348;Kopernikusschule;bus_stop;;Bus Stop
+Cologne;1383536673;node;1;50,887862;6,997874;Siegfriedstraﬂe;bus_stop;;Bus Stop
+Cologne;1629623641;node;1;50,8880789;6,9978324;Siegfriedstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2138475956;node;1;50,8881909;7,0799403;Im Falkenhorst;bus_stop;platform;Bus Stop
+Cologne;2598169816;node;1;50,8882627;7,080165;Im Falkenhorst;bus_stop;platform;Bus Stop
+Cologne;6063102704;node;1;50,8884934;7,0003174;Siegfriedstraﬂe;bus_stop;;Bus Stop
+Cologne;1388476384;node;1;50,8885202;7,0005777;;taxi;;Taxi
+Cologne;6063102702;node;1;50,8886556;7,0004107;Siegfriedstraﬂe;bus_stop;;Bus Stop
+Cologne;439239351;node;1;50,8887241;6,966399;Wasserwerk;bus_stop;stop_position;Bus Stop
+Cologne;1383538177;node;1;50,888725;7,060782;Glash¸ttenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1784456165;node;1;50,8896823;7,0600826;Glash¸ttenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1359422746;node;1;50,8904238;7,002263;;bus_stop;;Bus Stop
+Cologne;6022288804;node;1;50,8904485;7,0022535;Grimmelshausenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383536626;node;1;50,8904565;6,986056;Konrad-Adenauer-Straﬂe;bus_stop;;Bus Stop
+Cologne;1383536563;node;1;50,890476;7,00225;Grimmelshausenstraﬂe;bus_stop;;Bus Stop
+Cologne;885563065;node;1;50,8907695;7,0230046;Campingplatz;bus_stop;;Bus Stop
+Cologne;2122649304;node;1;50,8908112;6,9901237;Rodenkirchen;tram_stop;station;Tram stop
+Cologne;1383538212;node;1;50,8909133;7,0086869;Rodenkirchen Bismarckstraﬂe;bus_stop;;Bus Stop
+Cologne;1360245609;node;1;50,8909701;6,9903942;;taxi;;Taxi
+Cologne;2598174992;node;1;50,8909861;7,0695546;Humboldtstr.;bus_stop;;Bus Stop
+Cologne;1360245645;node;1;50,8910754;6,9903028;Rodenkirchen Bf;bus_stop;platform;Bus Stop
+Cologne;1360245648;node;1;50,89128;6,9902906;Rodenkirchen Bf;bus_stop;platform;Bus Stop
+Cologne;1344515851;node;1;50,8914749;7,0561279;Steinstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2909733775;node;1;50,8914944;7,0565429;Steinstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3992509396;node;1;50,8915503;6,9967226;Rodenkirchen Rathaus;bus_stop;platform;Bus Stop
+Cologne;6022671708;node;1;50,8915873;6,9968146;Rodenkirchen Rathaus;bus_stop;stop_position;Bus Stop
+Cologne;6022288805;node;1;50,8917543;7,0097682;Uferstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2598174996;node;1;50,891761;7,0700964;Humboldtstr.;bus_stop;;Bus Stop
+Cologne;1383538220;node;1;50,891769;7,009782;Uferstraﬂe;bus_stop;;Bus Stop
+Cologne;1015309270;node;1;50,891973;7,0564148;Steinstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6022288803;node;1;50,8919793;6,9963384;Rodenkirchen Rathaus;bus_stop;stop_position;Bus Stop
+Cologne;1383536668;node;1;50,8920063;6,9963829;Rodenkirchen Rathaus;bus_stop;platform;Bus Stop
+Cologne;1288291483;node;1;50,8920508;6,9965492;;taxi;;Taxi
+Cologne;256572334;node;1;50,8920881;7,05572;Steinstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2138487923;node;1;50,8921567;7,077842;Eil, Kirche;bus_stop;platform;Bus Stop
+Cologne;2138487928;node;1;50,8923859;7,07798;Eil, Kirche;bus_stop;platform;Bus Stop
+Cologne;1383536660;node;1;50,8926325;6,9935305;Maternusplatz;bus_stop;stop_position;Bus Stop
+Cologne;2598174991;node;1;50,8928743;7,0748171;Bonner Str.;bus_stop;;Bus Stop
+Cologne;2598174995;node;1;50,8929893;7,0746347;Bonner Str.;bus_stop;;Bus Stop
+Cologne;1383536541;node;1;50,8944597;6,9897697;Frankstraﬂe;bus_stop;;Bus Stop
+Cologne;6062054333;node;1;50,8948137;6,9896438;Frankstraﬂe;bus_stop;;Bus Stop
+Cologne;4077470197;node;1;50,8948946;6,9665117;Arnoldshˆhe;bus_stop;platform;Bus Stop
+Cologne;5341196664;node;1;50,8949389;6,966697;Arnoldshˆhe;bus_stop;platform;Bus Stop
+Cologne;2949338969;node;1;50,8952751;7,0576212;Kˆln Steinstraﬂe;halt;station;Train Station
+Cologne;1015306602;node;1;50,8954547;7,057974;Steinstraﬂe S-Bahn;bus_stop;stop_position;Bus Stop
+Cologne;439239350;node;1;50,8956036;6,9668507;Arnoldshˆhe;bus_stop;platform;Bus Stop
+Cologne;3799525570;node;1;50,896677;6,9667837;LeihTax;car_rental;;Car Rental
+Cologne;1640045046;node;1;50,8967611;7,0284763;;bus_stop;;Bus Stop
+Cologne;1997299217;node;1;50,8969323;7,064369;Theodor-Heuss-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;449224052;node;1;50,8969457;7,0751927;;car_rental;;Car Rental
+Cologne;548527303;node;1;50,8969583;7,0651831;Theodor-Heuss-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;267850248;node;1;50,8970039;7,0614384;Stresemannstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2598169814;node;1;50,8971003;7,0780814;Eil, Heumarer Str.;bus_stop;platform;Bus Stop
+Cologne;275577633;node;1;50,8971474;7,0472214;Ensen Kloster;tram_stop;stop_position;Tram stop
+Cologne;2909733320;node;1;50,8971655;7,0472593;Ensen Kloster;tram_stop;stop_position;Tram stop
+Cologne;4704139441;node;1;50,8971899;6,966164;Leyboldstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2598169829;node;1;50,8973296;7,0778413;Eil, Heumarer Str.;bus_stop;platform;Bus Stop
+Cologne;366956581;node;1;50,89744;6,95146;Heeresamt;bus_stop;;Bus Stop
+Cologne;5967631409;node;1;50,8975377;7,0577878;Steinstraﬂe S-Bahn;bus_stop;platform;Bus Stop
+Cologne;5967631408;node;1;50,8975774;7,0571065;Steinstraﬂe S-Bahn;bus_stop;platform;Bus Stop
+Cologne;366956579;node;1;50,8977783;6,951205;Heeresamt;bus_stop;;Bus Stop
+Cologne;4058464264;node;1;50,898346;6,975582;Marienburg S¸dpark;bus_stop;stop_position;Bus Stop
+Cologne;366961259;node;1;50,8985305;6,9312988;Oberer Komarweg;bus_stop;platform;Bus Stop
+Cologne;439239349;node;1;50,898642;6,9661327;Leyboldstraﬂe;bus_stop;platform;Bus Stop
+Cologne;366961254;node;1;50,8988819;6,9320139;Oberer Komarweg;bus_stop;platform;Bus Stop
+Cologne;2909733321;node;1;50,8996091;7,0320561;Gilgaustraﬂe;tram_stop;stop_position;Tram stop
+Cologne;247488756;node;1;50,8996474;7,0303646;Gilgaustraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1890744710;node;1;50,8998206;6,9848548;Heinrich-L¸bke-Ufer;tram_stop;;Tram stop
+Cologne;1638242602;node;1;50,900217;6,9848267;Heinrich-L¸bke-Ufer;bus_stop;;Bus Stop
+Cologne;2604302760;node;1;50,9003145;6,9848505;Heinrich-L¸bke-Ufer;bus_stop;;Bus Stop
+Cologne;366955060;node;1;50,9003358;6,9511041;Liblarer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;366955063;node;1;50,900414;6,9522953;Liblarer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;276132185;node;1;50,9004846;6,9443111;;taxi;;Taxi
+Cologne;4077470200;node;1;50,9005675;6,965251;Gaedestraﬂe;bus_stop;platform;Bus Stop
+Cologne;447952751;node;1;50,9006063;7,0753505;Rudolf-Diesel-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;366955019;node;1;50,9006332;6,9460833;Zollstock, S¸dfriedhof;bus_stop;platform;Bus Stop
+Cologne;1638242635;node;1;50,9007138;6,9846861;Heinrich-L¸bke-Ufer;bus_stop;;Bus Stop
+Cologne;4041867622;node;1;50,900875;6,9444542;Zollstock, S¸dfriedhof;tram_stop;stop_position;Tram stop
+Cologne;275557454;node;1;50,9008938;7,0550621;Cheruskerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;597716086;node;1;50,9009366;6,9444717;Zollstock, S¸dfriedhof;tram_stop;stop_position;Tram stop
+Cologne;4058568953;node;1;50,9009383;6,9738829;Marienburger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;366953273;node;1;50,9010538;6,9444115;Zollstock, S¸dfriedhof;bus_stop;platform;Bus Stop
+Cologne;249460094;node;1;50,9011739;7,0260044;Westhoven Berliner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;447952913;node;1;50,9012156;7,0761279;Rudolf-Diesel-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;439239348;node;1;50,9013348;6,9654129;Gaedestraﬂe;bus_stop;platform;Bus Stop
+Cologne;4058464265;node;1;50,9014468;6,9735424;Marienburger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2909734168;node;1;50,9015892;7,02495;Westhoven Berliner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;366963848;node;1;50,9016712;6,9365923;Kendenicher Straﬂe (C);bus_stop;platform;Bus Stop
+Cologne;366961246;node;1;50,9017887;6,9372491;Kendenicher Straﬂe (D);bus_stop;platform;Bus Stop
+Cologne;366961242;node;1;50,9018681;6,9372874;Kendenicher Straﬂe (A);bus_stop;platform;Bus Stop
+Cologne;366963832;node;1;50,9022812;6,937005;Kendenicher Straﬂe (B);bus_stop;platform;Bus Stop
+Cologne;1383538138;node;1;50,902788;7,0602945;Am Hochkreuz;bus_stop;stop_position;Bus Stop
+Cologne;5270718852;node;1;50,9035665;6,9580646;Br¸hler Straﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;364394748;node;1;50,9036613;6,965578;Bonner Straﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;548527296;node;1;50,9037149;7,0528665;Talweg;bus_stop;stop_position;Bus Stop
+Cologne;364394750;node;1;50,9038887;6,9650139;Bonner Straﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;5270718853;node;1;50,9039352;6,9579573;Br¸hler Straﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;364399784;node;1;50,9040808;6,9490843;Leichweg;bus_stop;;Bus Stop
+Cologne;1259333784;node;1;50,9043309;6,9717658;Goltsteinstraﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;364399785;node;1;50,9043685;6,9491146;Leichweg;bus_stop;;Bus Stop
+Cologne;364393223;node;1;50,9046014;6,971952;Goltsteinstraﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;366968725;node;1;50,90464;6,94374;Zollstockg¸rtel;bus_stop;;Bus Stop
+Cologne;417566932;node;1;50,9047057;6,9576405;Br¸hler Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;364393227;node;1;50,904729;6,9711006;Goltsteinstraﬂe/G¸rtel;bus_stop;;Bus Stop
+Cologne;1259310942;node;1;50,9048061;6,9719249;;taxi;;Taxi
+Cologne;3893574724;node;1;50,9048737;6,9092036;RheinEnergie-Sportpark;bus_stop;stop_position;Bus Stop
+Cologne;434483592;node;1;50,9048787;6,9575916;Br¸hler Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;359829;node;1;50,9049155;6,9639535;Starcar Autovermietung;car_rental;;Car Rental
+Cologne;2322794502;node;1;50,9049299;6,9712654;Goltsteinstraﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;366968735;node;1;50,9049526;6,9435139;Zollstockg¸rtel;bus_stop;;Bus Stop
+Cologne;3893574725;node;1;50,905142;6,9096624;RheinEnergie-Sportpark;bus_stop;stop_position;Bus Stop
+Cologne;366964640;node;1;50,9051627;6,9392499;Br¸gger Straﬂe;bus_stop;;Bus Stop
+Cologne;1014540298;node;1;50,9051978;7,0773236;Hansestraﬂe S¸d;bus_stop;stop_position;Bus Stop
+Cologne;366964648;node;1;50,90525;6,93915;Br¸gger Straﬂe;bus_stop;;Bus Stop
+Cologne;364400379;node;1;50,9052605;6,9456409;Roisdorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;1014540303;node;1;50,9053803;7,0769721;Hansestraﬂe S¸d;bus_stop;stop_position;Bus Stop
+Cologne;300378088;node;1;50,9055476;6,9420089;Zollstockg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;4016315471;node;1;50,9055613;6,942113;Zollstockg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;359831;node;1;50,9056542;6,9635812;;car_sharing;;Car Sharing
+Cologne;2322472555;node;1;50,9057623;6,963876;C‰sarstraﬂe;bus_stop;platform;Bus Stop
+Cologne;364390875;node;1;50,9060519;6,9763266;Bayenthalg¸rtel;bus_stop;;Bus Stop
+Cologne;364400381;node;1;50,9061031;6,9453167;Roisdorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;364390877;node;1;50,9062643;6,9758597;Bayenthalg¸rtel;bus_stop;;Bus Stop
+Cologne;366970835;node;1;50,9063294;6,9374484;Bernkasteler Straﬂe;bus_stop;;Bus Stop
+Cologne;247488766;node;1;50,9065386;7,0149883;Westhoven, Kˆlner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2909734169;node;1;50,9066014;7,0149763;Westhoven, Kˆlner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4041710830;node;1;50,9066773;6,9780151;Bayenthalg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;401566441;node;1;50,9066833;7,0563139;Auf dem Streitacker;bus_stop;platform;Bus Stop
+Cologne;366970816;node;1;50,9067588;6,9367792;Bernkasteler Straﬂe;bus_stop;;Bus Stop
+Cologne;401566440;node;1;50,9067623;7,0565842;Auf dem Streitacker;bus_stop;platform;Bus Stop
+Cologne;1383536519;node;1;50,9068927;6,96377;C‰sarstraﬂe;bus_stop;platform;Bus Stop
+Cologne;417566926;node;1;50,9070983;6,9596916;Rheinsteinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1890744704;node;1;50,907122;6,9775429;Bayenthalg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;417566928;node;1;50,9073972;6,959782;Rheinsteinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1056945622;node;1;50,907476;6,9135978;Scherfginstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;265729135;node;1;50,9076732;6,9194979;;taxi;;Taxi
+Cologne;1343164505;node;1;50,908108;6,9196045;Klettenbergpark;tram_stop;stop_position;Tram stop
+Cologne;1387525722;node;1;50,908148;6,919504;Klettenbergpark;tram_stop;stop_position;Tram stop
+Cologne;2130566641;node;1;50,9085127;7,0553823;Ettore-Bugatti-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2057464700;node;1;50,90855;6,970058;Tacitus;car_sharing;;Car Sharing
+Cologne;401566439;node;1;50,9086114;7,0552426;Ettore-Bugatti-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;634987521;node;1;50,9087285;6,9194062;Lux;car_sharing;;Car Sharing
+Cologne;364400996;node;1;50,9087869;6,9456836;Zollstocksweg;bus_stop;;Bus Stop
+Cologne;1997278685;node;1;50,9088424;7,0553987;;taxi;;Taxi
+Cologne;2516115081;node;1;50,9089836;7,0711755;Maarh‰user Weg;bus_stop;stop_position;Bus Stop
+Cologne;1014549500;node;1;50,9090199;7,0711451;Maarh‰user Weg;bus_stop;stop_position;Bus Stop
+Cologne;243289377;node;1;50,909186;7,0508128;August-Horch-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;364400998;node;1;50,9092131;6,9454159;Zollstocksweg;bus_stop;;Bus Stop
+Cologne;2130566640;node;1;50,9092195;7,0510376;August-Horch-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4058539949;node;1;50,9092888;6,9697261;Tacitusstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2057464690;node;1;50,90932;6,941117;Hˆninger;car_sharing;;Car Sharing
+Cologne;417566912;node;1;50,9095206;6,9618088;Mannsfeld;bus_stop;platform;Bus Stop
+Cologne;417566898;node;1;50,9096523;6,9627631;Mannsfeld;bus_stop;platform;Bus Stop
+Cologne;2326288274;node;1;50,909675;6,9629699;Mannsfeld;bus_stop;platform;Bus Stop
+Cologne;366972498;node;1;50,9098533;6,9290915;Siebengebirgsallee;bus_stop;;Bus Stop
+Cologne;4058464271;node;1;50,9099504;6,9693372;Tacitusstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1014549497;node;1;50,9099619;7,0703085;Maarh‰user Weg;bus_stop;platform;Bus Stop
+Cologne;6019243714;node;1;50,9100072;7,07037;Maarh‰user Weg;bus_stop;stop_position;Bus Stop
+Cologne;417566915;node;1;50,9100939;6,9620661;Mannsfeld;bus_stop;platform;Bus Stop
+Cologne;4041867607;node;1;50,9101;6,9415168;Gottesweg;tram_stop;stop_position;Tram stop
+Cologne;366972511;node;1;50,9101034;6,9279067;Siebengebirgsallee;bus_stop;;Bus Stop
+Cologne;300378090;node;1;50,9101135;6,9414002;Gottesweg;tram_stop;stop_position;Tram stop
+Cologne;1324936507;node;1;50,9102443;7,0447205;Kˆln Airport-Businesspark;halt;station;Train Station
+Cologne;6019243715;node;1;50,9102908;7,0702374;Maarh‰user Weg;bus_stop;stop_position;Bus Stop
+Cologne;3329916945;node;1;50,9104079;6,9984895;Z¸ndorfer Weg;bus_stop;;Bus Stop
+Cologne;1145690229;node;1;50,9105943;6,9414088;;taxi;;Taxi
+Cologne;364401837;node;1;50,9109549;6,9409404;Gottesweg;bus_stop;;Bus Stop
+Cologne;364401840;node;1;50,9109968;6,9410852;Gottesweg;bus_stop;;Bus Stop
+Cologne;1132386523;node;1;50,9112112;6,9894276;Poll Hauptstraﬂe;bus_stop;;Bus Stop
+Cologne;1132386497;node;1;50,9113471;6,9934362;Im Wasserfeld;bus_stop;stop_position;Bus Stop
+Cologne;1132386500;node;1;50,9115772;6,9850121;Alfred-Sch¸tte-Allee;bus_stop;;Bus Stop
+Cologne;1132386515;node;1;50,9116312;6,9896832;Poll Hauptstraﬂe;bus_stop;;Bus Stop
+Cologne;1297159812;node;1;50,9116708;6,9233192;S¸lzg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;4077188236;node;1;50,9117553;6,9626043;Marktstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1132386531;node;1;50,9117811;6,9845366;Alfred-Sch¸tte-Allee;bus_stop;;Bus Stop
+Cologne;1457576768;node;1;50,9118422;6,9380857;Paul-Niessen-Str.;bus_stop;;Bus Stop
+Cologne;5966923164;node;1;50,9118667;7,054211;Hansestraﬂe West;bus_stop;platform;Bus Stop
+Cologne;5966923163;node;1;50,9119073;7,0543921;Hansestraﬂe West;bus_stop;platform;Bus Stop
+Cologne;2193087350;node;1;50,9120441;6,9619791;Marktstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1368000912;node;1;50,9120464;6,9243089;;taxi;;Taxi
+Cologne;2059453023;node;1;50,9123286;6,9628594;Bonner/Marktstraﬂe;car_sharing;;Car Sharing
+Cologne;366978032;node;1;50,9126561;6,9235964;S¸lzg¸rtel;bus_stop;;Bus Stop
+Cologne;366978041;node;1;50,9126807;6,9229072;S¸lzg¸rtel;bus_stop;;Bus Stop
+Cologne;358543620;node;1;50,9127236;6,9230965;S¸lzg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1343148053;node;1;50,9127829;6,9231745;S¸lzg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;690667158;node;1;50,9129648;6,940726;Herthastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;690667156;node;1;50,912969;6,9408447;Herthastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5966923166;node;1;50,9130699;7,0552625;Hansestraﬂe;bus_stop;platform;Bus Stop
+Cologne;1132386491;node;1;50,9131901;6,9830369;Sch¸ttewerk;bus_stop;;Bus Stop
+Cologne;5966923167;node;1;50,9133473;7,0547636;Hansestraﬂe;bus_stop;platform;Bus Stop
+Cologne;1132386511;node;1;50,9135226;6,9831307;Sch¸ttewerk;bus_stop;;Bus Stop
+Cologne;1014558525;node;1;50,913695;7,0586634;Welserstraﬂe;bus_stop;;Bus Stop
+Cologne;364402421;node;1;50,9137539;6,9329324;Rhˆndorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;1014558522;node;1;50,9137759;7,0586071;Welserstraﬂe;bus_stop;;Bus Stop
+Cologne;364402419;node;1;50,9139045;6,9323808;Rhˆndorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;1132386494;node;1;50,913969;6,9962328;Siegburger Straﬂe;bus_stop;;Bus Stop
+Cologne;1383513207;node;1;50,9142301;7,0657334;Hansestraﬂe Ost;bus_stop;;Bus Stop
+Cologne;5268889758;node;1;50,9143171;6,9623836;Bonntor;bus_stop;platform;Bus Stop
+Cologne;1890744772;node;1;50,9143435;6,9718677;Schˆnhauser Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;58694692;node;1;50,9143569;6,9719237;Schˆnhauser Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;360176886;node;1;50,9144254;6,9222618;Berrenrather Straﬂe/G¸rtel;bus_stop;stop_position;Bus Stop
+Cologne;732236564;node;1;50,9145131;7,0814383;Schloﬂ Rˆttgen;bus_stop;stop_position;Bus Stop
+Cologne;1356087257;node;1;50,9145266;6,9620945;Bonntor;bus_stop;platform;Bus Stop
+Cologne;2415878572;node;1;50,9145326;6,9204841;Berrenrather Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;358545902;node;1;50,9145445;6,9205193;Berrenrather Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2746004573;node;1;50,9146195;6,9620429;Europcar;car_rental;;Car Rental
+Cologne;360176884;node;1;50,9146823;6,9213397;Berrenrather Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;2909733318;node;1;50,91477;7,0002683;Baumschulenweg;tram_stop;stop_position;Tram stop
+Cologne;360176885;node;1;50,9148502;6,9216985;Berrenrather Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;2844843536;node;1;50,9149297;7,0813731;Schloﬂ Rˆttgen;bus_stop;stop_position;Bus Stop
+Cologne;3261462969;node;1;50,9149911;6,9467443;Am Vorgebirgstor;bus_stop;stop_position;Bus Stop
+Cologne;2909733319;node;1;50,9149954;6,9996708;Baumschulenweg;tram_stop;stop_position;Tram stop
+Cologne;4408605605;node;1;50,9151996;6,9463851;Am Vorgebirgstor;bus_stop;stop_position;Bus Stop
+Cologne;1132386534;node;1;50,9152185;6,9929178;Siegburger Straﬂe;bus_stop;;Bus Stop
+Cologne;1343121522;node;1;50,915348;6,9271532;S¸lzburgstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;432364436;node;1;50,9153609;6,9275373;;taxi;;Taxi
+Cologne;59973254;node;1;50,9153799;6,9270383;S¸lzburgstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3326348275;node;1;50,9154189;7,0515293;Kˆln Frankfurter Straﬂe;station;station;Subway Station
+Cologne;2516115064;node;1;50,9154443;7,0911021;Alte Forststraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;283383930;node;1;50,9154518;7,0910452;Alte Forststraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;360177846;node;1;50,9154754;6,9282587;S¸lzburgstraﬂe;bus_stop;;Bus Stop
+Cologne;3309467286;node;1;50,915598;6,9923538;SALM;car_sharing;;Car Sharing
+Cologne;447505113;node;1;50,9158597;7,0525657;Kˆln Frankfurter Straﬂe;bus_stop;platform;Bus Stop
+Cologne;652407674;node;1;50,9159129;6,9255037;cambio Wicht;car_sharing;;Car Sharing
+Cologne;1458506405;node;1;50,9160015;6,9928173;Poll Salmstraﬂe;tram_stop;station;Tram stop
+Cologne;360177617;node;1;50,9160191;6,9268864;S¸lzburgstraﬂe;bus_stop;;Bus Stop
+Cologne;447505109;node;1;50,9160334;7,0527036;Kˆln Frankfurter Straﬂe;bus_stop;platform;Bus Stop
+Cologne;3891067385;node;1;50,9161701;6,9610218;Bonner Wall;tram_stop;stop_position;Tram stop
+Cologne;3891067386;node;1;50,9161726;6,9610791;Bonner Wall;tram_stop;stop_position;Tram stop
+Cologne;1096242679;node;1;50,9162079;6,994759;Poll Salmstr.;bus_stop;;Bus Stop
+Cologne;358547766;node;1;50,9163904;6,9178799;Euskirchener Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;1841279043;node;1;50,9165164;6,9415247;Pohligstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;265730463;node;1;50,9165309;6,9414031;Pohligstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1096242683;node;1;50,9166264;6,9947471;Poll Salmstr.;bus_stop;;Bus Stop
+Cologne;363830105;node;1;50,91677;6,9234799;S¸lzburgstraﬂe/Berrenrather Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5249596176;node;1;50,9168021;6,9001047;Deckstein;bus_stop;platform;Bus Stop
+Cologne;4408605613;node;1;50,9168923;6,9563182;Zugweg;bus_stop;stop_position;Bus Stop
+Cologne;4408605606;node;1;50,9170393;6,9606959;Bonner Wall;bus_stop;platform;Bus Stop
+Cologne;730998433;node;1;50,9170458;7,0814914;Eiler Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;317087717;node;1;50,9170501;6,9391611;;taxi;;Taxi
+Cologne;444439692;node;1;50,91706;6,9608804;Bonner Wall;bus_stop;platform;Bus Stop
+Cologne;2401760392;node;1;50,917117;6,9072882;S¸lz Hermeskeiler Platz;tram_stop;stop_position;Tram stop
+Cologne;259615507;node;1;50,91714;6,9072517;S¸lz Hermeskeiler Platz;tram_stop;stop_position;Tram stop
+Cologne;730998437;node;1;50,9171994;7,0816017;Eiler Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4399045487;node;1;50,917218;6,9411062;Pohligstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;358550216;node;1;50,9172582;6,9169257;Euskirchener Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4399045486;node;1;50,9172856;6,9407372;Pohligstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;363830103;node;1;50,9173668;6,9239035;S¸lzburgstraﬂe/Berrenrather Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2059453056;node;1;50,91768;6,926922;Wittekind;car_sharing;;Car Sharing
+Cologne;1491468191;node;1;50,9180985;6,9495425;;car_sharing;;Car Sharing
+Cologne;5840373193;node;1;50,9181617;7,0489177;Lina-Bommer-Weg;bus_stop;platform;Bus Stop
+Cologne;331473022;node;1;50,918196;6,9967851;Poller Holzweg;bus_stop;;Bus Stop
+Cologne;5840373194;node;1;50,918198;7,0483088;Lina-Bommer-Weg;bus_stop;platform;Bus Stop
+Cologne;31346009;node;1;50,9182254;6,9301528;Arnulfstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;331473024;node;1;50,9183323;6,9967503;Poller Holzweg;bus_stop;;Bus Stop
+Cologne;1342134200;node;1;50,918342;6,9301369;Arnulfstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4408605611;node;1;50,9183697;6,9509694;Volksgarten;bus_stop;stop_position;Bus Stop
+Cologne;5249596178;node;1;50,9183992;6,9023129;Koppensteinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;447472992;node;1;50,9186049;7,049104;;car_rental;;Car Rental
+Cologne;634987522;node;1;50,91863;6,91831;Auerbach;car_sharing;;Car Sharing
+Cologne;5249596179;node;1;50,9189454;6,9029371;Koppensteinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2401760282;node;1;50,9190596;6,910204;Mommsenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;750966865;node;1;50,9190613;7,0498238;Alter Deutzer Postweg;bus_stop;platform;Bus Stop
+Cologne;358819604;node;1;50,9191118;6,9102157;Mommsenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2130566638;node;1;50,9192232;7,0499461;Alter Deutzer Postweg;bus_stop;platform;Bus Stop
+Cologne;5249596177;node;1;50,9196953;6,9047054;Freiligrathstraﬂe;bus_stop;platform;Bus Stop
+Cologne;358834410;node;1;50,9197406;6,9156387;Z¸lpicher Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2059453045;node;1;50,919762;6,960418;Kurf¸rsten;car_sharing;;Car Sharing
+Cologne;702176133;node;1;50,9198129;7,0974651;Kˆnigsforst;bus_stop;platform;Bus Stop
+Cologne;255728750;node;1;50,9198658;7,096454;Kˆnigsforst;tram_stop;stop_position;Tram stop
+Cologne;3546565779;node;1;50,9198772;7,0960846;Kˆnigsforst;tram_stop;stop_position;Tram stop
+Cologne;4051935791;node;1;50,9199258;6,9860251;Raiffeisenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;698868688;node;1;50,9199325;7,0972924;;taxi;;Taxi
+Cologne;712257097;node;1;50,9199452;6,9860676;Raiffeisenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;359205865;node;1;50,920026;6,9274499;Konradstraﬂe;bus_stop;platform;Bus Stop
+Cologne;720589907;node;1;50,9202119;6,9144703;Z¸lpicher Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;3546772951;node;1;50,9202994;7,0909173;Rˆttgensweg;tram_stop;stop_position;Tram stop
+Cologne;255728834;node;1;50,920312;7,0898979;Rˆttgensweg;tram_stop;stop_position;Tram stop
+Cologne;359205864;node;1;50,9203877;6,9276201;Konradstraﬂe;bus_stop;platform;Bus Stop
+Cologne;444439682;node;1;50,9204112;6,9598845;Chlodwigplatz;bus_stop;platform;Bus Stop
+Cologne;2059453030;node;1;50,9204165;6,9577061;Elsaﬂ;car_sharing;;Car Sharing
+Cologne;3546772958;node;1;50,9204176;7,082402;Rath-Heumar;tram_stop;stop_position;Tram stop
+Cologne;720589906;node;1;50,9204636;6,9158173;Z¸lpicher Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;255728934;node;1;50,9204933;7,0802789;Rath-Heumar;tram_stop;stop_position;Tram stop
+Cologne;1582681104;node;1;50,9205947;6,9149633;;taxi;;Taxi
+Cologne;358827355;node;1;50,920809;6,9148952;Z¸lpicher Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2341573783;node;1;50,9211256;6,9586835;;taxi;;Taxi
+Cologne;5268264421;node;1;50,9211325;6,9605094;Chlodwigplatz;bus_stop;platform;Bus Stop
+Cologne;798615792;node;1;50,92123;6,9408288;BierBike GmbH;bicycle_rental;;Bisycle Rental
+Cologne;3266695307;node;1;50,921266;6,9606203;Chlodwigplatz;tram_stop;stop_position;Tram stop
+Cologne;505829740;node;1;50,921293;6,9606099;Chlodwigplatz;tram_stop;stop_position;Tram stop
+Cologne;5249596181;node;1;50,9213177;6,906935;Krieler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4805729057;node;1;50,9213293;6,9594325;Chlodwigplatz;tram_stop;stop_position;Tram stop
+Cologne;5268264314;node;1;50,9213473;6,9596397;Chlodwigplatz;tram_stop;stop_position;Tram stop
+Cologne;3314746091;node;1;50,9213558;6,9603866;Chlodwigplatz;bus_stop;platform;Bus Stop
+Cologne;1096242685;node;1;50,9213789;6,9988333;Taubenholzweg;bus_stop;;Bus Stop
+Cologne;4040534411;node;1;50,9214124;6,933448;Weiﬂhausstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;59973255;node;1;50,921426;6,9334132;Weiﬂhausstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1177414797;node;1;50,9215271;6,9332903;;taxi;;Taxi
+Cologne;1056945613;node;1;50,9215539;6,9338382;Weiﬂhausstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1056945607;node;1;50,9215653;6,9334029;Weiﬂhausstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3546772977;node;1;50,9215785;7,0754203;Porzer Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3266695358;node;1;50,921687;6,9647754;Ubierring;bus_stop;platform;Bus Stop
+Cologne;1601016051;node;1;50,9217013;7,0747478;Porzer Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3266695359;node;1;50,9218348;6,9658553;Ubierring;tram_stop;stop_position;Tram stop
+Cologne;5249596180;node;1;50,9219112;6,9078704;Krieler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1096242676;node;1;50,92193;6,9992551;Taubenholzweg;bus_stop;;Bus Stop
+Cologne;2059453025;node;1;50,921964;6,958348;Chlodwig;car_sharing;;Car Sharing
+Cologne;4865699634;node;1;50,9219743;7,0349965;Kleingartenanlage Ostheim;bus_stop;stop_position;Bus Stop
+Cologne;3350433938;node;1;50,9220737;6,9212242;Lindenburg (Universit‰tsklinik);tram_stop;stop_position;Tram stop
+Cologne;4406728299;node;1;50,9221974;6,9381932;Justizzentrum;bus_stop;stop_position;Bus Stop
+Cologne;4100915328;node;1;50,922246;6,9593998;Chlodwigplatz;bus_stop;platform;Bus Stop
+Cologne;3266695461;node;1;50,9223019;6,9647053;Ubierring;bus_stop;platform;Bus Stop
+Cologne;1719328438;node;1;50,9223772;6,9380146;Justizzentrum;bus_stop;stop_position;Bus Stop
+Cologne;3266695462;node;1;50,922382;6,9654664;Ubierring;tram_stop;stop_position;Tram stop
+Cologne;2059453044;node;1;50,9223904;6,907346;Krieler;car_sharing;;Car Sharing
+Cologne;59776017;node;1;50,9224034;6,9654443;Ubierring;tram_stop;stop_position;Tram stop
+Cologne;720589915;node;1;50,9224976;6,9223531;Lindenburg (Universit‰tsklinik);tram_stop;stop_position;Tram stop
+Cologne;265913350;node;1;50,9227542;6,9352835;;taxi;;Taxi
+Cologne;5249596182;node;1;50,9232925;6,9112694;Gleueler Straﬂe / G¸rtel;bus_stop;platform;Bus Stop
+Cologne;265730512;node;1;50,9233004;6,9515191;;taxi;;Taxi
+Cologne;4041867606;node;1;50,9233097;6,9436236;Eifelplatz;tram_stop;stop_position;Tram stop
+Cologne;361716;node;1;50,9233492;6,9435058;Eifelplatz;tram_stop;stop_position;Tram stop
+Cologne;2059453047;node;1;50,923465;6,9508403;Lothringer;car_sharing;;Car Sharing
+Cologne;539772273;node;1;50,9235086;6,931856;;car_sharing;;Car Sharing
+Cologne;4058539946;node;1;50,9235292;6,9615609;Severinskirche;bus_stop;stop_position;Bus Stop
+Cologne;3546773001;node;1;50,9236022;7,067107;Steinweg;tram_stop;stop_position;Tram stop
+Cologne;4058464268;node;1;50,9236725;6,9604338;Severinskirche;bus_stop;stop_position;Bus Stop
+Cologne;3546773000;node;1;50,9237007;7,0665168;Steinweg;tram_stop;stop_position;Tram stop
+Cologne;158689414;node;1;50,9238106;6,9798654;Poller Kirchweg;tram_stop;station;Tram stop
+Cologne;3350435130;node;1;50,9238287;6,9263072;Weyertal;tram_stop;stop_position;Tram stop
+Cologne;5291458210;node;1;50,9238408;6,9919521;Am Grauen Stein;bus_stop;;Bus Stop
+Cologne;3266887893;node;1;50,9241231;6,9518023;Ulrepforte;tram_stop;stop_position;Tram stop
+Cologne;254380578;node;1;50,9241513;6,9518351;Ulrepforte;tram_stop;stop_position;Tram stop
+Cologne;2416052925;node;1;50,9241764;6,9118669;Gleueler Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;392951650;node;1;50,9241866;6,9119129;Gleueler Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1351794862;node;1;50,9241956;6,8968408;;taxi;;Taxi
+Cologne;5249596183;node;1;50,9242123;6,9129901;Gleueler Straﬂe / G¸rtel;bus_stop;platform;Bus Stop
+Cologne;3264254767;node;1;50,9243894;6,9280319;Weyertal;tram_stop;stop_position;Tram stop
+Cologne;5249596188;node;1;50,924438;6,8972898;Hohenlind;bus_stop;platform;Bus Stop
+Cologne;750966879;node;1;50,9244722;7,0452415;Saarbr¸cker Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5291458209;node;1;50,9245204;6,9941327;T‹V-Akademie;bus_stop;;Bus Stop
+Cologne;59973256;node;1;50,9246171;6,9368942;Eifelwall;tram_stop;stop_position;Tram stop
+Cologne;1342116260;node;1;50,9246337;6,9370767;Eifelwall;bus_stop;stop_position;Bus Stop
+Cologne;5249596189;node;1;50,9246375;6,8973105;Hohenlind;bus_stop;platform;Bus Stop
+Cologne;990080568;node;1;50,9246466;6,9368128;Eifelwall;tram_stop;stop_position;Tram stop
+Cologne;360920079;node;1;50,9249159;6,9368687;Eifelwall;bus_stop;stop_position;Bus Stop
+Cologne;660206835;node;1;50,9249803;6,9653245;Rheinauhafen;bus_stop;platform;Bus Stop
+Cologne;679168441;node;1;50,9250611;6,9656024;Rheinauhafen;bus_stop;platform;Bus Stop
+Cologne;750966886;node;1;50,9251619;7,044884;Saarbr¸cker Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4406728296;node;1;50,9253193;6,9370385;Eifelwall;bus_stop;stop_position;Bus Stop
+Cologne;582813228;node;1;50,9253512;6,9296782;Universit‰t;bus_stop;platform;Bus Stop
+Cologne;4865699064;node;1;50,9253696;7,032234;Hans-Offermann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;702176129;node;1;50,9253984;7,0953271;Baldurstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5291445779;node;1;50,9254509;6,9921225;Deutzer Friedhof;bus_stop;;Bus Stop
+Cologne;5291445778;node;1;50,925535;6,9920226;Deutzer Friedhof;bus_stop;;Bus Stop
+Cologne;5249596184;node;1;50,9256198;6,9155898;Leiblplatz;bus_stop;platform;Bus Stop
+Cologne;4865699063;node;1;50,9256216;7,0319579;Hans-Offermann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3016922803;node;1;50,9256908;6,9416396;Pf‰lzer;car_sharing;;Car Sharing
+Cologne;5249596192;node;1;50,9257897;6,8975928;Brahmsstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1096093742;node;1;50,9257963;7,0104994;Gremberg;bus_stop;;Bus Stop
+Cologne;3350435129;node;1;50,9258023;6,9309026;Universit‰t;tram_stop;stop_position;Tram stop
+Cologne;4865699062;node;1;50,925806;7,0360641;Bertha-Benz-Karree;bus_stop;stop_position;Bus Stop
+Cologne;60657803;node;1;50,9258213;6,9308702;Universit‰t;tram_stop;stop_position;Tram stop
+Cologne;5249596196;node;1;50,9258936;6,8979632;Brahmsstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;266374479;node;1;50,9259408;6,8616084;Willi-Lauf-Allee;bus_stop;platform;Bus Stop
+Cologne;274796568;node;1;50,9260054;6,8615933;Willi-Lauf-Allee;bus_stop;platform;Bus Stop
+Cologne;347260081;node;1;50,9260055;6,9307287;Universit‰t;tram_stop;stop_position;Tram stop
+Cologne;2059453024;node;1;50,92609;6,959592;Busch/S¸dstadt;car_sharing;;Car Sharing
+Cologne;3924459582;node;1;50,9261159;6,8988623;Brahmsstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1096093743;node;1;50,926132;7,0086568;Wiedstraﬂe;bus_stop;;Bus Stop
+Cologne;711684198;node;1;50,9261947;6,8994226;Brahmsstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5249596198;node;1;50,926206;6,9009557;Kitschburger Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1096242681;node;1;50,9262814;6,9994993;Sauerlandstr.;bus_stop;;Bus Stop
+Cologne;4058464267;node;1;50,9263779;6,9587984;Rosenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;359201045;node;1;50,9264031;6,9295476;Universit‰t;bus_stop;platform;Bus Stop
+Cologne;5249596197;node;1;50,9264512;6,9021922;Kitschburger Straﬂe;bus_stop;platform;Bus Stop
+Cologne;3267056884;node;1;50,9266252;6,9457794;Eifelstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;254380440;node;1;50,9266439;6,945806;Eifelstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;339380734;node;1;50,9266515;7,0950394;Baldurstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;577726200;node;1;50,9267378;7,0110459;Gremberg;bus_stop;;Bus Stop
+Cologne;5249596185;node;1;50,92675;6,9166607;Leiblplatz;bus_stop;platform;Bus Stop
+Cologne;4406728306;node;1;50,9267796;6,937696;S¸dbahnhof;bus_stop;stop_position;Bus Stop
+Cologne;2141175980;node;1;50,9269073;6,865103;Wiener Weg;bus_stop;platform;Bus Stop
+Cologne;248111619;node;1;50,926956;6,9612513;Rosenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2141175977;node;1;50,9269737;6,8653397;Wiener Weg;bus_stop;platform;Bus Stop
+Cologne;1590903774;node;1;50,9271315;7,053798;Autobahn (Stadtbahn);tram_stop;stop_position;Tram stop
+Cologne;3546841385;node;1;50,927164;7,0538259;Autobahn (Stadtbahn);tram_stop;stop_position;Tram stop
+Cologne;6047116543;node;1;50,9272039;6,8685083;Eichenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;6047116542;node;1;50,9272141;6,8686143;Eichenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;577729729;node;1;50,9272316;7,0079603;Wiedstraﬂe;bus_stop;;Bus Stop
+Cologne;3044304327;node;1;50,9276006;6,9372707;Kˆln S¸d;station;station;Subway Station
+Cologne;5249596186;node;1;50,9277449;6,9182472;Geibelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4307302110;node;1;50,9280479;6,8544427;Sterrenhofweg;bus_stop;platform;Bus Stop
+Cologne;313691233;node;1;50,9280754;6,909362;D¸rener Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;313691101;node;1;50,9280851;6,9097346;D¸rener Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;1457579017;node;1;50,9281248;7,0024565;L¸derichstr.;bus_stop;;Bus Stop
+Cologne;5249596187;node;1;50,9281866;6,9186361;Geibelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1152817565;node;1;50,9281885;6,85481;Sterrenhofweg;bus_stop;platform;Bus Stop
+Cologne;2295671805;node;1;50,9282143;6,9753263;Drehbr¸cke;tram_stop;stop_position;Tram stop
+Cologne;3350433936;node;1;50,9282408;6,935657;Dasselstraﬂe/Bf S¸d;tram_stop;stop_position;Tram stop
+Cologne;1051841209;node;1;50,9282533;6,9424488;Barbarossaplatz;bus_stop;stop_position;Bus Stop
+Cologne;3350433937;node;1;50,928263;6,935799;Dasselstraﬂe/Bf S¸d;tram_stop;stop_position;Tram stop
+Cologne;831295766;node;1;50,9282647;7,0604575;Rˆsrather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1052477675;node;1;50,9283969;6,9364672;S¸dbahnhof;car_sharing;;Car Sharing
+Cologne;2415878669;node;1;50,9284048;6,908605;D¸rener Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;255562068;node;1;50,9284084;6,9086543;D¸rener Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2059453033;node;1;50,92845;6,913962;Flotow;car_sharing;;Car Sharing
+Cologne;577701838;node;1;50,9284735;7,0170828;K¸rtenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;577701834;node;1;50,9284909;7,0173094;K¸rtenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1051841213;node;1;50,9284999;6,9409176;Barbarossaplatz;bus_stop;stop_position;Bus Stop
+Cologne;1092144192;node;1;50,9286213;7,0000052;Rolshover Straﬂe;bus_stop;;Bus Stop
+Cologne;3223247490;node;1;50,9287048;6,9745675;Drehbr¸cke;tram_stop;stop_position;Tram stop
+Cologne;2348391752;node;1;50,928723;6,941038;;taxi;;Taxi
+Cologne;577773703;node;1;50,9287309;7,0003267;Rolshover Straﬂe;bus_stop;;Bus Stop
+Cologne;1052477679;node;1;50,9287324;6,944015;Barbarossa;car_sharing;;Car Sharing
+Cologne;60274992;node;1;50,9287431;7,0555641;Autobahn;bus_stop;stop_position;Bus Stop
+Cologne;831295765;node;1;50,9288023;7,0555379;Autobahn;bus_stop;stop_position;Bus Stop
+Cologne;1614308006;node;1;50,9288402;7,0420041;;taxi;;Taxi
+Cologne;2130787754;node;1;50,9289012;7,0421683;Ostheim;bus_stop;stop_position;Bus Stop
+Cologne;3267056883;node;1;50,9289485;6,9421037;Barbarossaplatz;tram_stop;stop_position;Tram stop
+Cologne;254380330;node;1;50,9289878;6,9421691;Barbarossaplatz;tram_stop;stop_position;Tram stop
+Cologne;3312029132;node;1;50,929054;6,9432473;Barbarossaplatz;tram_stop;stop_position;Tram stop
+Cologne;4044747562;node;1;50,929058;6,9564653;Severinstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;256572343;node;1;50,9290696;6,9432089;Barbarossaplatz;tram_stop;stop_position;Tram stop
+Cologne;1025250562;node;1;50,929145;6,9571498;Severinstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1096131473;node;1;50,9291481;6,9998496;Rolshover Straﬂe;bus_stop;;Bus Stop
+Cologne;831295913;node;1;50,9291927;7,0596633;Rˆsrather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1457856093;node;1;50,9291942;7,0419362;Ostheim;tram_stop;station;Tram stop
+Cologne;577773698;node;1;50,9292679;6,9993673;Rolshover Straﬂe;bus_stop;;Bus Stop
+Cologne;5249596199;node;1;50,9292867;6,9127627;Theresienstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4058539947;node;1;50,9294722;6,9572245;Severinstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1152817564;node;1;50,9294969;6,8526657;Beethovenstr.;bus_stop;platform;Bus Stop
+Cologne;6047116535;node;1;50,9296641;6,8524591;Beethovenstr.;bus_stop;platform;Bus Stop
+Cologne;5249596200;node;1;50,9297301;6,9135272;Theresienstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2765476792;node;1;50,9297431;6,9330898;;car_sharing;;Car Sharing
+Cologne;2510932931;node;1;50,9297935;7,0477091;Servatiusstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;831295754;node;1;50,9298279;7,0465587;Servatiusstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;773336464;node;1;50,9299132;6,9387587;;taxi;;Taxi
+Cologne;577777114;node;1;50,9299593;6,9972689;Esserstraﬂe;bus_stop;;Bus Stop
+Cologne;577777116;node;1;50,9301076;6,9964118;Esserstraﬂe;bus_stop;;Bus Stop
+Cologne;4603965970;node;1;50,9301736;6,9482957;Rothgerberbach/Poststraﬂe;bus_stop;platform;Bus Stop
+Cologne;1051841189;node;1;50,9301993;6,9480618;Rothgerberbach/Poststraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5249596211;node;1;50,930449;6,923444;Hildegardis-Krankenhaus;bus_stop;platform;Bus Stop
+Cologne;6047116545;node;1;50,9304625;6,8640096;S¸dallee;bus_stop;platform;Bus Stop
+Cologne;6047116544;node;1;50,9305292;6,864019;S¸dallee;bus_stop;platform;Bus Stop
+Cologne;4406728293;node;1;50,9305401;6,9266325;Bachemer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4406728294;node;1;50,9305855;6,9268633;Bachemer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5249596212;node;1;50,9306112;6,9226071;Hildegardis-Krankenhaus;bus_stop;platform;Bus Stop
+Cologne;2282235872;node;1;50,9306401;6,9407042;;taxi;;Taxi
+Cologne;5249596201;node;1;50,9307646;6,9164789;Karl-Schwering-Platz;bus_stop;platform;Bus Stop
+Cologne;443844;node;1;50,9307752;6,9510301;Rothgerberbach/Poststraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;360682400;node;1;50,9307864;6,9080714;W¸llnerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3350435131;node;1;50,9307885;6,9401608;Z¸lpicher Platz;tram_stop;stop_position;Tram stop
+Cologne;3223248482;node;1;50,9308271;6,9721283;Severinsbr¸cke;tram_stop;stop_position;Tram stop
+Cologne;288143177;node;1;50,9308338;6,9721654;Severinsbr¸cke;tram_stop;stop_position;Tram stop
+Cologne;3212478172;node;1;50,9309251;6,9230173;;taxi;;Taxi
+Cologne;5922123158;node;1;50,9309804;6,9376102;;car_sharing;;Car Sharing
+Cologne;310798033;node;1;50,9310533;6,9288013;Wiso-Fakult‰t;bus_stop;platform;Bus Stop
+Cologne;311648934;node;1;50,9311597;6,9294914;Wiso-Fakult‰t;bus_stop;platform;Bus Stop
+Cologne;1152817197;node;1;50,9312395;6,8432392;Bistritzer Str.;bus_stop;platform;Bus Stop
+Cologne;5249596210;node;1;50,9312498;6,9175196;Karl-Schwering-Platz;bus_stop;platform;Bus Stop
+Cologne;1383513202;node;1;50,931275;6,981562;Gebr¸der-Coblenz-Straﬂe;bus_stop;;Bus Stop
+Cologne;1383433645;node;1;50,931281;6,8575153;Kˆlner Weg;bus_stop;platform;Bus Stop
+Cologne;577777110;node;1;50,9313233;6,9938816;Weilburger Straﬂe;bus_stop;;Bus Stop
+Cologne;831295914;node;1;50,9313801;7,0555316;Ludwig-Quidde-Platz;bus_stop;stop_position;Bus Stop
+Cologne;3350435132;node;1;50,9314339;6,9412129;Z¸lpicher Platz;tram_stop;stop_position;Tram stop
+Cologne;577777112;node;1;50,9314348;6,9937637;Weilburger Straﬂe;bus_stop;;Bus Stop
+Cologne;4307303031;node;1;50,9314361;6,8427249;Bistritzer Str.;bus_stop;platform;Bus Stop
+Cologne;1979539854;node;1;50,9314686;6,9511787;;taxi;;Taxi
+Cologne;1092144176;node;1;50,9314794;7,0008466;Wattstr.;bus_stop;;Bus Stop
+Cologne;3267057215;node;1;50,9315832;6,9405081;Z¸lpicher Platz;tram_stop;stop_position;Tram stop
+Cologne;300378092;node;1;50,9315868;6,9405549;Z¸lpicher Platz;tram_stop;stop_position;Tram stop
+Cologne;2415878675;node;1;50,9316159;6,9079276;W¸llnerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;300403947;node;1;50,9316732;6,9500139;Poststraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3312029133;node;1;50,931675;6,9500689;Poststraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1152823984;node;1;50,9316927;6,8575552;Kˆlner Weg;bus_stop;platform;Bus Stop
+Cologne;1092144189;node;1;50,9320477;7,0008717;Wattstr.;bus_stop;;Bus Stop
+Cologne;753830296;node;1;50,9322888;7,0788718;Lehmbacher Weg, Friedhof;bus_stop;;Bus Stop
+Cologne;355729501;node;1;50,9323681;6,9562907;Waidmarkt;bus_stop;stop_position;Bus Stop
+Cologne;619450048;node;1;50,9324883;6,956349;;taxi;;Taxi
+Cologne;635736883;node;1;50,93262;6,942662;Mauritius;car_sharing;;Car Sharing
+Cologne;339673455;node;1;50,9326317;7,0913784;Erker M¸hle;bus_stop;stop_position;Bus Stop
+Cologne;2598103188;node;1;50,9326837;6,963205;Schokoladenmuseum;bus_stop;platform;Bus Stop
+Cologne;339673454;node;1;50,9326861;7,0913919;Erker M¸hle;bus_stop;stop_position;Bus Stop
+Cologne;444439673;node;1;50,9327091;6,9628617;Schokoladenmuseum;bus_stop;platform;Bus Stop
+Cologne;312669213;node;1;50,932731;6,9338491;Roonstraﬂe;bus_stop;platform;Bus Stop
+Cologne;143456912;node;1;50,9327791;6,9763895;Suevenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2656504553;node;1;50,932783;7,0216701;Vingst;tram_stop;station;Tram stop
+Cologne;2547316990;node;1;50,9327914;6,9763563;Suevenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4715300393;node;1;50,9328066;6,9559505;;taxi;;Taxi
+Cologne;2282235934;node;1;50,9328581;6,9395529;;taxi;;Taxi
+Cologne;577137710;node;1;50,9328843;7,0217894;Vingst;bus_stop;;Bus Stop
+Cologne;577137704;node;1;50,9329427;7,0217044;Vingst;bus_stop;;Bus Stop
+Cologne;2175188807;node;1;50,9329463;6,9629047;;taxi;;Taxi
+Cologne;830476075;node;1;50,9330668;7,0218483;;taxi;;Taxi
+Cologne;310798032;node;1;50,9332424;6,9342218;Roonstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1051671286;node;1;50,9332809;6,957612;M¸hlenbach;bus_stop;stop_position;Bus Stop
+Cologne;1383513258;node;1;50,933319;6,982203;Totilastraﬂe;bus_stop;;Bus Stop
+Cologne;1089384935;node;1;50,9334791;6,9940664;Feldbergstraﬂe;bus_stop;;Bus Stop
+Cologne;1152823996;node;1;50,9337723;6,8604069;Birkenallee;bus_stop;platform;Bus Stop
+Cologne;5965171964;node;1;50,9337876;7,0372528;Buchheimer Weg;bus_stop;platform;Bus Stop
+Cologne;1091374595;node;1;50,9338126;7,0010344;Gieﬂener Str.;bus_stop;;Bus Stop
+Cologne;1383433610;node;1;50,9338421;6,8602969;Birkenallee;bus_stop;platform;Bus Stop
+Cologne;1091374581;node;1;50,9338517;7,0011072;Gieﬂener Str.;bus_stop;;Bus Stop
+Cologne;3350433939;node;1;50,93391;6,9450677;Mauritiuskirche;tram_stop;stop_position;Tram stop
+Cologne;5965171965;node;1;50,9339389;7,0373614;Buchheimer Weg;bus_stop;platform;Bus Stop
+Cologne;577782648;node;1;50,9340673;6,9943596;Feldbergstraﬂe;bus_stop;;Bus Stop
+Cologne;2588897596;node;1;50,9340891;7,0096458;Dillenburger Str.;bus_stop;;Bus Stop
+Cologne;790034333;node;1;50,9344156;6,9596206;Europa Service;car_rental;;Car Rental
+Cologne;3350433940;node;1;50,934513;6,9450632;Mauritiuskirche;tram_stop;stop_position;Tram stop
+Cologne;2588897594;node;1;50,9347061;7,0092649;Christian-S¸nner-Str.;bus_stop;;Bus Stop
+Cologne;1051791988;node;1;50,9347592;6,9599148;Heumarkt;bus_stop;platform;Bus Stop
+Cologne;444439674;node;1;50,9348093;6,9615129;Heumarkt;bus_stop;platform;Bus Stop
+Cologne;3767971503;node;1;50,9349367;6,9461425;;car_sharing;;Car Sharing
+Cologne;959618999;node;1;50,9349413;6,8268289;‹sdorf;bus_stop;;Bus Stop
+Cologne;300403950;node;1;50,9349658;6,9492917;Neumarkt;tram_stop;stop_position;Tram stop
+Cologne;3311868268;node;1;50,9349785;6,9493293;Neumarkt;tram_stop;stop_position;Tram stop
+Cologne;2588897592;node;1;50,9350036;7,0028035;Kalk-Karree;bus_stop;;Bus Stop
+Cologne;1091374585;node;1;50,9350217;6,9981506;Trimbornstr.;bus_stop;;Bus Stop
+Cologne;831295915;node;1;50,9350646;7,062948;Straﬂburger Platz;bus_stop;stop_position;Bus Stop
+Cologne;1091374586;node;1;50,9350742;6,9972588;Trimbornstr.;bus_stop;;Bus Stop
+Cologne;442714652;node;1;50,9350831;6,961535;Heumarkt;bus_stop;;Bus Stop
+Cologne;2588897599;node;1;50,9351199;7,002739;Kalk-Karree;bus_stop;;Bus Stop
+Cologne;2242686216;node;1;50,9351509;6,9326966;Moltkestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2357588264;node;1;50,9351995;7,0023869;;taxi;;Taxi
+Cologne;632969675;node;1;50,9352392;6,9576027;Heumarkt;tram_stop;stop_position;Tram stop
+Cologne;959618970;node;1;50,9352832;6,8266999;‹sdorf;bus_stop;;Bus Stop
+Cologne;28122097;node;1;50,9353204;6,9609956;;taxi;;Taxi
+Cologne;1328998080;node;1;50,9353906;6,8459651;Diepenbeckallee;bus_stop;platform;Bus Stop
+Cologne;2588897589;node;1;50,9354059;7,0122529;Heinrich-B¸tzler-Str.;bus_stop;;Bus Stop
+Cologne;1152815793;node;1;50,9354131;6,845779;Diepenbeckallee;bus_stop;platform;Bus Stop
+Cologne;4715318094;node;1;50,9354252;6,9561525;;taxi;;Taxi
+Cologne;577782652;node;1;50,93546;6,9940234;Deutzer Ring;bus_stop;;Bus Stop
+Cologne;1682053848;node;1;50,935526;6,9396632;Rudolfplatz;bus_stop;stop_position;Bus Stop
+Cologne;32179904;node;1;50,9355633;6,9320661;Moltkestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;6047116529;node;1;50,9355775;6,839277;Gˆttinger Str.;bus_stop;platform;Bus Stop
+Cologne;635830171;node;1;50,9355908;6,9561765;;taxi;;Taxi
+Cologne;577782651;node;1;50,9355972;6,993783;Deutzer Ring;bus_stop;;Bus Stop
+Cologne;1776914358;node;1;50,9356086;6,9376204;;taxi;;Taxi
+Cologne;1051671267;node;1;50,935694;6,9605067;Heumarkt;bus_stop;platform;Bus Stop
+Cologne;28122005;node;1;50,9356984;6,9599243;Heumarkt;tram_stop;stop_position;Tram stop
+Cologne;1152815117;node;1;50,935713;6,8392818;Gˆttinger Str.;bus_stop;platform;Bus Stop
+Cologne;163074242;node;1;50,9357423;6,9402089;Rudolfplatz;tram_stop;stop_position;Tram stop
+Cologne;1776914388;node;1;50,935752;6,9389448;;taxi;;Taxi
+Cologne;959618969;node;1;50,9357731;6,8328259;Ostlandstraﬂe;bus_stop;platform;Bus Stop
+Cologne;382012848;node;1;50,9357735;6,9477532;Neumarkt;tram_stop;stop_position;Tram stop
+Cologne;1082229665;node;1;50,9357785;6,9916774;Betzdorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;577786800;node;1;50,9358693;6,991655;Betzdorfer Straﬂe;bus_stop;;Bus Stop
+Cologne;4870096508;node;1;50,9358707;6,9391148;;taxi;;Taxi
+Cologne;3801267269;node;1;50,9358771;6,9968705;Kˆln Trimbornstraﬂe;halt;station;Train Station
+Cologne;831295918;node;1;50,9360609;7,0587413;Straﬂburger Platz;bus_stop;stop_position;Bus Stop
+Cologne;312669572;node;1;50,9360931;6,9325258;Moltkestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;827624832;node;1;50,9360947;7,0519911;LVR-Klinik;bus_stop;;Bus Stop
+Cologne;577131088;node;1;50,9361326;7,0212194;Oranienstraﬂe;bus_stop;;Bus Stop
+Cologne;5245035979;node;1;50,9361833;6,9399489;Rudolfplatz;tram_stop;stop_position;Tram stop
+Cologne;4406728309;node;1;50,9362491;6,9248082;Universit‰tsstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5245036227;node;1;50,936273;6,9481863;Neumarkt;bus_stop;stop_position;Bus Stop
+Cologne;4309283305;node;1;50,9362787;6,9393202;Rudolfplatz;bus_stop;stop_position;Bus Stop
+Cologne;1431795695;node;1;50,9362866;6,9403414;;taxi;;Taxi
+Cologne;33407222;node;1;50,9363072;6,9245633;Universit‰tsstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;577801370;node;1;50,9363091;6,9862738;Deutz Technische Hochschule;bus_stop;;Bus Stop
+Cologne;1584993353;node;1;50,9363219;6,9490641;;taxi;;Taxi
+Cologne;442698922;node;1;50,9363374;6,9619333;Heumarkt;bus_stop;;Bus Stop
+Cologne;5245036224;node;1;50,9363415;6,9469619;Neumarkt;tram_stop;;Tram stop
+Cologne;526789091;node;1;50,9363962;6,9609764;;taxi;;Taxi
+Cologne;4307613145;node;1;50,9363994;6,9076211;;taxi;;Taxi
+Cologne;4040475723;node;1;50,9364045;6,9389614;Rudolfplatz;tram_stop;stop_position;Tram stop
+Cologne;2654726947;node;1;50,9364108;6,9390378;Rudolfplatz;tram_stop;stop_position;Tram stop
+Cologne;1298491844;node;1;50,9364124;6,9782262;;taxi;;Taxi
+Cologne;2654726955;node;1;50,9364144;6,9390025;Rudolfplatz;tram_stop;;Tram stop
+Cologne;2059453038;node;1;50,936424;6,9612865;Heumarkt;car_sharing;;Car Sharing
+Cologne;577131096;node;1;50,9364337;7,021204;Oranienstraﬂe;bus_stop;;Bus Stop
+Cologne;959618973;node;1;50,9364367;6,8332881;Ostlandstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1383513232;node;1;50,936466;6,977888;Reischplatz;bus_stop;;Bus Stop
+Cologne;32548788;node;1;50,9365036;6,9332568;Moltkestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5609642549;node;1;50,9365238;6,9628069;Radstation am Rheinufer;bicycle_rental;;Bisycle Rental
+Cologne;255562066;node;1;50,9365656;6,908419;Aachener Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;577801367;node;1;50,9366028;6,9858724;Deutz Technische Hochschule;bus_stop;;Bus Stop
+Cologne;32548777;node;1;50,9366582;6,9242506;Universit‰tsstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;343692424;node;1;50,9366592;6,9076126;Taxi-Ruf Kˆln;taxi;;Taxi
+Cologne;32548775;node;1;50,9366592;6,9255863;Universit‰tsstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;76673418;node;1;50,9367473;6,9165891;Melaten;tram_stop;stop_position;Tram stop
+Cologne;2654870355;node;1;50,9367715;6,9852476;Deutz Technische Hochschule;tram_stop;;Tram stop
+Cologne;3554955313;node;1;50,9367804;6,9162608;Melaten;tram_stop;stop_position;Tram stop
+Cologne;266816196;node;1;50,936966;6,8777062;Rhein Energie Stadion;tram_stop;stop_position;Tram stop
+Cologne;255562063;node;1;50,9369858;6,909415;Aachener Straﬂe / G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;769689432;node;1;50,9370342;6,8940992;TAXI;taxi;;Taxi
+Cologne;255562064;node;1;50,937035;6,9073403;Aachener Straﬂe / G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;765970482;node;1;50,9370457;6,8943314;TAXI;taxi;;Taxi
+Cologne;2917225429;node;1;50,9370631;6,9095147;Aachener Straﬂe / G¸rtel;bus_stop;stop_position;Bus Stop
+Cologne;767871952;node;1;50,937087;6,9947812;Walter-Pauli-Ring;bus_stop;;Bus Stop
+Cologne;2059453017;node;1;50,9371675;6,9099194;Aachener/G¸rtel;car_sharing;;Car Sharing
+Cologne;207160370;node;1;50,9372011;6,8995299;Maarweg;tram_stop;stop_position;Tram stop
+Cologne;3548467963;node;1;50,9372281;6,8995306;Maarweg;tram_stop;stop_position;Tram stop
+Cologne;767871956;node;1;50,9372699;6,9950951;Walter-Pauli-Ring;bus_stop;;Bus Stop
+Cologne;207511340;node;1;50,9372956;6,8944312;Clarenbachstift;tram_stop;stop_position;Tram stop
+Cologne;2059453028;node;1;50,9373151;6,9734041;Deutzer Freiheit;car_sharing;;Car Sharing
+Cologne;3548467961;node;1;50,9373225;6,8944328;Clarenbachstift;tram_stop;stop_position;Tram stop
+Cologne;1464599526;node;1;50,937336;6,8335064;;taxi;;Taxi
+Cologne;1091374584;node;1;50,9373665;6,9982324;Kalk Post;bus_stop;platform;Bus Stop
+Cologne;6047116549;node;1;50,9373946;6,8676786;Junkersdorf;bus_stop;platform;Bus Stop
+Cologne;824233910;node;1;50,9374306;6,8675021;Junkersdorf;taxi;;Taxi
+Cologne;207511337;node;1;50,9374453;6,8895515;Eupener Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3548467962;node;1;50,9374722;6,8895533;Eupener Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;1457828617;node;1;50,93748;7,0243605;;bus_stop;;Bus Stop
+Cologne;1213237829;node;1;50,9374801;7,0243598;Schulbus;bus_stop;;Bus Stop
+Cologne;2656504411;node;1;50,9375003;6,9981485;Kalk Post;tram_stop;;Tram stop
+Cologne;255562065;node;1;50,9375124;6,9086882;Aachener Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1464599876;node;1;50,9375766;6,8806747;;taxi;;Taxi
+Cologne;711656819;node;1;50,9375837;6,874683;Rheinenergie-Stadion;tram_stop;stop_position;Tram stop
+Cologne;442129667;node;1;50,9375858;6,9551793;;car_sharing;;Car Sharing
+Cologne;3547699635;node;1;50,937628;6,874639;Rheinenergie-Stadion;tram_stop;stop_position;Tram stop
+Cologne;605463652;node;1;50,9376585;6,8689984;Junkersdorf;tram_stop;stop_position;Tram stop
+Cologne;3547698968;node;1;50,93769;6,8689988;Junkersdorf;tram_stop;stop_position;Tram stop
+Cologne;1091374596;node;1;50,9376962;6,9993504;Kalk Post;bus_stop;platform;Bus Stop
+Cologne;605463656;node;1;50,9377051;6,8814755;Alter Milit‰rring;tram_stop;stop_position;Tram stop
+Cologne;3548467960;node;1;50,937732;6,8814775;Alter Milit‰rring;tram_stop;stop_position;Tram stop
+Cologne;1215913519;node;1;50,9378408;7,0224414;Schulbus;bus_stop;;Bus Stop
+Cologne;875608442;node;1;50,9378788;6,881293;Alter Milit‰rring;bus_stop;platform;Bus Stop
+Cologne;255559792;node;1;50,9379486;6,8553815;Mohnweg;tram_stop;stop_position;Tram stop
+Cologne;6047116557;node;1;50,9379698;6,8680621;Junkersdorf;bus_stop;platform;Bus Stop
+Cologne;3547698969;node;1;50,93799;6,854945;Mohnweg;tram_stop;stop_position;Tram stop
+Cologne;69444477;node;1;50,9380044;7,064481;Europaring;bus_stop;stop_position;Bus Stop
+Cologne;2427897005;node;1;50,9380867;6,9420044;;taxi;;Taxi
+Cologne;2926204087;node;1;50,9380878;6,9714251;Deutzer Freiheit;tram_stop;stop_position;Tram stop
+Cologne;605447400;node;1;50,9380879;6,8821563;Alter Milit‰rring;bus_stop;platform;Bus Stop
+Cologne;28122013;node;1;50,9380901;6,9713681;Deutzer Freiheit;tram_stop;stop_position;Tram stop
+Cologne;2588897598;node;1;50,9381036;6,9873567;Gummersbacher Str.;bus_stop;platform;Bus Stop
+Cologne;255559795;node;1;50,9381268;6,8449927;Bahnstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1037675828;node;1;50,938134;6,8342658;Weiden Zentrum;bus_stop;stop_position;Bus Stop
+Cologne;2059453027;node;1;50,938155;6,979644;Constantin;car_sharing;;Car Sharing
+Cologne;3548408088;node;1;50,9381582;6,8449965;Bahnstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1383433664;node;1;50,9381669;6,8352382;Weiden Zentrum;tram_stop;stop_position;Tram stop
+Cologne;2588897586;node;1;50,9382388;6,9871528;Gummersbacher Str.;bus_stop;platform;Bus Stop
+Cologne;635736884;node;1;50,9382568;6,9362258;Maas;car_sharing;;Car Sharing
+Cologne;1037675834;node;1;50,9382584;6,8343734;Weiden Zentrum;bus_stop;stop_position;Bus Stop
+Cologne;633163736;node;1;50,9382821;6,9595988;Rathaus;tram_stop;stop_position;Tram stop
+Cologne;605463644;node;1;50,9383279;6,8352454;Weiden Zentrum;tram_stop;stop_position;Tram stop
+Cologne;577801373;node;1;50,9383749;6,9781772;Bf Deutz / LANXESS arena;bus_stop;stop_position;Bus Stop
+Cologne;605463645;node;1;50,9384025;6,828639;Weiden Schulstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2211519870;node;1;50,9384136;6,9347993;;taxi;;Taxi
+Cologne;577078446;node;1;50,938733;7,0196183;W¸rzburger Straﬂe;bus_stop;;Bus Stop
+Cologne;659594931;node;1;50,9387413;6,978982;EuropCar;car_rental;;Car Rental
+Cologne;4307392001;node;1;50,9387916;6,8266485;Frechener Weg;bus_stop;;Bus Stop
+Cologne;2656504409;node;1;50,9388017;7,0081094;Kalk Kapelle;tram_stop;;Tram stop
+Cologne;831295917;node;1;50,9390107;7,0615442;Europaring;bus_stop;stop_position;Bus Stop
+Cologne;2059453018;node;1;50,93903;6,950462;Appellhof;car_sharing;;Car Sharing
+Cologne;1102053074;node;1;50,9390384;7,0095555;Kalk Kapelle;bus_stop;;Bus Stop
+Cologne;485131768;node;1;50,9390826;6,9506485;;taxi;;Taxi
+Cologne;1102053055;node;1;50,9390912;7,0088998;Kalk Kapelle;bus_stop;;Bus Stop
+Cologne;143456925;node;1;50,9391092;6,9784865;Bahnhof Deutz / LANXESS arena;tram_stop;stop_position;Tram stop
+Cologne;577078447;node;1;50,9391105;7,0195114;W¸rzburger Straﬂe;bus_stop;;Bus Stop
+Cologne;2547316738;node;1;50,9391247;6,9784469;Bahnhof Deutz / LANXESS arena;tram_stop;stop_position;Tram stop
+Cologne;827624865;node;1;50,939164;7,0491842;Klinikum Merheim;bus_stop;;Bus Stop
+Cologne;613378771;node;1;50,9392353;6,9788817;;taxi;;Taxi
+Cologne;76645863;node;1;50,939288;6,9104707;Oskar-J‰ger-Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;827624864;node;1;50,9393201;7,0495207;Klinikum Merheim;bus_stop;;Bus Stop
+Cologne;1152812238;node;1;50,9393495;6,8267047;Frechener Weg;bus_stop;;Bus Stop
+Cologne;3898140072;node;1;50,9393512;6,9599643;;taxi;;Taxi
+Cologne;5305050926;node;1;50,9395745;6,9775928;Bf Deutz / Messe;bus_stop;;Bus Stop
+Cologne;2059453049;node;1;50,9396137;6,9803402;Stadthaus/Kˆlnarena;car_sharing;;Car Sharing
+Cologne;1341148995;node;1;50,9396762;6,9504795;Appellhofplatz;tram_stop;stop_position;Tram stop
+Cologne;3311868267;node;1;50,9396775;6,9505468;Appellhofplatz;tram_stop;stop_position;Tram stop
+Cologne;2654870346;node;1;50,9397491;6,9780001;Bf Deutz/Messe;tram_stop;;Tram stop
+Cologne;2052859638;node;1;50,939785;6,97089;Hermann-P¸nder;car_sharing;;Car Sharing
+Cologne;5305050927;node;1;50,9398052;6,9763456;Bf Deutz / Messe;bus_stop;;Bus Stop
+Cologne;893020652;node;1;50,9398657;6,8803964;Wendelinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1102053095;node;1;50,9399384;7,0109351;Eythstr.;bus_stop;;Bus Stop
+Cologne;2415878714;node;1;50,9399894;6,9111163;Oskar-J‰ger-Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;262394406;node;1;50,9400027;6,945164;;taxi;;Taxi
+Cologne;259165444;node;1;50,9400289;6,9577209;;taxi;;Taxi
+Cologne;1102053077;node;1;50,9400553;7,0109838;Eythstr.;bus_stop;;Bus Stop
+Cologne;2630343387;node;1;50,9400982;6,9424447;;taxi;;Taxi
+Cologne;4479056467;node;1;50,9401432;6,968972;;taxi;;Taxi
+Cologne;779702433;node;1;50,9401534;6,8156313;Weiden West;bus_stop;stop_position;Bus Stop
+Cologne;354461542;node;1;50,9402396;7,0860665;Kleinfeldchensweg;bus_stop;stop_position;Bus Stop
+Cologne;774696891;node;1;50,940243;6,9614639;;taxi;;Taxi
+Cologne;4166042637;node;1;50,9402811;6,9744709;;taxi;;Taxi
+Cologne;354461543;node;1;50,94032;7,085997;Kleinfeldchensweg;bus_stop;stop_position;Bus Stop
+Cologne;4051505819;node;1;50,9403529;6,8157956;Weiden West;tram_stop;stop_position;Tram stop
+Cologne;300514892;node;1;50,940426;6,8160495;Weiden West;tram_stop;stop_position;Tram stop
+Cologne;4306152029;node;1;50,9404771;6,9101712;Oskar-J‰ger-Straﬂe / G¸rtel;bus_stop;stop_position;Bus Stop
+Cologne;4819533597;node;1;50,940569;6,9399678;Friesenplatz;tram_stop;station;Tram stop
+Cologne;605447401;node;1;50,9405943;6,8800074;Wendelinstraﬂe;bus_stop;platform;Bus Stop
+Cologne;608988902;node;1;50,9407381;6,9430486;;taxi;;Taxi
+Cologne;4406728298;node;1;50,9408663;6,9230685;Innere Kanalstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4551541320;node;1;50,9408677;6,8149249;Kˆln-Weiden West;halt;station;Train Station
+Cologne;893001712;node;1;50,9408767;6,8616691;Schwindstr.;bus_stop;;Bus Stop
+Cologne;74880878;node;1;50,9409887;6,9751312;Kˆln Messe/Deutz;station;station;Subway Station
+Cologne;3310236706;node;1;50,9411262;6,9504205;Appellhofplatz;tram_stop;stop_position;Tram stop
+Cologne;635045104;node;1;50,9411655;6,9506402;Appellhofplatz;tram_stop;stop_position;Tram stop
+Cologne;2588897597;node;1;50,9412173;6,9936319;Corintostr.;bus_stop;;Bus Stop
+Cologne;3655927375;node;1;50,9412305;6,9754558;Kˆln Messe/Deutz;halt;station;Train Station
+Cologne;4031191523;node;1;50,9413418;6,859397;Bˆcklinstr.;bus_stop;;Bus Stop
+Cologne;175617102;node;1;50,941378;6,9289647;Albrecht-D¸rer-Platz;bus_stop;;Bus Stop
+Cologne;256573324;node;1;50,9413875;6,956035;;taxi;;Taxi
+Cologne;1152805332;node;1;50,9415314;6,8581469;Bˆcklinstr.;bus_stop;;Bus Stop
+Cologne;577027976;node;1;50,941569;7,0226907;Fuldaer Straﬂe;bus_stop;;Bus Stop
+Cologne;577027979;node;1;50,9415714;7,0225423;Fuldaer Straﬂe;bus_stop;;Bus Stop
+Cologne;2656504407;node;1;50,9415863;7,0224971;Fuldaer Straﬂe;tram_stop;station;Tram stop
+Cologne;2130639072;node;1;50,9415883;7,0293204;Hˆhenberg Frankfurter Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;827624831;node;1;50,9415912;7,0507661;Ostmerheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5965081627;node;1;50,9416083;7,0294586;Hˆhenberg Frankfurter Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;827624830;node;1;50,941633;7,0506861;Ostmerheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5736345678;node;1;50,9416482;6,9725012;;car_sharing;;Car Sharing
+Cologne;28126956;node;1;50,9417015;6,9738248;Kˆln Messe/Deutz (tief);station;station;Subway Station
+Cologne;310877837;node;1;50,941749;7,029233;Hˆhenberg Frankfurter Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2059453048;node;1;50,94177;6,9344;Stadtgarten;car_sharing;;Car Sharing
+Cologne;3543812567;node;1;50,9417801;7,0291176;Hˆhenberg Frankfurter Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2393908416;node;1;50,9417829;6,9572166;Dom/Hbf;tram_stop;stop_position;Tram stop
+Cologne;354461545;node;1;50,9417976;7,0846903;B¸ckebergstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1152810864;node;1;50,9418016;6,8286401;Selma-Lagerlˆf-Str.;bus_stop;;Bus Stop
+Cologne;1341075078;node;1;50,9418151;6,9572123;Dom/Hbf;tram_stop;stop_position;Tram stop
+Cologne;354461544;node;1;50,9418862;7,0846084;B¸ckebergstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5722990727;node;1;50,9419469;6,8451513;Stormstr.;bus_stop;platform;Bus Stop
+Cologne;1383513246;node;1;50,9419849;6,9048617;Stolberger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;875604896;node;1;50,9420187;6,879317;Am Serviesberg;bus_stop;platform;Bus Stop
+Cologne;1152848074;node;1;50,9420228;6,8753462;Herrigergasse;bus_stop;;Bus Stop
+Cologne;576162445;node;1;50,9420559;6,9730246;Bahnhof Deutz/Messeplatz;bus_stop;platform;Bus Stop
+Cologne;1383513257;node;1;50,9420656;6,8970668;Stolberger Straﬂe/Maarweg;bus_stop;stop_position;Bus Stop
+Cologne;832548882;node;1;50,9420677;7,0547568;Hopfenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1152805701;node;1;50,9420737;6,8450927;Stormstr.;bus_stop;;Bus Stop
+Cologne;4031191524;node;1;50,942077;6,8542158;Egelspfad;bus_stop;;Bus Stop
+Cologne;832548885;node;1;50,9421014;7,0548469;Hopfenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1152805995;node;1;50,9421699;6,8413174;Weiden Sportplatz;bus_stop;;Bus Stop
+Cologne;473903147;node;1;50,9421755;6,9732449;Bahnhof Deutz/Messeplatz;bus_stop;platform;Bus Stop
+Cologne;1704264913;node;1;50,9423074;6,888926;Stolberger Straﬂe/Eupener Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4406728300;node;1;50,9426108;6,9187549;Mechternstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;28301370;node;1;50,9426536;7,042688;Kalker Friedhof;tram_stop;stop_position;Tram stop
+Cologne;1108056934;node;1;50,942661;7,0082037;Steinmetzstraﬂe;bus_stop;;Bus Stop
+Cologne;3543778475;node;1;50,9426797;7,0426655;Kalker Friedhof;tram_stop;stop_position;Tram stop
+Cologne;246197926;node;1;50,9427265;6,9571933;;taxi;;Taxi
+Cologne;831295920;node;1;50,9427347;7,0642743;Wiehler Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;267478954;node;1;50,942769;6,9633322;Frei fahrende F‰hre (ferry);ferry_terminal;;Ferry Terminal
+Cologne;2399559029;node;1;50,9427839;6,9590705;Kˆln Hauptbahnhof;station;station;Subway Station
+Cologne;1383433655;node;1;50,9428106;6,8250456;Severinusstraﬂe;bus_stop;platform;Bus Stop
+Cologne;246194322;node;1;50,9428689;6,9601337;;taxi;;Taxi
+Cologne;4551541319;node;1;50,9428837;6,8344286;Lˆvenich;halt;station;Train Station
+Cologne;4540923802;node;1;50,9429007;6,9082854;Buchbinder;car_rental;;Car Rental
+Cologne;646954179;node;1;50,9429185;6,9506093;;car_sharing;;Car Sharing
+Cologne;4603900824;node;1;50,9429748;6,9605955;Breslauer Platz/Hbf;bus_stop;stop_position;Bus Stop
+Cologne;2677877171;node;1;50,9430271;6,9335077;Kˆln West;station;station;Subway Station
+Cologne;305162047;node;1;50,9430555;6,9557248;Sixt;car_rental;;Car Rental
+Cologne;1051457186;node;1;50,9430571;6,9606594;Breslauer Platz/Hbf;bus_stop;stop_position;Bus Stop
+Cologne;6047116563;node;1;50,9430622;6,8822801;Vitalisstraﬂe S¸d;bus_stop;platform;Bus Stop
+Cologne;442698924;node;1;50,943112;6,9608121;Breslauer Platz/Hbf;bus_stop;stop_position;Bus Stop
+Cologne;264872228;node;1;50,943126;6,9558879;;taxi;;Taxi
+Cologne;6047116564;node;1;50,9431914;6,8821688;Vitalisstraﬂe S¸d;bus_stop;platform;Bus Stop
+Cologne;1051457183;node;1;50,9431953;6,960862;Breslauer Platz/Hbf;bus_stop;stop_position;Bus Stop
+Cologne;1631589855;node;1;50,9432402;6,9470696;;taxi;;Taxi
+Cologne;831295919;node;1;50,9432943;7,063219;Wiehler Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;137097060;node;1;50,9433311;6,9333536;Hans-Bˆckler-Platz/Bf West;tram_stop;stop_position;Tram stop
+Cologne;4042649154;node;1;50,9433553;6,9333778;Hans-Bˆckler-Platz/Bf West;tram_stop;stop_position;Tram stop
+Cologne;1108056935;node;1;50,9433967;7,0093789;Steinmetzstraﬂe;bus_stop;;Bus Stop
+Cologne;2425943543;node;1;50,9434619;6,9821623;Koelnmesse;tram_stop;stop_position;Tram stop
+Cologne;4406728297;node;1;50,9434836;6,9165702;Geisselstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;470616058;node;1;50,9435032;6,9820005;Koelnmesse;tram_stop;stop_position;Tram stop
+Cologne;4603900826;node;1;50,9435559;6,9608734;Breslauer Platz/Hbf;bus_stop;platform;Bus Stop
+Cologne;2977996774;node;1;50,9436705;7,0012538;STARCAR;car_rental;;Car Rental
+Cologne;352673137;node;1;50,9438462;6,9601172;Hertz;car_rental;;Car Rental
+Cologne;598172861;node;1;50,9438491;7,0473429;Merheim;tram_stop;stop_position;Tram stop
+Cologne;5022560973;node;1;50,9439921;6,9448621;Europcar;car_rental;;Car Rental
+Cologne;1383433654;node;1;50,9440293;6,8212932;Saarstraﬂe;bus_stop;platform;Bus Stop
+Cologne;614110336;node;1;50,9440771;6,8296941;Braugasse;bus_stop;platform;Bus Stop
+Cologne;614110337;node;1;50,944093;6,8294436;Braugasse;bus_stop;platform;Bus Stop
+Cologne;598172859;node;1;50,944174;7,04802;Merheim;bus_stop;stop_position;Bus Stop
+Cologne;28301373;node;1;50,9442983;7,0488157;Merheim;tram_stop;stop_position;Tram stop
+Cologne;598928565;node;1;50,9443055;7,0478896;Merheim;bus_stop;stop_position;Bus Stop
+Cologne;78586828;node;1;50,9443823;6,9587478;Breslauer Platz/Hauptbahnhof;tram_stop;stop_position;Tram stop
+Cologne;2393836850;node;1;50,9444437;6,9585753;Breslauer Platz/Hauptbahnhof;tram_stop;stop_position;Tram stop
+Cologne;2059453041;node;1;50,94447;6,961437;cambio-CarSharing Station Johannis;car_sharing;;Car Sharing
+Cologne;1108056933;node;1;50,9445131;7,0050993;Remscheider Straﬂe;bus_stop;;Bus Stop
+Cologne;831295923;node;1;50,9445884;7,0598892;Gewerbegebiet Broichstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1108056937;node;1;50,9446452;7,0076732;Remscheider Straﬂe;bus_stop;;Bus Stop
+Cologne;241872940;node;1;50,9447138;6,9127666;Weinsbergstraﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;21033643;node;1;50,944788;6,9134602;Weinsbergstraﬂe/G¸rtel;bus_stop;stop_position;Bus Stop
+Cologne;4905856650;node;1;50,9447978;6,9425155;Christophstraﬂe / Mediapark;tram_stop;;Tram stop
+Cologne;831295922;node;1;50,9448197;7,0602945;Gewerbegebiet Broichstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2059453026;node;1;50,94494;6,943231;Christoph;car_sharing;;Car Sharing
+Cologne;2291372145;node;1;50,9450729;7,0814442;Olpener Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;893020705;node;1;50,9451538;6,9120477;Weinsbergstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4394977393;node;1;50,9451664;6,887205;Josef-Lammerting-Allee;bus_stop;stop_position;Bus Stop
+Cologne;352675183;node;1;50,9451726;6,9609267;;taxi;;Taxi
+Cologne;4458093070;node;1;50,9452643;6,913013;Weinsbergstraﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;1152848060;node;1;50,9452808;6,8728775;K‰mpchensweg;bus_stop;;Bus Stop
+Cologne;6047116572;node;1;50,945318;6,9066484;Oskar-J‰ger-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2415878739;node;1;50,9453227;6,912757;Weinsbergstraﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1676897392;node;1;50,9454146;6,9076002;Starcar;car_rental;;Car Rental
+Cologne;893020689;node;1;50,945418;6,90724;Oskar-J‰ger-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2059453020;node;1;50,94546;6,956427;Bahnhof;car_sharing;;Car Sharing
+Cologne;249067276;node;1;50,9454826;6,8529902;Leinsamenweg;bus_stop;;Bus Stop
+Cologne;1383513168;node;1;50,9455999;7,0698734;Am Schildchen;bus_stop;;Bus Stop
+Cologne;350157416;node;1;50,9456007;6,9563935;;car_sharing;;Car Sharing
+Cologne;1395343951;node;1;50,945659;6,9012346;Europcar;car_rental;;Car Rental
+Cologne;569085863;node;1;50,9456679;7,0810385;Olpener Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;576154847;node;1;50,9457557;6,9748692;Im Rheinpark;bus_stop;;Bus Stop
+Cologne;473903146;node;1;50,9457655;6,975048;Im Rheinpark;bus_stop;;Bus Stop
+Cologne;157330124;node;1;50,9459304;6,9258803;Piusstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4031191525;node;1;50,945987;6,8596916;Flachsweg;bus_stop;;Bus Stop
+Cologne;1383513223;node;1;50,9459939;6,8972288;Karnevalsmuseum;bus_stop;platform;Bus Stop
+Cologne;4394977394;node;1;50,9459969;6,887612;Josef-Lammerting-Allee;bus_stop;stop_position;Bus Stop
+Cologne;893020674;node;1;50,9460167;6,8989831;Karnevalsmuseum;bus_stop;platform;Bus Stop
+Cologne;4042755973;node;1;50,9460342;6,9259415;Piusstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;577021867;node;1;50,9461054;7,0230497;M¸lheimer Friedhof;bus_stop;platform;Bus Stop
+Cologne;4031191526;node;1;50,9461142;6,8611812;Flachsweg;bus_stop;;Bus Stop
+Cologne;2059453051;node;1;50,9462344;6,8872078;TPK;car_sharing;;Car Sharing
+Cologne;614110338;node;1;50,9463133;6,8324368;Seith¸merstraﬂe;bus_stop;platform;Bus Stop
+Cologne;749779000;node;1;50,94638;6,924133;Barthonia;car_sharing;;Car Sharing
+Cologne;249059837;node;1;50,9464099;6,8981218;;taxi;;Taxi
+Cologne;256577199;node;1;50,9464323;6,9254948;;taxi;;Taxi
+Cologne;4823810064;node;1;50,9464327;6,8326293;Seith¸merstraﬂe;bus_stop;platform;Bus Stop
+Cologne;6047116565;node;1;50,9465822;6,8854917;Widdersdorfer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;6047116566;node;1;50,9466097;6,8853906;Widdersdorfer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;875597452;node;1;50,9466498;6,8912086;Technologiepark Kˆln;bus_stop;platform;Bus Stop
+Cologne;2059453034;node;1;50,9468004;6,9168266;Frˆbel;car_sharing;;Car Sharing
+Cologne;231358897;node;1;50,9468724;6,8904184;Technologiepark Kˆln;bus_stop;platform;Bus Stop
+Cologne;4076847591;node;1;50,9469093;6,8883712;Enterprise;car_rental;;Car Rental
+Cologne;577021866;node;1;50,9470079;7,0222382;M¸lheimer Friedhof;bus_stop;platform;Bus Stop
+Cologne;527958378;node;1;50,9470628;6,8297739;Zaunstraﬂe;bus_stop;platform;Bus Stop
+Cologne;527958251;node;1;50,9471061;6,8301601;Zaunstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1152837136;node;1;50,9471453;6,8410479;Dieselstr.;bus_stop;;Bus Stop
+Cologne;309448038;node;1;50,9472048;6,9725633;Tanzbrunnen;station;;Subway Station
+Cologne;289499819;node;1;50,947378;6,9446588;;taxi;;Taxi
+Cologne;1383433658;node;1;50,9475292;6,8269049;Spitzangerweg;bus_stop;platform;Bus Stop
+Cologne;1152838225;node;1;50,947624;6,8476585;Roggenweg;bus_stop;;Bus Stop
+Cologne;3522511602;node;1;50,9477247;7,072864;Flehbachstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1600099303;node;1;50,947806;7,0734933;Flehbachstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;249067275;node;1;50,9478295;6,8510439;Roggenweg;bus_stop;;Bus Stop
+Cologne;4409721377;node;1;50,9478653;6,9840337;;taxi;;Taxi
+Cologne;1676993562;node;1;50,9478714;6,9074813;Enterprise;car_rental;;Car Rental
+Cologne;1696315259;node;1;50,9482047;6,8882961;M¸ngersdorf S-Bahn/Technologiepark;bus_stop;stop_position;Bus Stop
+Cologne;157329991;node;1;50,9482893;6,9202445;Kˆrnerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;539772274;node;1;50,9483346;6,9151252;Flinkster;car_sharing;;Car Sharing
+Cologne;4042755972;node;1;50,948361;6,9203358;Kˆrnerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4551541318;node;1;50,9484237;6,888433;Kˆln-M¸ngersdorf/Technologiepark;halt;station;Train Station
+Cologne;4394977401;node;1;50,9485279;6,888155;M¸ngersdorf S-Bahn/Technologiepark;bus_stop;stop_position;Bus Stop
+Cologne;766430299;node;1;50,9485293;6,8250436;Brauweiler Straﬂe;bus_stop;;Bus Stop
+Cologne;143456955;node;1;50,9485328;6,9932953;Stegerwaldsiedlung;tram_stop;stop_position;Tram stop
+Cologne;2749817851;node;1;50,9485423;7,0060209;Buchforst Klaprothstraﬂe;bus_stop;;Bus Stop
+Cologne;2547316987;node;1;50,9485501;6,993275;Stegerwaldsiedlung;tram_stop;stop_position;Tram stop
+Cologne;2749817855;node;1;50,9485709;7,0061392;Buchforst Klaprothstraﬂe;bus_stop;;Bus Stop
+Cologne;367945344;node;1;50,9486372;6,9650791;St. Vincenz Haus;bus_stop;stop_position;Bus Stop
+Cologne;1600276899;node;1;50,9487568;7,0782939;Br¸ck Mauspfad;tram_stop;stop_position;Tram stop
+Cologne;3520740126;node;1;50,9487905;7,0782741;Br¸ck Mauspfad;tram_stop;stop_position;Tram stop
+Cologne;6046436736;node;1;50,9488721;6,9152258;;taxi;;Taxi
+Cologne;3520740127;node;1;50,9488759;7,0778;Br¸ck Mauspfad;tram_stop;stop_position;Tram stop
+Cologne;568314900;node;1;50,9488985;7,0790772;;taxi;;Taxi
+Cologne;367972307;node;1;50,949027;6,9655385;St. Vincenz Haus;bus_stop;stop_position;Bus Stop
+Cologne;766430283;node;1;50,9490765;6,8241041;Brauweiler Straﬂe;bus_stop;;Bus Stop
+Cologne;2677877169;node;1;50,9491225;6,9526023;Kˆln Hansaring;station;station;Subway Station
+Cologne;4408605609;node;1;50,9492303;6,9160035;Venloer Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;569085904;node;1;50,9492702;7,0791896;Br¸ck Mauspfad;bus_stop;stop_position;Bus Stop
+Cologne;569167173;node;1;50,9492812;7,0791847;Br¸ck Mauspfad;bus_stop;stop_position;Bus Stop
+Cologne;2059453037;node;1;50,94952;6,953799;Hansa;car_sharing;;Car Sharing
+Cologne;598172598;node;1;50,9496838;7,0428754;Bevingsweg;bus_stop;stop_position;Bus Stop
+Cologne;1779230239;node;1;50,9498236;6,9527747;Hansaring;bus_stop;platform;Bus Stop
+Cologne;577022265;node;1;50,9498395;7,0179032;Beuthener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;6038971277;node;1;50,9498753;6,8779341;Wasseramselweg;bus_stop;platform;Bus Stop
+Cologne;1962291059;node;1;50,9499065;6,9164517;Venloer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2415878757;node;1;50,949921;6,9164085;Venloer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;577022266;node;1;50,9499337;7,0184072;Beuthener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;706090549;node;1;50,950025;6,9156581;Flinkster;car_sharing;;Car Sharing
+Cologne;598172454;node;1;50,9501329;7,0431811;Bevingsweg;bus_stop;stop_position;Bus Stop
+Cologne;1779230240;node;1;50,9502129;6,9533957;Hansaring;bus_stop;platform;Bus Stop
+Cologne;1152845927;node;1;50,9502173;6,8683495;Belvederstr.;bus_stop;;Bus Stop
+Cologne;442698918;node;1;50,9502461;6,9819918;Thermalbad;bus_stop;platform;Bus Stop
+Cologne;473903145;node;1;50,9502526;6,9822193;Thermalbad;bus_stop;platform;Bus Stop
+Cologne;1839451742;node;1;50,9503369;7,050195;Broichstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;614110339;node;1;50,9503481;6,828608;An der Ronne;bus_stop;platform;Bus Stop
+Cologne;1187632696;node;1;50,9503789;6,8677268;Belvederstrasse;bus_stop;;Bus Stop
+Cologne;4042649153;node;1;50,9503804;6,9282445;Gutenbergstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;76598858;node;1;50,9504004;6,9282643;Gutenbergstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1732898265;node;1;50,9504015;6,9279292;;taxi;;Taxi
+Cologne;5453566622;node;1;50,9506412;6,9807969;Thermalbad;bus_stop;;Bus Stop
+Cologne;5060554766;node;1;50,9507098;6,9592776;Ebertplatz/Riehler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;309447968;node;1;50,9507552;6,9806161;Thermalbad;halt;;Train Station
+Cologne;4819787255;node;1;50,950763;6,9592067;Ebertplatz;tram_stop;station;Tram stop
+Cologne;1098551605;node;1;50,9508535;6,9577073;Ebertplatz;bus_stop;stop_position;Bus Stop
+Cologne;503735329;node;1;50,9508597;6,9561191;;taxi;;Taxi
+Cologne;4044525751;node;1;50,9508932;7,0045237;Waldecker Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;598923037;node;1;50,9509555;7,0500832;Broichstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;227547284;node;1;50,9510285;6,8942867;Vitalisstraﬂe Nord;bus_stop;stop_position;Bus Stop
+Cologne;392002594;node;1;50,9510714;6,9154502;;taxi;;Taxi
+Cologne;4044525752;node;1;50,9512741;7,0059555;Waldecker Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;614110340;node;1;50,9513198;6,8288678;An der Ronne;bus_stop;platform;Bus Stop
+Cologne;1108163006;node;1;50,9513688;7,0051637;Buchforst Waldecker Straﬂe;bus_stop;;Bus Stop
+Cologne;1108163053;node;1;50,9513845;7,0048501;Buchforst Waldecker Straﬂe;bus_stop;;Bus Stop
+Cologne;2059453021;node;1;50,9514324;6,9193636;Bhf Ehrenfeld;car_sharing;;Car Sharing
+Cologne;4551541317;node;1;50,951592;6,9173393;Kˆln-Ehrenfeld;station;station;Subway Station
+Cologne;309447985;node;1;50,9517421;6,9792255;Rosengarten;halt;;Train Station
+Cologne;2059453050;node;1;50,95176;6,955172;Suderman;car_sharing;;Car Sharing
+Cologne;1338523469;node;1;50,9518156;6,9551016;"Cambio;Flinkster";car_sharing;;Car Sharing
+Cologne;264373944;node;1;50,9518637;6,9250247;Liebigstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1880680504;node;1;50,9519063;6,9250911;Liebigstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;249066591;node;1;50,952044;6,862473;Am Lindenweg;bus_stop;;Bus Stop
+Cologne;391545475;node;1;50,9520626;6,9192942;Flinkster;car_sharing;;Car Sharing
+Cologne;769388452;node;1;50,9520635;6,9188249;Bf Ehrenfeld;bus_stop;platform;Bus Stop
+Cologne;300450696;node;1;50,9520964;7,0782892;Im Langen Bruch;bus_stop;stop_position;Bus Stop
+Cologne;1630153884;node;1;50,9524545;6,9246093;Liebigstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;577022264;node;1;50,95254;7,0142358;Buchheim Frankfurter Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2516115071;node;1;50,9528101;7,0779061;Im Langen Bruch;bus_stop;stop_position;Bus Stop
+Cologne;530277984;node;1;50,9529869;7,0142808;Buchheim Frankfurter Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4394977414;node;1;50,9530241;6,8995169;Vogelsanger Straﬂe/Maarweg;bus_stop;stop_position;Bus Stop
+Cologne;4394977415;node;1;50,9530694;6,8993273;Vogelsanger Straﬂe/Maarweg;bus_stop;stop_position;Bus Stop
+Cologne;1546261311;node;1;50,9532891;7,0145436;Frankfurter Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2545148981;node;1;50,9533143;7,0145227;Frankfurter Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4529708138;node;1;50,9533373;6,8289428;Curt-Stenvert-Bogen;bus_stop;platform;Bus Stop
+Cologne;304576743;node;1;50,953401;6,9195304;Subbel;car_sharing;;Car Sharing
+Cologne;1108163012;node;1;50,9534394;7,0044336;Buchforst S-Bahn;bus_stop;;Bus Stop
+Cologne;221169436;node;1;50,9534395;6,919722;;taxi;;Taxi
+Cologne;4571574550;node;1;50,9535312;7,0043042;Kˆln-Buchforst;halt;station;Train Station
+Cologne;4406728304;node;1;50,9535396;6,9274049;Schadowstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1108163043;node;1;50,953572;7,0041778;Buchforst S-Bahn;bus_stop;;Bus Stop
+Cologne;2059453046;node;1;50,95361;6,9129;Lessing;car_sharing;;Car Sharing
+Cologne;4406728305;node;1;50,9536811;6,9277652;Schadowstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;310320859;node;1;50,9538616;6,9627214;;taxi;;Taxi
+Cologne;893020698;node;1;50,9538659;6,9197556;Subbelrather Straﬂe / G¸rtel;bus_stop;platform;Bus Stop
+Cologne;893020695;node;1;50,9540188;6,9197262;Subbelrather Straﬂe / G¸rtel;bus_stop;platform;Bus Stop
+Cologne;2112740027;node;1;50,9540191;6,9645685;Reichenspergerplatz;bus_stop;platform;Bus Stop
+Cologne;4529708137;node;1;50,9540541;6,8288201;Curt-Stenvert-Bogen;bus_stop;platform;Bus Stop
+Cologne;1779230241;node;1;50,9541854;6,9503612;Krefelder Wall;bus_stop;platform;Bus Stop
+Cologne;1095233500;node;1;50,9541954;6,9644094;Reichenspergerplatz;bus_stop;stop_position;Bus Stop
+Cologne;3304561187;node;1;50,9542013;6,9635015;Reichenspergerplatz;bus_stop;platform;Bus Stop
+Cologne;2523709911;node;1;50,9542549;6,9649137;Reichenspergerplatz;tram_stop;stop_position;Tram stop
+Cologne;78586837;node;1;50,9542947;6,9648739;Reichenspergerplatz;tram_stop;stop_position;Tram stop
+Cologne;1779230242;node;1;50,9543468;6,950473;Krefelder Wall;bus_stop;platform;Bus Stop
+Cologne;4844385152;node;1;50,954402;6,9183618;;taxi;;Taxi
+Cologne;4405454402;node;1;50,9545209;6,929785;Schirmerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4405454403;node;1;50,9545965;6,9301105;Schirmerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1725697490;node;1;50,9546423;6,9091873;Leyendeckerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2510932922;node;1;50,9546612;7,0500591;Eggerbachstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4024193949;node;1;50,9547168;6,909252;Leyendeckerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;75476577;node;1;50,9548205;6,9214386;Subbelrather Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2417558252;node;1;50,9548307;6,9214107;Subbelrather Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;598923757;node;1;50,9549904;7,0500966;Eggerbachstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3898690091;node;1;50,9553552;6,9681289;Worringer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2059453022;node;1;50,9554;6,963197;Blume;car_sharing;;Car Sharing
+Cologne;231440247;node;1;50,9555168;6,884533;Falkenweg;bus_stop;platform;Bus Stop
+Cologne;1095233504;node;1;50,9555405;6,9679109;Worringer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;298850677;node;1;50,9555558;6,8810281;Vogelsanger Markt;bus_stop;platform;Bus Stop
+Cologne;4305828629;node;1;50,9555627;6,8855873;Falkenweg;bus_stop;platform;Bus Stop
+Cologne;1108163028;node;1;50,9556158;7,0041111;Kieler Straﬂe;bus_stop;;Bus Stop
+Cologne;4300813301;node;1;50,9556577;6,8820876;Vogelsanger Markt;bus_stop;platform;Bus Stop
+Cologne;143456974;node;1;50,9557319;7,0004245;Gr¸nstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;678588968;node;1;50,9557443;6,9149769;Lessingstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2546739905;node;1;50,9557637;7,0003153;Gr¸nstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;6012533956;node;1;50,9557742;6,9928475;Auenweg;bus_stop;;Bus Stop
+Cologne;243975985;node;1;50,9557999;6,9152077;Lessingstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5306506482;node;1;50,955833;6,9928061;Auenweg;bus_stop;stop_position;Bus Stop
+Cologne;6012533957;node;1;50,9559029;6,9927571;Auenweg;bus_stop;;Bus Stop
+Cologne;1778343303;node;1;50,9560809;6,9025545;ƒuﬂere Kanalstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;460509604;node;1;50,9561044;6,9316179;AVK;car_rental;;Car Rental
+Cologne;4406728302;node;1;50,9561278;6,9338722;Pettenkofer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6046436758;node;1;50,9561408;6,8919964;Vogelsanger Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1108163034;node;1;50,9561593;7,0049505;Kieler Straﬂe;bus_stop;;Bus Stop
+Cologne;1778343304;node;1;50,9561649;6,9024595;ƒuﬂere Kanalstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5556864549;node;1;50,9563383;6,9340786;;taxi;;Taxi
+Cologne;6046436759;node;1;50,9563841;6,8919612;Vogelsanger Straﬂe;bus_stop;platform;Bus Stop
+Cologne;243917383;node;1;50,9564434;6,9341742;+49 221 9704090;taxi;;Taxi
+Cologne;1696101133;node;1;50,9568043;6,9026518;ƒuﬂere Kanalstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5556817929;node;1;50,956812;6,9356722;Methweg;bus_stop;stop_position;Bus Stop
+Cologne;4042762924;node;1;50,9568851;6,9027471;ƒuﬂere Kanalstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;320214079;node;1;50,956898;6,9191564;;taxi;;Taxi
+Cologne;576990096;node;1;50,9569872;7,0118057;Bf M¸lheim;bus_stop;platform;Bus Stop
+Cologne;3253355831;node;1;50,9569889;6,9119385;Takustraﬂe;bus_stop;platform;Bus Stop
+Cologne;259624280;node;1;50,9570375;7,0125174;Bahnhof M¸lheim;tram_stop;stop_position;Tram stop
+Cologne;75476540;node;1;50,9570744;6,9237039;Nuﬂbaumerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4698899048;node;1;50,957081;7,0121365;;car_sharing;;Car Sharing
+Cologne;2417558240;node;1;50,9570905;6,9236578;Nuﬂbaumerstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;800443787;node;1;50,9571249;7,0125706;Bahnhof M¸lheim;tram_stop;stop_position;Tram stop
+Cologne;576990098;node;1;50,9571692;7,0118447;Bf M¸lheim;bus_stop;platform;Bus Stop
+Cologne;3974738793;node;1;50,9572375;7,0122626;;car_sharing;;Car Sharing
+Cologne;243975727;node;1;50,9572655;6,9115285;Takustraﬂe;bus_stop;platform;Bus Stop
+Cologne;218195230;node;1;50,9573916;6,8993319;;taxi;;Taxi
+Cologne;1308092148;node;1;50,9577553;7,0118652;Bf M¸lheim;bus_stop;platform;Bus Stop
+Cologne;442698917;node;1;50,957765;6,9967764;Windm¸hlenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;473903144;node;1;50,9577958;6,9972407;Windm¸hlenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1779208614;node;1;50,9577968;6,9496267;Merheimer Platz;bus_stop;platform;Bus Stop
+Cologne;1779208615;node;1;50,9578746;6,9500253;Merheimer Platz;bus_stop;platform;Bus Stop
+Cologne;773622401;node;1;50,9578776;7,0122403;Taxistand;taxi;;Taxi
+Cologne;78589377;node;1;50,9578905;6,9743896;Zoo/Flora;tram_stop;stop_position;Tram stop
+Cologne;258068652;node;1;50,957902;7,0251618;Buchheim Herler Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3201647981;node;1;50,9579103;6,9743579;Zoo/Flora;tram_stop;stop_position;Tram stop
+Cologne;3304561185;node;1;50,9579347;6,9634986;Lentpark;bus_stop;platform;Bus Stop
+Cologne;2260669418;node;1;50,9579392;7,0250866;Buchheim Herler Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2415405849;node;1;50,957954;7,0250496;Buchheim Herler Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4305820882;node;1;50,957961;6,874176;Goldammerweg;bus_stop;platform;Bus Stop
+Cologne;576990100;node;1;50,9579952;7,012224;Flinkster;car_sharing;;Car Sharing
+Cologne;3267495709;node;1;50,9581286;6,9552458;Lohsestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;475518448;node;1;50,9581367;6,9552899;Lohsestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;680661595;node;1;50,9581415;7,0095433;Graf-Adolf-Straﬂe;bus_stop;;Bus Stop
+Cologne;1611636589;node;1;50,9581466;7,0135261;Kˆln-M¸lheim;station;station;Subway Station
+Cologne;1779208638;node;1;50,9582687;6,9450818;Sechzigstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2556770162;node;1;50,9582783;6,895711;Hertz;car_rental;;Car Rental
+Cologne;266314300;node;1;50,9582784;7,0253556;Buchheim Herler Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;316257632;node;1;50,9582846;7,0254379;Buchheim Herler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1095233506;node;1;50,9583054;6,9714053;Zoo/Flora;bus_stop;platform;Bus Stop
+Cologne;1108163037;node;1;50,9583234;7,0096075;Graf-Adolf-Straﬂe;bus_stop;;Bus Stop
+Cologne;4305820883;node;1;50,9583324;6,8731666;Goldammerweg;bus_stop;platform;Bus Stop
+Cologne;233302214;node;1;50,9583421;6,9083887;Marienstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1779208621;node;1;50,9584046;6,9393078;Osterather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;650768264;node;1;50,9584465;6,9413026;Nippes S-Bahn;bus_stop;stop_position;Bus Stop
+Cologne;299453076;node;1;50,9584708;7,0409623;Lacher Broch;bus_stop;platform;Bus Stop
+Cologne;2725441797;node;1;50,9584859;6,9719505;Zoo/Flora;bus_stop;platform;Bus Stop
+Cologne;299453075;node;1;50,9585179;7,0413576;Lacher Broch;bus_stop;platform;Bus Stop
+Cologne;287156880;node;1;50,9585717;6,9393421;Osterather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6046436756;node;1;50,9585758;6,9081876;Marienstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1778343289;node;1;50,9586193;6,9051509;Borsigstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1779208640;node;1;50,9587893;6,949329;Zonser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;256222117;node;1;50,9588072;6,9552877;cambio Lohse;car_sharing;;Car Sharing
+Cologne;4042695043;node;1;50,9588677;6,9181858;Lenauplatz;tram_stop;stop_position;Tram stop
+Cologne;1722236875;node;1;50,9588966;6,9182838;Lenauplatz;tram_stop;stop_position;Tram stop
+Cologne;2059453053;node;1;50,95893;6,913973;Taku;car_sharing;;Car Sharing
+Cologne;1778343290;node;1;50,9589339;6,9051758;Borsigstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4571513918;node;1;50,9589937;6,9417766;Kˆln-Nippes;station;station;Subway Station
+Cologne;1108033858;node;1;50,9589946;6,913995;Taku;car_sharing;;Car Sharing
+Cologne;1660866440;node;1;50,9593266;7,0007626;Danzierstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1779208639;node;1;50,9593916;6,9447102;Sechzigstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1506625355;node;1;50,9594464;7,0451715;Schlagbaumsweg;bus_stop;stop_position;Bus Stop
+Cologne;2059453036;node;1;50,959467;6,99518;Hafen;car_sharing;;Car Sharing
+Cologne;298158037;node;1;50,9595314;7,0452027;Schlagbaumsweg;bus_stop;stop_position;Bus Stop
+Cologne;4698899047;node;1;50,9595352;7,0119123;;car_sharing;;Car Sharing
+Cologne;2952474366;node;1;50,9595937;7,0082271;Elisabeth-Breuer-Str.;bus_stop;;Bus Stop
+Cologne;3931836487;node;1;50,9596108;6,8322206;Zur Abtei;bus_stop;platform;Bus Stop
+Cologne;1779208641;node;1;50,959729;6,9501319;Zonser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1383433667;node;1;50,9597932;6,8319698;Zur Abtei;bus_stop;platform;Bus Stop
+Cologne;2952474367;node;1;50,9598814;7,0079921;Elisabeth-Breuer-Str.;bus_stop;;Bus Stop
+Cologne;3202025937;node;1;50,9600357;6,9548339;Cranachstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4861510846;node;1;50,9605875;6,8940188;Akazienweg;tram_stop;stop_position;Tram stop
+Cologne;4861510849;node;1;50,9606526;6,894114;Akazienweg;tram_stop;stop_position;Tram stop
+Cologne;5614733821;node;1;50,9609208;7,0172234;Ackerstr.;bus_stop;platform;Bus Stop
+Cologne;1778343297;node;1;50,9609634;6,9016958;H‰uschensweg;bus_stop;stop_position;Bus Stop
+Cologne;4302305062;node;1;50,9609635;6,9307562;cambio CarSharing;car_sharing;;Car Sharing
+Cologne;5178562658;node;1;50,9610851;7,0032871;Wiener Platz;bus_stop;platform;Bus Stop
+Cologne;5308593583;node;1;50,9611041;7,0032978;Wiener Platz;bus_stop;;Bus Stop
+Cologne;3202025938;node;1;50,9611325;6,9540747;Cranachstraﬂe;bus_stop;platform;Bus Stop
+Cologne;230292876;node;1;50,9611354;6,9013141;H‰uschensweg;bus_stop;stop_position;Bus Stop
+Cologne;5178562656;node;1;50,9611568;7,0036266;Wiener Platz;bus_stop;platform;Bus Stop
+Cologne;3202025941;node;1;50,9611783;6,9589926;Schneider-Clauss-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;660625745;node;1;50,9611918;6,8363889;Zum neuen Kreuz;bus_stop;platform;Bus Stop
+Cologne;5107768725;node;1;50,9611932;6,9737139;Bodinusstraﬂe;bus_stop;platform;Bus Stop
+Cologne;3891720796;node;1;50,9612027;6,8357758;Zum neuen Kreuz;bus_stop;platform;Bus Stop
+Cologne;265776555;node;1;50,9612034;7,0308968;Wichheimer Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3202025939;node;1;50,9612264;6,9547015;Cranachstraﬂe;bus_stop;platform;Bus Stop
+Cologne;218578448;node;1;50,9613059;6,8725569;Bachstelzenweg;bus_stop;platform;Bus Stop
+Cologne;5630898402;node;1;50,9613491;6,8362437;;bus_stop;;Bus Stop
+Cologne;5842647367;node;1;50,9613604;6,8302922;Blaugasse;bus_stop;platform;Bus Stop
+Cologne;3202025940;node;1;50,9613944;6,9631484;Kuenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;298850669;node;1;50,961407;6,872166;Bachstelzenweg;bus_stop;platform;Bus Stop
+Cologne;5842647368;node;1;50,9614128;6,8305711;Blaugasse;bus_stop;platform;Bus Stop
+Cologne;579620133;node;1;50,9614702;7,0057664;Wiener Platz;bus_stop;platform;Bus Stop
+Cologne;5614758380;node;1;50,9615619;7,017406;Ackerstr.;bus_stop;platform;Bus Stop
+Cologne;1333488313;node;1;50,9616097;7,0049044;Wiener Platz;tram_stop;stop_position;Tram stop
+Cologne;1333488287;node;1;50,9616932;7,004991;Wiener Platz;tram_stop;stop_position;Tram stop
+Cologne;1333488308;node;1;50,9616998;7,004229;Wiener Platz;tram_stop;stop_position;Tram stop
+Cologne;5107768726;node;1;50,9617084;6,9738561;Bodinusstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1670774948;node;1;50,9617089;7,005995;;taxi;;Taxi
+Cologne;2546741130;node;1;50,9617395;7,0040539;Wiener Platz;tram_stop;stop_position;Tram stop
+Cologne;579620135;node;1;50,9617512;7,0054332;Wiener Platz;bus_stop;platform;Bus Stop
+Cologne;1333387923;node;1;50,9618745;7,0316213;Wichheimer Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2059453029;node;1;50,9618951;6,9563094;cambio Eich;car_sharing;;Car Sharing
+Cologne;3202025936;node;1;50,9622759;6,9586091;Beuelsweg;bus_stop;platform;Bus Stop
+Cologne;78586844;node;1;50,9623376;6,9808537;Boltensternstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3201647913;node;1;50,962354;6,980823;Boltensternstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;215310642;node;1;50,9623983;6,9403055;Nievenheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1110119814;node;1;50,9624619;7,0271923;Gauweg;bus_stop;;Bus Stop
+Cologne;1110119813;node;1;50,9624849;7,0273709;Gauweg;bus_stop;;Bus Stop
+Cologne;2059453055;node;1;50,96268;7,005769;Wiener;car_sharing;;Car Sharing
+Cologne;232279554;node;1;50,9627073;6,9503406;Wilhelmstraﬂe;bus_stop;platform;Bus Stop
+Cologne;230292884;node;1;50,9628484;6,9003414;Feltenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1779208618;node;1;50,9628589;6,9402795;Nievenheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3955377728;node;1;50,9628999;6,9505234;Wilhelmstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1109145393;node;1;50,9629012;7,0125969;Montanusstraﬂe;bus_stop;;Bus Stop
+Cologne;1383433652;node;1;50,962913;6,8406382;Rosmarinweg;bus_stop;stop_position;Bus Stop
+Cologne;2059453054;node;1;50,96297;6,943874;Werkstatt/Kesselhaus;car_sharing;;Car Sharing
+Cologne;1778343294;node;1;50,9630404;6,9002852;Feltenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1109145395;node;1;50,9630484;7,0130192;Montanusstraﬂe;bus_stop;;Bus Stop
+Cologne;5630898401;node;1;50,9630906;6,8406128;Rosmarinweg;bus_stop;stop_position;Bus Stop
+Cologne;2059453032;node;1;50,9631763;6,9583589;cambio Flora;car_sharing;;Car Sharing
+Cologne;1198976462;node;1;50,9632015;7,0058882;Wiener;car_sharing;;Car Sharing
+Cologne;308655410;node;1;50,9632043;7,0497004;Kochwiesenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;299448626;node;1;50,9633064;7,0471915;Colonia Allee;bus_stop;stop_position;Bus Stop
+Cologne;299448630;node;1;50,9633064;7,0472147;Colonia Allee;bus_stop;stop_position;Bus Stop
+Cologne;547437285;node;1;50,9633142;6,958373;Flinkster;car_sharing;;Car Sharing
+Cologne;269596945;node;1;50,9633373;6,9685277;Kinderkrankenhaus;tram_stop;stop_position;Tram stop
+Cologne;3202025935;node;1;50,9633414;6,9589172;Beuelsweg Nord;bus_stop;platform;Bus Stop
+Cologne;3141997533;node;1;50,9633418;6,9683862;Kinderkrankenhaus;tram_stop;stop_position;Tram stop
+Cologne;218564553;node;1;50,9633734;6,8756146;Steinkauzweg;bus_stop;platform;Bus Stop
+Cologne;218563727;node;1;50,9634819;6,8745657;Steinkauzweg;bus_stop;platform;Bus Stop
+Cologne;959622959;node;1;50,9635924;6,8302665;Adrian-Meller-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;959622957;node;1;50,9636404;6,8303425;Adrian-Meller-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;300453163;node;1;50,9639076;7,0728206;Ostfriedhof;bus_stop;stop_position;Bus Stop
+Cologne;1681413436;node;1;50,9639221;6,9763008;;taxi;;Taxi
+Cologne;6011462397;node;1;50,9640891;7,0727806;Ostfriedhof;bus_stop;stop_position;Bus Stop
+Cologne;1318702376;node;1;50,9642422;7,0432807;Burgwiesenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1318702377;node;1;50,9642742;7,0434931;Burgwiesenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;244118154;node;1;50,9642824;6,8279197;Brennerei;bus_stop;stop_position;Bus Stop
+Cologne;956085790;node;1;50,9642962;6,9764671;Riehler G¸rtel;bus_stop;platform;Bus Stop
+Cologne;218566808;node;1;50,9644676;6,8786283;Kolkrabenweg;bus_stop;platform;Bus Stop
+Cologne;256432872;node;1;50,9644974;6,9536917;Florastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1109145396;node;1;50,9644987;7,0207664;M¸lheimer Ring;bus_stop;;Bus Stop
+Cologne;3228030103;node;1;50,9644995;6,9537357;Florastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;296471468;node;1;50,9645352;7,0621916;Am Leinacker;bus_stop;stop_position;Bus Stop
+Cologne;2139321457;node;1;50,964571;6,9113071;Iltisstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;445070887;node;1;50,964584;6,9337666;Escher Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;787312005;node;1;50,9645976;6,8286946;Brennerei;bus_stop;platform;Bus Stop
+Cologne;2417558233;node;1;50,9645976;6,9337246;Escher Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;296471466;node;1;50,9646342;7,0624427;Am Leinacker;bus_stop;stop_position;Bus Stop
+Cologne;1951251034;node;1;50,9647599;6,9125553;Iltisstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1722236988;node;1;50,9647945;6,9126349;Iltisstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1109145394;node;1;50,9649041;7,0220494;M¸lheimer Ring;bus_stop;;Bus Stop
+Cologne;6069171821;node;1;50,9649662;6,8792747;Kolkrabenweg;bus_stop;platform;Bus Stop
+Cologne;3150771874;node;1;50,964983;6,9535687;Florastraﬂe;bus_stop;;Bus Stop
+Cologne;956085895;node;1;50,9650591;6,9767349;Riehler G¸rtel;bus_stop;platform;Bus Stop
+Cologne;3150771876;node;1;50,9651157;6,9536902;Florastraﬂe;bus_stop;platform;Bus Stop
+Cologne;5630882684;node;1;50,9651492;6,8424159;;bus_stop;;Bus Stop
+Cologne;5614704349;node;1;50,9651709;7,0181956;Carlswerkstraﬂe;bus_stop;platform;Bus Stop
+Cologne;220641181;node;1;50,965174;6,8844277;Wolffsohnstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4042770057;node;1;50,9652314;6,8844953;Wolffsohnstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5614706170;node;1;50,9653347;7,0184934;Carlswerkstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4490911378;node;1;50,9654184;6,9468874;St. Vinzenz Hospital;bus_stop;platform;Bus Stop
+Cologne;3283941120;node;1;50,9654599;6,9464948;St. Vinzenz Hospital;bus_stop;platform;Bus Stop
+Cologne;2059453019;node;1;50,9654694;6,9459383;Autofrei/Kempener;car_sharing;;Car Sharing
+Cologne;224755406;node;1;50,9655685;6,9401885;Ludwigsburger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1110119815;node;1;50,9656019;7,0263004;Gronauer Straﬂe;bus_stop;;Bus Stop
+Cologne;4394977392;node;1;50,9656589;6,9124815;Iltisstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1110119812;node;1;50,9656889;7,0257581;Gronauer Straﬂe;bus_stop;;Bus Stop
+Cologne;252016272;node;1;50,9657969;6,9538476;;taxi;;Taxi
+Cologne;1778657383;node;1;50,9658365;6,9401955;Ludwigsburger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;78586851;node;1;50,9658431;6,9877448;Slabystraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3201647980;node;1;50,9658447;6,9876997;Slabystraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1383433651;node;1;50,965905;6,841931;Palmenhof;bus_stop;platform;Bus Stop
+Cologne;280119875;node;1;50,9661406;6,9683316;Xantener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2417558319;node;1;50,9661779;7,0378832;Vischeringstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;334752284;node;1;50,9661919;7,0599357;Heinz-K¸hn-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;345267617;node;1;50,9662046;7,0601751;Heinz-K¸hn-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2546739821;node;1;50,9662055;7,0069309;Keupstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;614156183;node;1;50,966226;7,0378144;Vischeringstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;143457010;node;1;50,9662309;7,0068106;Keupstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;2546739825;node;1;50,9662371;7,0067712;Keupstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;6046436771;node;1;50,9662412;6,8767816;Silbermˆwenweg;bus_stop;platform;Bus Stop
+Cologne;959622956;node;1;50,9662937;6,8343311;Widdersdorf;bus_stop;;Bus Stop
+Cologne;6046436772;node;1;50,9664169;6,8765113;Silbermˆwenweg;bus_stop;platform;Bus Stop
+Cologne;250915459;node;1;50,9664235;6,897862;Emilstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4394977397;node;1;50,9664276;6,955772;Leipziger Platz;bus_stop;platform;Bus Stop
+Cologne;5308575352;node;1;50,9664424;7,0066203;Keupstraﬂe;bus_stop;platform;Bus Stop
+Cologne;280120041;node;1;50,9664608;6,9691299;Xantener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4394977398;node;1;50,9665388;6,9557787;Leipziger Platz;bus_stop;platform;Bus Stop
+Cologne;1383513235;node;1;50,9665464;7,0098448;Schanzenstr. / Schauspielhaus;bus_stop;platform;Bus Stop
+Cologne;5308572499;node;1;50,9665703;7,0061864;Keupstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5107768728;node;1;50,9666309;6,9801303;Seniorenzentrum Riehl;bus_stop;platform;Bus Stop
+Cologne;321377166;node;1;50,9666723;7,0684345;Siedlung Mielenforst;bus_stop;stop_position;Bus Stop
+Cologne;296472827;node;1;50,9667301;7,0676862;Siedlung Mielenforst;bus_stop;stop_position;Bus Stop
+Cologne;343578766;node;1;50,9667958;7,006077;Auto-Blitz;car_rental;;Car Rental
+Cologne;5809382393;node;1;50,9668122;6,8312737;;bus_stop;;Bus Stop
+Cologne;2166049913;node;1;50,9668319;7,0397261;Vischeringstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2414304810;node;1;50,966843;7,0389063;Vischeringstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;265778202;node;1;50,966844;7,0389856;Vischeringstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;280120222;node;1;50,9669572;6,9642944;Kretzerstraﬂe;bus_stop;platform;Bus Stop
+Cologne;280120209;node;1;50,9670276;6,9628507;Kretzerstraﬂe;bus_stop;platform;Bus Stop
+Cologne;4026538202;node;1;50,9670362;7,0103959;;taxi;;Taxi
+Cologne;2166049914;node;1;50,9672118;7,0394112;Vischeringstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5629455499;node;1;50,9672654;6,8373488;;bus_stop;;Bus Stop
+Cologne;280120382;node;1;50,9672879;6,9589854;Niehler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;291553775;node;1;50,9674253;6,8784654;Westfriedhof;tram_stop;stop_position;Tram stop
+Cologne;2415405950;node;1;50,967439;6,9881397;Slabystraﬂe;tram_stop;stop_position;Tram stop
+Cologne;497051695;node;1;50,9674504;6,9880986;Slabystraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4042770056;node;1;50,9674828;6,8784994;Westfriedhof;tram_stop;stop_position;Tram stop
+Cologne;3955377726;node;1;50,9675445;6,9531327;Nordstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;280120350;node;1;50,9675457;6,9595476;Niehler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;244120251;node;1;50,96768;6,8389263;Im Buschfelde;bus_stop;;Bus Stop
+Cologne;265778206;node;1;50,9678469;7,0447259;Maria-Himmelfahrt-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2407961011;node;1;50,9678789;7,0447032;Maria-Himmelfahrt-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2059453031;node;1;50,9680308;6,9507859;Erzberger;car_sharing;;Car Sharing
+Cologne;300454254;node;1;50,9680343;7,06819;Roteichenweg;bus_stop;stop_position;Bus Stop
+Cologne;280557846;node;1;50,9680355;7,0680984;Roteichenweg;bus_stop;stop_position;Bus Stop
+Cologne;5107768730;node;1;50,9680465;6,9789536;Seniorenzentrum Riehl;bus_stop;platform;Bus Stop
+Cologne;2939354081;node;1;50,9681152;6,9554193;;car_sharing;;Car Sharing
+Cologne;5842647360;node;1;50,9681477;6,841754;Indianapolis-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5842647361;node;1;50,968198;6,8415763;Indianapolis-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1778362938;node;1;50,9682525;6,8956524;Erlenweg;bus_stop;stop_position;Bus Stop
+Cologne;4034443725;node;1;50,9682571;6,9692193;Sprengelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;233240670;node;1;50,9683475;6,8955398;Erlenweg;bus_stop;stop_position;Bus Stop
+Cologne;143480723;node;1;50,9683927;6,9406054;Geldernstraﬂe/Parkg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2415878816;node;1;50,9684365;6,9405989;Geldernstraﬂe/Parkg¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1578607665;node;1;50,9685;6,9413491;Kˆln Geldernstraﬂe/Parkg¸rtel;halt;station;Train Station
+Cologne;1722237103;node;1;50,9685552;6,9053886;Margaretastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4011598500;node;1;50,9685634;6,90548;Margaretastraﬂe;tram_stop;stop_position;Tram stop
+Cologne;300453826;node;1;50,9686264;7,0743554;Thurner Kamp;bus_stop;stop_position;Bus Stop
+Cologne;1765430553;node;1;50,9687121;6,93988;Geldernstraﬂe/Parkg¸rtel;bus_stop;platform;Bus Stop
+Cologne;5308621719;node;1;50,9688173;7,0065394;D¸nnwalder Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4394977391;node;1;50,9688218;6,9164477;Butzweilerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5308624193;node;1;50,968858;7,0068814;D¸nnwalder Straﬂe;bus_stop;platform;Bus Stop
+Cologne;300453825;node;1;50,9689345;7,0743689;Thurner Kamp;bus_stop;stop_position;Bus Stop
+Cologne;1778657375;node;1;50,9689456;6,9365364;Frankenthaler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430555;node;1;50,9689636;6,9400008;Geldernstraﬂe/Parkg¸rtel;bus_stop;platform;Bus Stop
+Cologne;1778657372;node;1;50,9690214;6,9318595;Ebernburgweg;bus_stop;platform;Bus Stop
+Cologne;5107768731;node;1;50,9690614;6,9784639;Barbarastraﬂe;bus_stop;platform;Bus Stop
+Cologne;1778657376;node;1;50,9690641;6,9358284;Frankenthaler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5107768738;node;1;50,9690953;6,9688272;Sprengelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1778657374;node;1;50,9691462;6,9324092;Ebernburgweg;bus_stop;platform;Bus Stop
+Cologne;215295808;node;1;50,9691698;6,9395043;;taxi;;Taxi
+Cologne;4344793780;node;1;50,9692697;6,939066;;car_sharing;;Car Sharing
+Cologne;224711894;node;1;50,9692702;6,8939705;M¸hlenweg;bus_stop;stop_position;Bus Stop
+Cologne;5107768732;node;1;50,9692961;6,9787966;Barbarastraﬂe;bus_stop;platform;Bus Stop
+Cologne;5614720647;node;1;50,9693069;7,0162503;Schanzenstr. Nord;bus_stop;platform;Bus Stop
+Cologne;93433443;node;1;50,9693293;6,8729366;Bocklem¸nd;tram_stop;stop_position;Tram stop
+Cologne;5614718748;node;1;50,9693471;7,016962;Schanzenstr. Nord;bus_stop;platform;Bus Stop
+Cologne;257808418;node;1;50,9693517;6,8723873;;taxi;;Taxi
+Cologne;4044747561;node;1;50,9693526;6,8729588;Bocklem¸nd;tram_stop;stop_position;Tram stop
+Cologne;277821646;node;1;50,9694045;7,0550172;Neufelder Straﬂe/Krankenhaus Holweide;tram_stop;stop_position;Tram stop
+Cologne;329323972;node;1;50,9696649;7,0404358;;bus_stop;;Bus Stop
+Cologne;1778657370;node;1;50,9696942;6,9269984;Alzeyer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1333387681;node;1;50,969753;7,0562308;Neufelder Straﬂe/Krankenhaus Holweide;tram_stop;stop_position;Tram stop
+Cologne;2104246925;node;1;50,9699259;6,856955;WDR;bus_stop;platform;Bus Stop
+Cologne;762451639;node;1;50,9700075;6,8568221;WDR;bus_stop;stop_position;Bus Stop
+Cologne;5961659331;node;1;50,970032;7,0078316;Sch¸tzenhofstraﬂe;bus_stop;platform;Bus Stop
+Cologne;2242409743;node;1;50,9700941;6,8566806;WDR;bus_stop;platform;Bus Stop
+Cologne;5961659330;node;1;50,9701967;7,0082809;Sch¸tzenhofstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1778657371;node;1;50,9702836;6,9269495;Alzeyer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;143457031;node;1;50,9703945;7,0113698;Von-Sparr-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2546741123;node;1;50,9703988;7,0113321;Von-Sparr-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4138358289;node;1;50,9705838;7,0149509;reisemobilfieber;car_rental;;Car Rental
+Cologne;243930156;node;1;50,9708042;6,8908626;M¸hlenweg;bus_stop;stop_position;Bus Stop
+Cologne;943958109;node;1;50,9708392;6,969135;Amsterdamer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;4034430092;node;1;50,9708514;6,9688852;Amsterdamer Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;4034430093;node;1;50,9708556;6,9693492;Amsterdamer Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;2417558229;node;1;50,9708745;6,9691347;Amsterdamer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;143480680;node;1;50,9709703;6,9690379;Amsterdamer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;1733501768;node;1;50,9709703;6,9691842;Amsterdamer Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;288965280;node;1;50,9710928;7,0392788;Buschfeldstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;218540872;node;1;50,971097;6,8860562;;taxi;;Taxi
+Cologne;345262810;node;1;50,9712118;7,0926387;Penningsfelder Weg;bus_stop;platform;Bus Stop
+Cologne;286449384;node;1;50,9712733;7,0881929;Strundener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;442698915;node;1;50,971293;7,0098519;Von-Sparr-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2130787785;node;1;50,971306;7,0099658;Von-Sparr-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;345262805;node;1;50,9713083;7,0925794;Penningsfelder Weg;bus_stop;platform;Bus Stop
+Cologne;2059453035;node;1;50,9713384;6,9538314;G¸rtel/Kirchweg;car_sharing;;Car Sharing
+Cologne;935445954;node;1;50,9713723;6,9771792;Pasteurstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;286449383;node;1;50,9713786;7,0874112;Strundener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4042779811;node;1;50,9716332;6,8702657;Schaffrathsgasse;tram_stop;stop_position;Tram stop
+Cologne;93433508;node;1;50,9716411;6,8701662;Schaffrathsgasse;tram_stop;stop_position;Tram stop
+Cologne;292182866;node;1;50,9717429;7,0410648;Buschfeldstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;277845364;node;1;50,9717522;7,0644217;Dellbr¸ck Mauspfad;tram_stop;stop_position;Tram stop
+Cologne;343471422;node;1;50,9718647;7,0105546;Von-Sparr-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5964833862;node;1;50,9718764;7,010656;Von-Sparr-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1064725010;node;1;50,9719108;6,9143696;Franziska-Anneke-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1333387756;node;1;50,9720208;7,0653689;Dellbr¸ck Mauspfad;tram_stop;stop_position;Tram stop
+Cologne;286449375;node;1;50,9722624;7,078969;Gemarkenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;944477623;node;1;50,9723213;6,9513976;Neusser Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;143480702;node;1;50,9723273;6,9513491;Neusser Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;3228030105;node;1;50,972337;6,9514153;Neusser Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;2415878873;node;1;50,9723519;6,9513914;Neusser Straﬂe/G¸rtel;tram_stop;stop_position;Tram stop
+Cologne;286449381;node;1;50,9723755;7,0789062;Gemarkenstraﬂe;bus_stop;platform;Bus Stop
+Cologne;230377258;node;1;50,9723813;6,9510579;;taxi;;Taxi
+Cologne;38443845;node;1;50,9724297;6,9137903;Franziska-Anneke-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;315122742;node;1;50,9725266;6,9761392;Pasteurstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765430561;node;1;50,9725973;6,9516887;Neusser Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;1765430565;node;1;50,9726468;6,9339012;Trifelsstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430567;node;1;50,9726526;6,9341129;Trifelsstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1764268821;node;1;50,9727021;6,8660347;Grevenbroicher Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;292322039;node;1;50,9728269;7,0491092;Gerhart-Hauptmann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;244307259;node;1;50,9729552;6,8658156;Grevenbroicher Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765232736;node;1;50,9729626;6,9510087;Neusser Straﬂe/G¸rtel;bus_stop;platform;Bus Stop
+Cologne;1765430544;node;1;50,9731616;6,9463092;Bergstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430542;node;1;50,9731864;6,9255183;Am Bilderstˆckchen;bus_stop;platform;Bus Stop
+Cologne;579685644;node;1;50,9732634;7,0059641;Von-Lohe-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;292321862;node;1;50,9732682;7,0497742;Gerhart-Hauptmann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4394977389;node;1;50,9733177;6,9254629;Am Bilderstˆckchen;bus_stop;platform;Bus Stop
+Cologne;1765430543;node;1;50,9733851;6,9260037;Am Bilderstˆckchen;bus_stop;platform;Bus Stop
+Cologne;4394977390;node;1;50,9734166;6,9257157;Am Bilderstˆckchen;bus_stop;platform;Bus Stop
+Cologne;579685647;node;1;50,9734744;7,0062708;Von-Lohe-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1722237279;node;1;50,9737374;6,9047087;Rektor-Klein-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;4011598544;node;1;50,9737427;6,904818;Rektor-Klein-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;1765430546;node;1;50,9738128;6,9462928;Bergstraﬂe;bus_stop;platform;Bus Stop
+Cologne;3824577687;node;1;50,9739137;6,9690469;Neven DuMont Haus;bus_stop;platform;Bus Stop
+Cologne;4713049110;node;1;50,9741511;6,9547971;Niehler Kirchweg;bus_stop;platform;Bus Stop
+Cologne;243930150;node;1;50,974211;6,8909215;BlÈriotstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4713049111;node;1;50,9742661;6,9555814;Niehler Kirchweg;bus_stop;platform;Bus Stop
+Cologne;315120682;node;1;50,9743575;6,9699599;Neven DuMont Haus;bus_stop;platform;Bus Stop
+Cologne;69463718;node;1;50,9745081;7,0752538;Dellbr¸ck Hauptstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;931157856;node;1;50,9745799;7,0745346;Dellbr¸ck Hauptstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4394977402;node;1;50,9745851;6,9395161;Nibelungenplatz;bus_stop;platform;Bus Stop
+Cologne;5108289672;node;1;50,9746062;6,9596659;Friedrich-Karl-Straﬂe/Niehler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;30388742;node;1;50,9748188;7,014818;M¸lheim Berliner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2546739829;node;1;50,9748225;7,01477;M¸lheim Berliner Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;1383503377;node;1;50,974843;7,0487805;K¸hz‰llerweg;bus_stop;stop_position;Bus Stop
+Cologne;4394977404;node;1;50,9748464;6,9393476;Nibelungenplatz;bus_stop;platform;Bus Stop
+Cologne;5108289671;node;1;50,974868;6,9599327;Friedrich-Karl-Straﬂe/Niehler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5308567193;node;1;50,9748993;7,0145854;M¸lheim Berliner Straﬂe;bus_stop;platform;Bus Stop
+Cologne;286449368;node;1;50,9749122;7,0745693;Dellbr¸ck Hauptstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;315623477;node;1;50,9749123;7,0145288;M¸lheim Berliner Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4643678805;node;1;50,9749167;6,9736607;Niehl Betriebshof Nord;bus_stop;platform;Bus Stop
+Cologne;2546740322;node;1;50,9749407;7,0142428;M¸lheim Berliner Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430556;node;1;50,9749669;6,9297252;M¸lhauser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1333387740;node;1;50,9750325;7,0750914;Dellbr¸ck Hauptstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1765430558;node;1;50,9750679;6,9295203;M¸lhauser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430550;node;1;50,9751091;6,9493966;Friedrich-Karl-Straﬂe/Neusser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4643678804;node;1;50,9751585;6,9735547;Niehl Betriebshof Nord;bus_stop;platform;Bus Stop
+Cologne;2130639061;node;1;50,9751714;7,014355;M¸lheim Berliner Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1765430552;node;1;50,9752316;6,9494701;Friedrich-Karl-Straﬂe/Neusser Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2510932926;node;1;50,9753055;7,048196;K¸hz‰llerweg;bus_stop;stop_position;Bus Stop
+Cologne;1764123462;node;1;50,9754646;6,8595168;Nattermannallee;bus_stop;stop_position;Bus Stop
+Cologne;2059453043;node;1;50,97568;7,074326;Kemperwiese;car_sharing;;Car Sharing
+Cologne;710345483;node;1;50,9758228;6,9457789;Nordfriedhof;bus_stop;platform;Bus Stop
+Cologne;4042779802;node;1;50,9758475;6,8712639;Ollenhauerring;tram_stop;stop_position;Tram stop
+Cologne;244055560;node;1;50,9758625;6,8711293;Ollenhauerring;tram_stop;stop_position;Tram stop
+Cologne;443040;node;1;50,9758741;6,858012;Nattermannallee;bus_stop;stop_position;Bus Stop
+Cologne;242924524;node;1;50,9759803;6,945913;Nordfriedhof;bus_stop;platform;Bus Stop
+Cologne;1383503227;node;1;50,975981;7,0499625;Grunerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4571574549;node;1;50,9762247;7,0411142;Kˆln-Holweide;halt;station;Train Station
+Cologne;252157106;node;1;50,9763703;6,8709554;Ollenhauerring;bus_stop;stop_position;Bus Stop
+Cologne;243365003;node;1;50,9763846;6,8707625;Ollenhauerring;bus_stop;stop_position;Bus Stop
+Cologne;292137260;node;1;50,9765187;7,0438259;Holweide S-Bahn;bus_stop;stop_position;Bus Stop
+Cologne;320718215;node;1;50,9766203;7,0351568;Eddaweg;bus_stop;;Bus Stop
+Cologne;1778362941;node;1;50,9766845;6,8909539;Hugo-Eckener-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;215225662;node;1;50,9767336;6,8654389;N¸ssenberger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;286449370;node;1;50,9767745;7,0724852;Von-Quadt-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;286449371;node;1;50,9767915;7,0724629;Von-Quadt-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4394977409;node;1;50,976854;6,9362287;Schmiedegasse;bus_stop;platform;Bus Stop
+Cologne;1765430548;node;1;50,9769095;6,9217719;CˆllnParc;bus_stop;platform;Bus Stop
+Cologne;5108289668;node;1;50,9770141;6,9608769;Drosselweg;bus_stop;platform;Bus Stop
+Cologne;3190145347;node;1;50,9770617;6,9688125;Nesselrodestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;276278176;node;1;50,977073;6,9689305;Nesselrodestraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5108289669;node;1;50,9770808;6,9606422;Drosselweg;bus_stop;platform;Bus Stop
+Cologne;242847982;node;1;50,9771788;6,935622;Schmiedegasse;bus_stop;platform;Bus Stop
+Cologne;1765430549;node;1;50,9771998;6,9212507;CˆllnParc;bus_stop;platform;Bus Stop
+Cologne;1778610612;node;1;50,9772762;6,8646655;N¸ssenberger Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383503533;node;1;50,9773087;6,9038099;Ossendorf;bus_stop;stop_position;Bus Stop
+Cologne;243365011;node;1;50,9773089;6,8853621;Von-H¸nefeld-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1764268826;node;1;50,9774559;6,8603881;Nattermannallee;bus_stop;stop_position;Bus Stop
+Cologne;632737909;node;1;50,9774784;6,8982931;Alter Flughafen Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;2404039811;node;1;50,977541;6,8982896;Alter Flughafen Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;1778657368;node;1;50,9775904;6,8979646;Alter Flughafen Butzweilerhof;bus_stop;platform;Bus Stop
+Cologne;1778362944;node;1;50,977626;6,8918174;Hugo-Eckener-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;243930153;node;1;50,9776296;6,892396;Hugo-Eckener-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;250913675;node;1;50,9776571;6,8964043;Alter Flughafen Butzweilerhof;bus_stop;stop_position;Bus Stop
+Cologne;259634353;node;1;50,9776638;7,0325438;Am Springborn;bus_stop;;Bus Stop
+Cologne;6005323704;node;1;50,9777318;6,8977363;Alter Flughafen Butzweilerhof;bus_stop;platform;Bus Stop
+Cologne;1333387852;node;1;50,9780081;7,0855147;Thielenbruch;tram_stop;stop_position;Tram stop
+Cologne;2407961126;node;1;50,9780477;7,0854969;Thielenbruch;tram_stop;stop_position;Tram stop
+Cologne;1764268827;node;1;50,9780617;6,8605239;Nattermannallee;bus_stop;stop_position;Bus Stop
+Cologne;230385798;node;1;50,9781858;6,9285196;Longericher Straﬂe/Etzelstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;482749484;node;1;50,9781979;6,9487993;Mollwitzstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3228030104;node;1;50,9782066;6,9488428;Mollwitzstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5109296060;node;1;50,9783711;6,9318144;Etzelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5983891042;node;1;50,9783905;6,8489631;Wohnmobilcenter Kˆln;car_rental;;Car Rental
+Cologne;324290804;node;1;50,9784612;6,9320614;Etzelstraﬂe;bus_stop;platform;Bus Stop
+Cologne;320884553;node;1;50,9786095;7,0397356;Jasminweg;bus_stop;;Bus Stop
+Cologne;486298048;node;1;50,9787461;7,0134165;von-Galen-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;527133368;node;1;50,9788069;7,0028452;Am Faulbach;bus_stop;;Bus Stop
+Cologne;486298045;node;1;50,979063;7,0128124;von-Galen-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;442698913;node;1;50,9791633;7,0208942;Neurather Weg;bus_stop;platform;Bus Stop
+Cologne;5178562623;node;1;50,9792491;7,0212681;Neurather Weg;bus_stop;platform;Bus Stop
+Cologne;527133372;node;1;50,9792809;7,003122;Am Faulbach;bus_stop;platform;Bus Stop
+Cologne;1383503211;node;1;50,9793021;7,0489992;Goldregenweg;bus_stop;stop_position;Bus Stop
+Cologne;2510932923;node;1;50,9793232;7,048958;Goldregenweg;bus_stop;stop_position;Bus Stop
+Cologne;5108289661;node;1;50,9794746;6,9633955;Weidenpescher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;366697096;node;1;50,9794889;6,9633191;Weidenpescher Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;272338383;node;1;50,9795154;7,0728127;Mˆhlstraﬂe;bus_stop;;Bus Stop
+Cologne;4271086389;node;1;50,9797041;7,0018334;Enterprise Rent-A-Car;car_rental;;Car Rental
+Cologne;1764123379;node;1;50,9797501;6,8461076;Autobahn / B59;bus_stop;stop_position;Bus Stop
+Cologne;1779319672;node;1;50,9797638;6,8846473;Gunther-Pl¸schow-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;6041203233;node;1;50,9798212;6,8652164;Bˆrnestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5108289659;node;1;50,9798923;6,9635762;Weidenpescher Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5108289660;node;1;50,9799145;6,9634974;Weidenpescher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;244055823;node;1;50,9801166;6,8652666;Bˆrnestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765392571;node;1;50,9802801;6,9187188;Robert-Perthel-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;4840100435;node;1;50,9804709;7,0749217;Starcar;car_rental;;Car Rental
+Cologne;5308527752;node;1;50,9805304;7,0227372;Im Weidenbruch;bus_stop;platform;Bus Stop
+Cologne;5380367884;node;1;50,9805387;6,8704604;Gˆrlinger-Zentrum;tram_stop;stop_position;Tram stop
+Cologne;1764268819;node;1;50,9805462;6,8578289;Dohmengasse;bus_stop;stop_position;Bus Stop
+Cologne;5862268872;node;1;50,9805616;6,8704628;Gˆrlinger-Zentrum;tram_stop;stop_position;Tram stop
+Cologne;143467770;node;1;50,9806493;7,022691;Im Weidenbruch;tram_stop;stop_position;Tram stop
+Cologne;2546739817;node;1;50,9806569;7,0226518;Im Weidenbruch;tram_stop;stop_position;Tram stop
+Cologne;1765392573;node;1;50,9806663;6,9185666;Robert-Perthel-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1764328430;node;1;50,9809617;6,8595734;Dohmengasse;bus_stop;stop_position;Bus Stop
+Cologne;320884939;node;1;50,9810717;7,032125;Honschaftsstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;287904367;node;1;50,9811147;7,0692516;;taxi;;Taxi
+Cologne;279468366;node;1;50,9811465;7,0691295;Dellbr¸ck S-Bahn;bus_stop;stop_position;Bus Stop
+Cologne;345255959;node;1;50,9811738;7,0998076;Schlodderdicher Weg;bus_stop;platform;Bus Stop
+Cologne;4571587866;node;1;50,9814765;7,0702372;Kˆln-Dellbr¸ck;station;station;Subway Station
+Cologne;2510932932;node;1;50,9815907;7,0445489;Sigwinstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1631415824;node;1;50,9816009;7,068629;Anemonenweg;bus_stop;stop_position;Bus Stop
+Cologne;596673975;node;1;50,9816068;7,0782186;Bergisch-Gladbacher-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;486298054;node;1;50,9816466;7,0083654;Bruder-Klaus-Siedlung;bus_stop;platform;Bus Stop
+Cologne;274106667;node;1;50,981675;7,0686135;Anemonenweg;bus_stop;stop_position;Bus Stop
+Cologne;292401149;node;1;50,9817052;7,0443211;Sigwinstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;486298058;node;1;50,9817831;7,008348;Bruder-Klaus-Siedlung;bus_stop;platform;Bus Stop
+Cologne;271773317;node;1;50,9819201;7,0790882;Bergisch-Gladbacher-Straﬂe;bus_stop;;Bus Stop
+Cologne;728905365;node;1;50,9819425;6,8942979;IKEA Am Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;2404039813;node;1;50,9819953;6,8943669;IKEA Am Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;5108289656;node;1;50,9821233;6,9608085;Graditzer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;289105034;node;1;50,9824706;7,0370922;Torringer Weg;bus_stop;stop_position;Bus Stop
+Cologne;5108289657;node;1;50,9827624;6,9605926;Graditzer Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1383503400;node;1;50,9828721;6,8850202;Mathias-Br¸ggen-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1778395081;node;1;50,9830154;6,8851252;Mathias-Br¸ggen-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;244055789;node;1;50,9830917;6,8652464;Heinrich-Mann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765392565;node;1;50,9834772;6,913148;Longericher Straﬂe Nord;bus_stop;platform;Bus Stop
+Cologne;244055829;node;1;50,9835894;6,8651717;Heinrich-Mann-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765392567;node;1;50,9837454;6,9130438;Longericher Straﬂe Nord;bus_stop;platform;Bus Stop
+Cologne;2059453040;node;1;50,98383;6,896453;IKEA;car_sharing;;Car Sharing
+Cologne;1764328414;node;1;50,9841092;6,8608598;Buschweg;bus_stop;stop_position;Bus Stop
+Cologne;243172174;node;1;50,9841563;6,8701698;Schumacherring;bus_stop;stop_position;Bus Stop
+Cologne;1778610722;node;1;50,9841687;6,8697731;Schumacherring;bus_stop;stop_position;Bus Stop
+Cologne;16048147;node;1;50,984292;7,0821383;Paffrather Straﬂe;bus_stop;;Bus Stop
+Cologne;1459263672;node;1;50,984304;7,0415561;Birkenweg;bus_stop;stop_position;Bus Stop
+Cologne;1764268818;node;1;50,9846477;6,8601691;Buschweg;bus_stop;stop_position;Bus Stop
+Cologne;651963087;node;1;50,9846953;6,8883553;Sparkasse Am Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;2105944600;node;1;50,984758;6,8884275;Sparkasse Am Butzweilerhof;tram_stop;stop_position;Tram stop
+Cologne;5308399773;node;1;50,9848342;7,0042981;Neuer M¸lheimer Friedhof;bus_stop;platform;Bus Stop
+Cologne;3770342403;node;1;50,9849263;6,8872931;Sparkasse Am Butzweilerhof;bus_stop;stop_position;Bus Stop
+Cologne;3190145348;node;1;50,9849323;6,9617267;Niehl Sebastianstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;273948471;node;1;50,984987;6,9617977;Niehl Sebastianstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;4254906703;node;1;50,9850586;6,9611883;Niehl Sebastianstraﬂe;bus_stop;platform;Bus Stop
+Cologne;838091006;node;1;50,9850691;6,8872579;Sparkasse Am Butzweilerhof;bus_stop;stop_position;Bus Stop
+Cologne;4254906706;node;1;50,985145;6,9609363;Niehl Sebastianstraﬂe;bus_stop;platform;Bus Stop
+Cologne;332050852;node;1;50,9851476;7,0043525;Neuer M¸lheimer Friedhof;bus_stop;platform;Bus Stop
+Cologne;733998393;node;1;50,9854285;6,8873169;;taxi;;Taxi
+Cologne;317378304;node;1;50,9855004;6,9993979;Moses-Hess-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;318266429;node;1;50,9856579;6,9463469;Scheibenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;3228036127;node;1;50,9856653;6,9463878;Scheibenstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1686195704;node;1;50,985926;6,898666;;bus_stop;;Bus Stop
+Cologne;1337181545;node;1;50,9860224;6,9921224;Bonhoefferstraﬂe;bus_stop;;Bus Stop
+Cologne;243930157;node;1;50,9862093;6,8813838;Milit‰rringstraﬂe;bus_stop;;Bus Stop
+Cologne;286555057;node;1;50,9863595;7,0677788;Diepeschrather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;579701626;node;1;50,9867834;6,9997867;Moses-Hess-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;286555134;node;1;50,9868343;7,0673391;Diepeschrather Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1764268817;node;1;50,9869909;6,8587989;Auweilerweg;bus_stop;stop_position;Bus Stop
+Cologne;1765392556;node;1;50,9872957;6,9105377;Hugo-Junkers-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;469472303;node;1;50,9873776;6,9920699;Gisbertstraﬂe;bus_stop;;Bus Stop
+Cologne;271773252;node;1;50,987475;7,0862264;Heinrich-Str¸nker-Straﬂe;bus_stop;;Bus Stop
+Cologne;324404570;node;1;50,9876392;7,041903;Hˆhscheider Weg;bus_stop;stop_position;Bus Stop
+Cologne;1337181864;node;1;50,9877657;6,9920808;Friedhof Stammheim;bus_stop;platform;Bus Stop
+Cologne;1765392559;node;1;50,9877763;6,9098549;Hugo-Junkers-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2510932924;node;1;50,9880713;7,0420647;Hˆhscheider Weg;bus_stop;stop_position;Bus Stop
+Cologne;2130639071;node;1;50,9882196;6,9910708;Friedhof Stammheim;bus_stop;platform;Bus Stop
+Cologne;4923091932;node;1;50,9883833;7,0295458;Am Emberg;bus_stop;platform;Bus Stop
+Cologne;579706732;node;1;50,9887693;6,9993245;Stammheimer Ring;bus_stop;platform;Bus Stop
+Cologne;317332961;node;1;50,9889848;6,9972781;Stammheimer Ring;bus_stop;platform;Bus Stop
+Cologne;1778395055;node;1;50,9891084;6,8923106;Am Coloneum;bus_stop;stop_position;Bus Stop
+Cologne;317332960;node;1;50,9891246;6,9974371;Stammheimer Ring;bus_stop;platform;Bus Stop
+Cologne;5308512305;node;1;50,9891342;7,0296108;Am Emberg;bus_stop;platform;Bus Stop
+Cologne;1383502923;node;1;50,9892135;6,8920556;Am Coloneum;bus_stop;stop_position;Bus Stop
+Cologne;5110984836;node;1;50,989236;6,9614294;Merkenicher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;143467786;node;1;50,9893534;7,0302445;Am Emberg;tram_stop;stop_position;Tram stop
+Cologne;2546739813;node;1;50,989361;7,0302111;Am Emberg;tram_stop;stop_position;Tram stop
+Cologne;579706733;node;1;50,9897771;7,0008342;Stammheim S-Bahn;bus_stop;platform;Bus Stop
+Cologne;348264376;node;1;50,9898345;7,0005057;Stammheim S-Bahn;bus_stop;platform;Bus Stop
+Cologne;2753970571;node;1;50,9900135;7,0018957;Kˆln-Stammheim;halt;station;Train Station
+Cologne;5110984835;node;1;50,9900777;6,9614348;Merkenicher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;29783033;node;1;50,9902277;7,0554887;Kalkweg;bus_stop;stop_position;Bus Stop
+Cologne;1765392551;node;1;50,9902384;6,9064464;D‰dalusring;bus_stop;platform;Bus Stop
+Cologne;2516115078;node;1;50,9902551;7,0554564;Kalkweg;bus_stop;stop_position;Bus Stop
+Cologne;317333164;node;1;50,990718;6,9863944;Egonstraﬂe;bus_stop;platform;Bus Stop
+Cologne;317333163;node;1;50,9908936;6,985987;Egonstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1765392554;node;1;50,9909051;6,905783;D‰dalusring;bus_stop;platform;Bus Stop
+Cologne;2510932927;node;1;50,991394;7,0430217;Lippeweg;bus_stop;stop_position;Bus Stop
+Cologne;1766034302;node;1;50,9918075;6,9410625;Wilhelm-Sollmann-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;289104497;node;1;50,9918313;7,0431532;Lippeweg;bus_stop;stop_position;Bus Stop
+Cologne;264139231;node;1;50,991878;6,9412229;Wilhelm-Sollmann-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3228036128;node;1;50,9918871;6,9412609;Wilhelm-Sollmann-Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;5110984834;node;1;50,9924218;6,9588424;Halfengasse;bus_stop;platform;Bus Stop
+Cologne;355242906;node;1;50,9927072;7,0482313;Wildpark;bus_stop;stop_position;Bus Stop
+Cologne;355242910;node;1;50,9927421;7,0480745;Wildpark;bus_stop;stop_position;Bus Stop
+Cologne;524240391;node;1;50,9927966;6,9251993;;taxi;;Taxi
+Cologne;600849037;node;1;50,9930565;6,9399407;Taxi;taxi;;Taxi
+Cologne;3228554362;node;1;50,9937463;6,933998;Altonaer Platz;tram_stop;stop_position;Tram stop
+Cologne;264139218;node;1;50,9940061;6,9325851;Altonaer Platz;tram_stop;stop_position;Tram stop
+Cologne;289104460;node;1;50,9940492;7,0409212;Imbacher Weg;bus_stop;stop_position;Bus Stop
+Cologne;2510932925;node;1;50,9940818;7,040865;Imbacher Weg;bus_stop;stop_position;Bus Stop
+Cologne;5110984832;node;1;50,9942797;6,9608903;Niehler Damm;bus_stop;platform;Bus Stop
+Cologne;3265443076;node;1;50,9944442;6,9553001;Niehl;tram_stop;stop_position;Tram stop
+Cologne;1950487444;node;1;50,9946328;6,9253216;Herforder Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3228554365;node;1;50,9946612;6,9253079;Herforder Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;5110984831;node;1;50,9947642;6,9558491;Niehl;bus_stop;platform;Bus Stop
+Cologne;494864602;node;1;50,994942;6,9260474;;taxi;;Taxi
+Cologne;1684387162;node;1;50,9950175;6,9215651;Meerfeldstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;264138769;node;1;50,9952206;6,9200078;Meerfeldstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1765392563;node;1;50,9952336;6,9015286;Lindweilerweg;bus_stop;platform;Bus Stop
+Cologne;1765370834;node;1;50,9952595;6,911816;Longerich Friedhof;bus_stop;platform;Bus Stop
+Cologne;1765392564;node;1;50,9953785;6,9016278;Lindweilerweg;bus_stop;platform;Bus Stop
+Cologne;2387126500;node;1;50,9955124;6,9554511;Niehl;tram_stop;stop_position;Tram stop
+Cologne;264139586;node;1;50,9955165;6,9554996;Niehl;tram_stop;stop_position;Tram stop
+Cologne;5309089048;node;1;50,9955621;6,872229;Heinering;bus_stop;stop_position;Bus Stop
+Cologne;393402276;node;1;50,9955892;6,9113165;Longerich Friedhof;tram_stop;stop_position;Tram stop
+Cologne;5871600029;node;1;50,9956167;6,8722017;Heinering;bus_stop;platform;Bus Stop
+Cologne;5111092625;node;1;50,9956187;6,9112192;Longerich Friedhof;bus_stop;platform;Bus Stop
+Cologne;1765370847;node;1;50,995907;6,9139519;Longericher Straﬂe;bus_stop;platform;Bus Stop
+Cologne;358479029;node;1;50,9959084;7,0383851;Leuchterstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;393403340;node;1;50,9960114;6,9149313;Longericher Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3228554366;node;1;50,9960458;6,9149423;Longericher Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;2325787174;node;1;50,9961214;7,0379943;Leuchterstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;143467801;node;1;50,9961224;7,037437;Leuchterstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;5309089047;node;1;50,9963328;6,8721964;Heinering;bus_stop;platform;Bus Stop
+Cologne;5308502528;node;1;50,9963402;7,0367292;Leuchterstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1766034199;node;1;50,9963974;6,9373945;Bremerhavener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1383502974;node;1;50,9964541;7,0383971;Leuchterstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;143467802;node;1;50,9967875;7,0378299;Leuchterstraﬂe;tram_stop;stop_position;Tram stop
+Cologne;1049316159;node;1;50,9968469;7,0371588;Leuchterstraﬂe;bus_stop;;Bus Stop
+Cologne;1765392548;node;1;50,9969425;6,9057571;Dionysstraﬂe;bus_stop;platform;Bus Stop
+Cologne;442698912;node;1;50,9970016;7,0369906;Leuchterstraﬂe;bus_stop;;Bus Stop
+Cologne;324404447;node;1;50,9971884;7,045586;Auf der Aue;bus_stop;stop_position;Bus Stop
+Cologne;2130639058;node;1;50,9972786;6,9814787;Am Feldrain;bus_stop;platform;Bus Stop
+Cologne;2516115068;node;1;50,9972875;7,0461771;Auf der Aue;bus_stop;stop_position;Bus Stop
+Cologne;1765392550;node;1;50,9973009;6,9071955;Dionysstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;595645262;node;1;50,997792;6,9968108;Flittard S¸d;bus_stop;platform;Bus Stop
+Cologne;2130976071;node;1;50,997862;6,9810573;Am Feldrain;bus_stop;platform;Bus Stop
+Cologne;5306812229;node;1;50,9978915;7,0260339;Am Weiﬂen Mˆnch;bus_stop;platform;Bus Stop
+Cologne;5306812230;node;1;50,9980451;7,0260044;Am Weiﬂen Mˆnch;bus_stop;;Bus Stop
+Cologne;2516115075;node;1;50,9980851;7,0514525;Im Wirtskamp;bus_stop;stop_position;Bus Stop
+Cologne;274114673;node;1;50,9981101;7,0516436;Im Wirtskamp;bus_stop;stop_position;Bus Stop
+Cologne;2750667866;node;1;50,9982365;6,9014803;Kˆln-Longerich;station;station;Subway Station
+Cologne;242848098;node;1;50,9983494;6,9024712;;taxi;;Taxi
+Cologne;1766034210;node;1;50,9984125;6,9364964;Bremerhavener Straﬂe;bus_stop;platform;Bus Stop
+Cologne;2130639068;node;1;50,9986053;6,9950713;Flittard S¸d;bus_stop;platform;Bus Stop
+Cologne;6011011265;node;1;50,9986074;7,0543985;Waldbad;bus_stop;stop_position;Bus Stop
+Cologne;595645266;node;1;50,9986983;6,9950234;Flittard S¸d;bus_stop;platform;Bus Stop
+Cologne;1766096677;node;1;50,9987535;6,8777195;Johannesstraﬂe;bus_stop;platform;Bus Stop
+Cologne;595645258;node;1;50,9988646;6,996939;Flittard S¸d;bus_stop;platform;Bus Stop
+Cologne;1764665106;node;1;50,9989474;6,9033271;Longerich S-Bahn;bus_stop;platform;Bus Stop
+Cologne;5309089050;node;1;50,9989481;6,8695088;Schulstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1765356247;node;1;50,9989824;6,9120876;Stommeler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1765356249;node;1;50,9989852;6,9124571;Stommeler Straﬂe;bus_stop;platform;Bus Stop
+Cologne;321673516;node;1;50,9989869;7,0343872;Mutzbach;bus_stop;stop_position;Bus Stop
+Cologne;5308435790;node;1;50,9990223;7,034333;Mutzbach;bus_stop;platform;Bus Stop
+Cologne;5309089049;node;1;50,9992239;6,8696679;Schulstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1764665109;node;1;50,9992277;6,9017545;Longerich S-Bahn;bus_stop;platform;Bus Stop
+Cologne;1764665110;node;1;50,9992778;6,9033873;Longerich S-Bahn;bus_stop;platform;Bus Stop
+Cologne;5308480837;node;1;50,9993962;7,0383242;Mutzbach;bus_stop;stop_position;Bus Stop
+Cologne;4849512058;node;1;50,9994534;6,9021248;Longerich S-Bahn;bus_stop;platform;Bus Stop
+Cologne;1602177064;node;1;50,9995454;6,8790398;;taxi;;Taxi
+Cologne;5310456434;node;1;50,9997374;6,8821341;Pescher Weg;bus_stop;stop_position;Bus Stop
+Cologne;5310456433;node;1;50,9997565;6,8823791;Pescher Weg;bus_stop;stop_position;Bus Stop
+Cologne;5308430630;node;1;50,9997829;7,0331712;Klosterhof;bus_stop;stop_position;Bus Stop
+Cologne;5308430627;node;1;50,9997859;7,0324072;Klosterhof;bus_stop;platform;Bus Stop
+Cologne;5308430628;node;1;50,9998154;7,0331501;Klosterhof;bus_stop;stop_position;Bus Stop
+Cologne;5308430629;node;1;50,9998287;7,0324406;Klosterhof;bus_stop;stop_position;Bus Stop
+Cologne;530277989;node;1;50,9999901;6,9895461;Arthur-Hantzsch-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1719672700;node;1;51,0000289;6,8928133;Marienberger Weg;bus_stop;stop_position;Bus Stop
+Cologne;1764647398;node;1;51,0002623;6,8789851;Otto-M¸ller-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5308423590;node;1;51,0002713;7,0295528;Hildegundweg;bus_stop;stop_position;Bus Stop
+Cologne;1764647400;node;1;51,0005716;6,8786119;Otto-M¸ller-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;2130976072;node;1;51,000924;6,9801504;Edelhofstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1766096692;node;1;51,0009262;6,8742973;Mozartstraﬂe;bus_stop;platform;Bus Stop
+Cologne;530277988;node;1;51,0009707;6,9803093;Edelhofstraﬂe;bus_stop;platform;Bus Stop
+Cologne;143467812;node;1;51,0009899;7,0419523;Odenthaler Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;595645270;node;1;51,0010959;6,9862758;Leopold-Gmelin-Str.;bus_stop;platform;Bus Stop
+Cologne;595645267;node;1;51,0011582;6,9865274;Leopold-Gmelin-Str.;bus_stop;platform;Bus Stop
+Cologne;1766096680;node;1;51,0011843;6,8769922;Kapellenweg;bus_stop;platform;Bus Stop
+Cologne;5308423589;node;1;51,0012855;7,0294359;Hildegundweg;bus_stop;platform;Bus Stop
+Cologne;534903451;node;1;51,0015159;7,0427131;Odenthaler Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;264139588;node;1;51,0020835;6,9553475;Geestem¸nder Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;3265443075;node;1;51,0020893;6,9553037;Geestem¸nder Straﬂe;tram_stop;stop_position;Tram stop
+Cologne;473897384;node;1;51,0022649;7,0421604;Odenthaler Straﬂe;bus_stop;;Bus Stop
+Cologne;442698908;node;1;51,0023273;7,0419954;Odenthaler Straﬂe;bus_stop;;Bus Stop
+Cologne;358479031;node;1;51,0025095;7,0629937;In der Hardt;bus_stop;stop_position;Bus Stop
+Cologne;5310473451;node;1;51,0025098;6,8529682;Auweiler;bus_stop;stop_position;Bus Stop
+Cologne;5310473452;node;1;51,0026435;6,8529501;Auweiler;bus_stop;stop_position;Bus Stop
+Cologne;5310407733;node;1;51,0028072;6,8898425;Lindweilerfeld;bus_stop;platform;Bus Stop
+Cologne;1766034197;node;1;51,0028323;6,9331725;Am Nordpark;bus_stop;platform;Bus Stop
+Cologne;1766034198;node;1;51,0032122;6,9330672;Am Nordpark;bus_stop;platform;Bus Stop
+Cologne;5310407732;node;1;51,00324;6,8895474;Lindweilerfeld;bus_stop;platform;Bus Stop
+Cologne;5306827603;node;1;51,0035368;7,0251247;Aeltgen-D¸nnwald-Str.;bus_stop;platform;Bus Stop
+Cologne;5306831322;node;1;51,0035571;7,0251024;Aeltgen-D¸nnwald-Str.;bus_stop;stop_position;Bus Stop
+Cologne;5306831323;node;1;51,0036173;7,0248353;Aeltgen-D¸nnwald-Str.;bus_stop;;Bus Stop
+Cologne;1764362238;node;1;51,0036432;6,8738516;Gewerbegebiet Pesch;bus_stop;stop_position;Bus Stop
+Cologne;1764362239;node;1;51,0039142;6,8734338;Gewerbegebiet Pesch;bus_stop;stop_position;Bus Stop
+Cologne;5308422339;node;1;51,004132;7,0297555;Am Portzenacker;bus_stop;platform;Bus Stop
+Cologne;269219984;node;1;51,0043395;7,0686385;Hardthof;bus_stop;stop_position;Bus Stop
+Cologne;5308422340;node;1;51,0043599;7,0298993;Am Portzenacker;bus_stop;stop_position;Bus Stop
+Cologne;1764384275;node;1;51,0045243;6,8746055;Gewerbegebiet Pesch-Nord;bus_stop;stop_position;Bus Stop
+Cologne;1764384286;node;1;51,0047148;6,8744311;Gewerbegebiet Pesch-Nord;bus_stop;stop_position;Bus Stop
+Cologne;5310477170;node;1;51,0047596;6,8530721;Hermann-Lˆns-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;6051665852;node;1;51,0053098;7,0241542;Auguste-Kowalski-Str.;bus_stop;stop_position;Bus Stop
+Cologne;5306825282;node;1;51,0053432;7,0242;Auguste-Kowalski-Str.;bus_stop;platform;Bus Stop
+Cologne;5306825281;node;1;51,0054827;7,0238093;Auguste-Kowalski-Str.;bus_stop;;Bus Stop
+Cologne;1764312982;node;1;51,0054963;6,8537647;Hermann-Lˆns-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1764665112;node;1;51,0055306;6,8990552;Pulheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5310401685;node;1;51,0057258;6,8902111;Unnauer Weg;bus_stop;platform;Bus Stop
+Cologne;1764665115;node;1;51,0058264;6,8989117;Pulheimer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;247386383;node;1;51,0058546;6,9554356;Fordwerke S¸d;tram_stop;stop_position;Tram stop
+Cologne;2387126662;node;1;51,0058552;6,9553906;Fordwerke S¸d;tram_stop;stop_position;Tram stop
+Cologne;5308411330;node;1;51,0066388;7,0277723;Leimbachweg;bus_stop;platform;Bus Stop
+Cologne;1764384272;node;1;51,0066889;6,8717117;Donatusstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;324404287;node;1;51,0067165;7,0272318;Leimbachweg;bus_stop;stop_position;Bus Stop
+Cologne;5308411331;node;1;51,0067494;7,0272734;Leimbachweg;bus_stop;stop_position;Bus Stop
+Cologne;1764362234;node;1;51,0068243;6,8690407;Escher See;bus_stop;stop_position;Bus Stop
+Cologne;1766034212;node;1;51,0069278;6,9297617;Esso;bus_stop;platform;Bus Stop
+Cologne;1764362235;node;1;51,0070304;6,8688918;Escher See;bus_stop;stop_position;Bus Stop
+Cologne;5310401686;node;1;51,0071051;6,8895376;Unnauer Weg;bus_stop;platform;Bus Stop
+Cologne;1383503179;node;1;51,0072053;6,9941039;Flittarder Feld;bus_stop;platform;Bus Stop
+Cologne;2130787751;node;1;51,0072327;6,9942185;Flittarder Feld;bus_stop;stop_position;Bus Stop
+Cologne;1766034214;node;1;51,0075131;6,9295663;Esso;bus_stop;platform;Bus Stop
+Cologne;2130639070;node;1;51,008183;6,9941414;Flittarder Feld;bus_stop;stop_position;Bus Stop
+Cologne;5963992626;node;1;51,0082272;6,9942415;Flittarder Feld;bus_stop;platform;Bus Stop
+Cologne;1764665123;node;1;51,0105204;6,8959376;Stallagsweg;bus_stop;stop_position;Bus Stop
+Cologne;1383503088;node;1;51,0107694;6,9901851;CHEMPARK Tor 10;bus_stop;;Bus Stop
+Cologne;3199491127;node;1;51,0109228;6,9899298;CHEMPARK Tor 10;bus_stop;;Bus Stop
+Cologne;3199491131;node;1;51,0112734;6,9957044;Chempark S-Bahn;bus_stop;platform;Bus Stop
+Cologne;2753966033;node;1;51,0114001;6,9965901;Leverkusen Chempark;halt;station;Train Station
+Cologne;3199491132;node;1;51,011409;6,9954375;Chempark S-Bahn;bus_stop;platform;Bus Stop
+Cologne;1729144169;node;1;51,011853;6,8620953;Am Braunsacker;bus_stop;stop_position;Bus Stop
+Cologne;247386381;node;1;51,0118652;6,9554354;Fordwerke Mitte;tram_stop;stop_position;Tram stop
+Cologne;3265759111;node;1;51,0118656;6,9553958;Fordwerke Mitte;tram_stop;stop_position;Tram stop
+Cologne;1764678324;node;1;51,0118873;6,9069426;Heimersdorf;bus_stop;platform;Bus Stop
+Cologne;4885194088;node;1;51,0119474;6,9067943;Heimersdorf;halt;station;Train Station
+Cologne;1726713707;node;1;51,0119785;6,9061665;Heimersdorf;bus_stop;stop_position;Bus Stop
+Cologne;264121210;node;1;51,011997;6,9067136;Heimersdorf;tram_stop;stop_position;Tram stop
+Cologne;3228554364;node;1;51,0120084;6,9067649;Heimersdorf;tram_stop;stop_position;Tram stop
+Cologne;1729144214;node;1;51,0120518;6,857831;Chorbuschstraﬂe;bus_stop;platform;Bus Stop
+Cologne;1729144191;node;1;51,0121655;6,8613034;Am Braunsacker;bus_stop;stop_position;Bus Stop
+Cologne;1766096665;node;1;51,0125096;6,9079617;Heimersdorf;bus_stop;platform;Bus Stop
+Cologne;1764678436;node;1;51,0125438;6,8993446;Zypressenstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1729144248;node;1;51,0126154;6,857645;Chorbuschstraﬂe;bus_stop;platform;Bus Stop
+Cologne;5310493208;node;1;51,0129556;6,8587708;Chorbuschstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1766034217;node;1;51,0131309;6,9245929;Paul-Reifenberg-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5310493210;node;1;51,0132234;6,8570873;Chorbuschstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1766034219;node;1;51,0136255;6,9237887;Paul-Reifenberg-Straﬂe;bus_stop;platform;Bus Stop
+Cologne;5310499199;node;1;51,013724;6,8552832;Esch;bus_stop;stop_position;Bus Stop
+Cologne;5310499197;node;1;51,0139293;6,8543702;Esch;bus_stop;stop_position;Bus Stop
+Cologne;4571472769;node;1;51,0140864;6,8932138;Kˆln Volkhovener Weg;halt;station;Train Station
+Cologne;1766096640;node;1;51,0141181;6,9123334;Am Hetzepetsch;bus_stop;platform;Bus Stop
+Cologne;735336485;node;1;51,0141443;6,8925746;Volkhovener Weg;bus_stop;stop_position;Bus Stop
+Cologne;258357466;node;1;51,0141998;6,8924196;Volkhovener Weg;bus_stop;stop_position;Bus Stop
+Cologne;1766096662;node;1;51,0144213;6,912778;Am Hetzepetsch;bus_stop;platform;Bus Stop
+Cologne;1729144287;node;1;51,0145535;6,8473675;Johannes-Prassel-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;250633178;node;1;51,0145761;6,8465363;Johannes-Prassel-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;254019089;node;1;51,0164356;6,8590723;Esch Friedhof;bus_stop;stop_position;Bus Stop
+Cologne;1764710176;node;1;51,0168582;6,9037595;Herstattallee;bus_stop;platform;Bus Stop
+Cologne;1764268820;node;1;51,016884;6,859343;Esch Friedhof;bus_stop;stop_position;Bus Stop
+Cologne;2387126487;node;1;51,0169804;6,9553912;Fordwerke Nord;tram_stop;stop_position;Tram stop
+Cologne;1764710177;node;1;51,0172685;6,902211;Herstattallee;bus_stop;platform;Bus Stop
+Cologne;1730403489;node;1;51,017865;6,8347379;Sinnersdorfer M¸hle;bus_stop;platform;Bus Stop
+Cologne;276471891;node;1;51,0180001;6,9554717;Fordwerke Nord;tram_stop;stop_position;Tram stop
+Cologne;256874091;node;1;51,0181985;6,8809047;Friedhof Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1766034300;node;1;51,018457;6,917878;Seeberg;bus_stop;platform;Bus Stop
+Cologne;2546741114;node;1;51,0185205;7,044531;Schlebusch;tram_stop;stop_position;Tram stop
+Cologne;143467828;node;1;51,0185222;7,0444915;Schlebusch;tram_stop;stop_position;Tram stop
+Cologne;255338587;node;1;51,0189448;7,0448405;Schlebusch Stadtbahn;bus_stop;stop_position;Bus Stop
+Cologne;1764287087;node;1;51,0198844;6,8865605;Weilerweg;bus_stop;stop_position;Bus Stop
+Cologne;313760431;node;1;51,0199576;6,8977986;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1730403456;node;1;51,0200345;6,897909;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1730403458;node;1;51,0200405;6,8976346;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1730403461;node;1;51,0201276;6,8977233;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1730403463;node;1;51,020143;6,8974172;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1730403467;node;1;51,0202259;6,8975272;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;313760432;node;1;51,0202302;6,8972246;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1764312975;node;1;51,0202481;6,8882953;F¸hlinger Weg;bus_stop;stop_position;Bus Stop
+Cologne;669644169;node;1;51,020301;6,8978705;Chorweiler;tram_stop;stop_position;Tram stop
+Cologne;1730403472;node;1;51,0203212;6,8973238;Chorweiler;bus_stop;stop_position;Bus Stop
+Cologne;1764287083;node;1;51,0208693;6,8878396;F¸hlinger Weg;bus_stop;stop_position;Bus Stop
+Cologne;1332048892;node;1;51,021006;6,8981612;Chorweiler;tram_stop;stop_position;Tram stop
+Cologne;3863889283;node;1;51,021167;6,8980335;Kˆln-Chorweiler;halt;station;Train Station
+Cologne;1764710184;node;1;51,0214357;6,8847012;Wezelostraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1764710191;node;1;51,0218559;6,8856288;Wezelostraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;256874084;node;1;51,0219727;6,8758237;Blockstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765331206;node;1;51,0228636;6,8936047;Florenzer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765331207;node;1;51,0228954;6,8935394;Florenzer Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;258584716;node;1;51,0233471;6,8823771;Weiler;bus_stop;stop_position;Bus Stop
+Cologne;1324867339;node;1;51,0239796;6,9041113;Karl-Marx-Allee;bus_stop;stop_position;Bus Stop
+Cologne;3265759112;node;1;51,0241646;6,9533681;Merkenich Mitte;tram_stop;stop_position;Tram stop
+Cologne;257750524;node;1;51,0241759;6,9534122;Merkenich Mitte;tram_stop;stop_position;Tram stop
+Cologne;31395618;node;1;51,0254621;6,9396469;Oranjehofstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383503417;node;1;51,025606;6,889737;Moldaustraﬂe;bus_stop;;Bus Stop
+Cologne;257743993;node;1;51,0256582;6,895305;Weichselring;bus_stop;stop_position;Bus Stop
+Cologne;257743992;node;1;51,0257776;6,8953073;Weichselring;bus_stop;stop_position;Bus Stop
+Cologne;63802353;node;1;51,0262314;6,8963201;Weichselring;bus_stop;stop_position;Bus Stop
+Cologne;1765316063;node;1;51,0264979;6,9093752;Merianstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1764287086;node;1;51,0267145;6,8963146;Weichselring;bus_stop;stop_position;Bus Stop
+Cologne;265639399;node;1;51,0267977;6,9283033;Rheinlandstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;259222042;node;1;51,0270137;6,888469;Havelstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;4400759784;node;1;51,0271381;6,9403892;;car_sharing;;Car Sharing
+Cologne;1636761573;node;1;51,0273183;6,9117044;Merianstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1717953043;node;1;51,0276636;6,9098423;Merianstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;3863808337;node;1;51,0280319;6,8928561;Kˆln-Chorweiler Nord;station;station;Subway Station
+Cologne;3265759113;node;1;51,0280717;6,9481232;Merkenich;tram_stop;stop_position;Tram stop
+Cologne;276476385;node;1;51,0280841;6,9481637;Merkenich;tram_stop;stop_position;Tram stop
+Cologne;265630388;node;1;51,0284241;6,9479312;Merkenich;bus_stop;stop_position;Bus Stop
+Cologne;1764287084;node;1;51,0299687;6,8939135;Neiﬂestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765307391;node;1;51,0301508;6,9230834;Edsel-Ford-Straﬂe;bus_stop;;Bus Stop
+Cologne;1765262658;node;1;51,030331;6,9515009;Schlettstadter Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765307399;node;1;51,0305218;6,9226951;Edsel-Ford-Straﬂe;bus_stop;;Bus Stop
+Cologne;1383503518;node;1;51,0307114;6,8893303;Okerstraﬂe;bus_stop;;Bus Stop
+Cologne;25912215;node;1;51,0308868;6,9068237;Haus F¸hlingen;bus_stop;stop_position;Bus Stop
+Cologne;1765262660;node;1;51,0309642;6,9515125;Schlettstadter Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383503604;node;1;51,031152;6,893407;Swinestraﬂe;bus_stop;;Bus Stop
+Cologne;1765307428;node;1;51,0311811;6,9211702;Robert-Bosch-Straﬂe;bus_stop;;Bus Stop
+Cologne;1765307430;node;1;51,031454;6,9207861;Robert-Bosch-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1765307431;node;1;51,0315007;6,92085;Robert-Bosch-Straﬂe;bus_stop;;Bus Stop
+Cologne;1772838806;node;1;51,0315146;6,9063651;Haus F¸hlingen;bus_stop;stop_position;Bus Stop
+Cologne;1765316068;node;1;51,0325331;6,9199942;Oskar-Schindler-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1764287088;node;1;51,0326172;6,8882563;Weserpromenade;bus_stop;stop_position;Bus Stop
+Cologne;1764287089;node;1;51,0329675;6,8890771;Weserpromenade;bus_stop;stop_position;Bus Stop
+Cologne;1383503270;node;1;51,033237;6,891023;Helaweg;bus_stop;;Bus Stop
+Cologne;1765307409;node;1;51,0339601;6,9283819;Marconistraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383503597;node;1;51,0339977;6,884273;Staffelbergstraﬂe;bus_stop;;Bus Stop
+Cologne;1383503380;node;1;51,0341285;6,8866456;Langenbergstraﬂe;bus_stop;;Bus Stop
+Cologne;1765307401;node;1;51,034325;6,9238904;Feldkasseler Weg;bus_stop;stop_position;Bus Stop
+Cologne;257744010;node;1;51,0352325;6,9234297;Feldkasseler Weg;bus_stop;stop_position;Bus Stop
+Cologne;1383503613;node;1;51,035242;6,888581;Vogelsbergstraﬂe;bus_stop;;Bus Stop
+Cologne;1765307407;node;1;51,0355859;6,9293875;Marconistraﬂe Ost;bus_stop;stop_position;Bus Stop
+Cologne;1765307405;node;1;51,0356839;6,9235752;Feldkasseler Weg;bus_stop;stop_position;Bus Stop
+Cologne;935237064;node;1;51,0358461;6,9033319;F¸hlingen;bus_stop;stop_position;Bus Stop
+Cologne;1765249097;node;1;51,0366899;6,9393772;Kasselberg;bus_stop;stop_position;Bus Stop
+Cologne;1772838804;node;1;51,0368944;6,9029945;F¸hlingen;bus_stop;stop_position;Bus Stop
+Cologne;3863808336;node;1;51,0374034;6,8819761;Kˆln-Blumenberg;halt;station;Train Station
+Cologne;2598103187;node;1;51,0377596;6,8839629;Blumenberg, S-Bahn;bus_stop;platform;Bus Stop
+Cologne;1765307413;node;1;51,0377925;6,9226737;Morsestraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;353906794;node;1;51,0394645;6,9329458;Rheinkassel;bus_stop;stop_position;Bus Stop
+Cologne;2598103189;node;1;51,0402134;6,8838841;Kallbergstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1772838799;node;1;51,0409101;6,9008688;Arenzhof;bus_stop;stop_position;Bus Stop
+Cologne;1772838800;node;1;51,0415959;6,9002212;Arenzhof;bus_stop;stop_position;Bus Stop
+Cologne;741339780;node;1;51,043233;6,8501361;Im Wichemshof;bus_stop;stop_position;Bus Stop
+Cologne;5310497776;node;1;51,0434753;6,8474192;Further Straﬂe;bus_stop;platform;Bus Stop
+Cologne;1772838809;node;1;51,0436153;6,898325;Mennweg;bus_stop;stop_position;Bus Stop
+Cologne;75249001;node;1;51,0438509;6,898098;Mennweg;bus_stop;stop_position;Bus Stop
+Cologne;1765249100;node;1;51,0461568;6,9250795;Langel Kuhlenweg;bus_stop;stop_position;Bus Stop
+Cologne;264063368;node;1;51,0464623;6,924432;Langel Kuhlenweg;bus_stop;stop_position;Bus Stop
+Cologne;5310518006;node;1;51,0467991;6,8492077;Baptiststraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5310518010;node;1;51,0477372;6,8499822;Baptiststraﬂe;bus_stop;platform;Bus Stop
+Cologne;1765240502;node;1;51,0486544;6,9201419;Langel Mohlenweg;bus_stop;stop_position;Bus Stop
+Cologne;5310520686;node;1;51,0487989;6,8513259;Walter-Dodde-Weg;bus_stop;platform;Bus Stop
+Cologne;5310520687;node;1;51,0488424;6,8513055;Walter-Dodde-Weg;bus_stop;stop_position;Bus Stop
+Cologne;264063356;node;1;51,0509248;6,9167086;Langel Nord;bus_stop;stop_position;Bus Stop
+Cologne;1765240493;node;1;51,0512521;6,9160483;Langel Nord;bus_stop;stop_position;Bus Stop
+Cologne;1606668145;node;1;51,0517394;6,8514967;Worringen (S) Westseite;bus_stop;stop_position;Bus Stop
+Cologne;1644764797;node;1;51,0523317;6,8523552;Worringen (S);bus_stop;platform;Bus Stop
+Cologne;3246508187;node;1;51,0524189;6,8519422;Kˆln-Worringen;station;station;Subway Station
+Cologne;1606668146;node;1;51,0524277;6,8522566;Worringen (S);bus_stop;platform;Bus Stop
+Cologne;1765171076;node;1;51,0527411;6,9145709;Langel F‰hre;bus_stop;stop_position;Bus Stop
+Cologne;5170986388;node;1;51,0534632;6,9152163;Langel - Hitdorf;ferry_terminal;;Ferry Terminal
+Cologne;2255295014;node;1;51,0538544;6,9151402;Langel - Hitdorf;ferry_terminal;;Ferry Terminal
+Cologne;256439031;node;1;51,0568192;6,882566;Alte Rˆmerstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;5310519515;node;1;51,0581946;6,8577911;‹desheimer Weg;bus_stop;stop_position;Bus Stop
+Cologne;1772887772;node;1;51,0584169;6,8582795;‹desheimer Weg;bus_stop;platform;Bus Stop
+Cologne;935281938;node;1;51,0606624;6,8732661;Worringen S¸d;bus_stop;stop_position;Bus Stop
+Cologne;250517410;node;1;51,0607889;6,8729823;Worringen S¸d;bus_stop;stop_position;Bus Stop
+Cologne;1772887723;node;1;51,0613989;6,8564619;Hackhauser Weg;bus_stop;platform;Bus Stop
+Cologne;5310536189;node;1;51,0614305;6,8563079;Hackhauser Weg;bus_stop;platform;Bus Stop
+Cologne;1772949448;node;1;51,0629448;6,8599655;Friedhof Worringen;bus_stop;stop_position;Bus Stop
+Cologne;1383429462;node;1;51,0641437;6,864258;Sankt-Tˆnnis-Platz;bus_stop;;Bus Stop
+Cologne;5310527697;node;1;51,0645225;6,8528382;Wiedenfelder Weg;bus_stop;stop_position;Bus Stop
+Cologne;6008701729;node;1;51,0645609;6,8533283;Wiedenfelder Weg;bus_stop;stop_position;Bus Stop
+Cologne;1772887769;node;1;51,0645991;6,8532931;Wiedenfelder Weg;bus_stop;platform;Bus Stop
+Cologne;5310546041;node;1;51,0648051;6,8596012;An den Kaulen;bus_stop;stop_position;Bus Stop
+Cologne;5310546038;node;1;51,0648524;6,8598658;An den Kaulen;bus_stop;stop_position;Bus Stop
+Cologne;1772865529;node;1;51,0649248;6,8574038;An den Kaulen;bus_stop;platform;Bus Stop
+Cologne;1689276705;node;1;51,0649769;6,8678588;St.-Tˆnnis-Straﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1772865535;node;1;51,0650483;6,8646048;M¸hlenweiher;bus_stop;stop_position;Bus Stop
+Cologne;249759600;node;1;51,0665629;6,8518285;Ramrather Weg;bus_stop;stop_position;Bus Stop
+Cologne;1772865531;node;1;51,068117;6,8573939;Dornstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1772865532;node;1;51,0683204;6,8572915;Dornstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1772949412;node;1;51,0691245;6,8575772;Bitterstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1772949437;node;1;51,0693294;6,8612083;Dornstraﬂe;bus_stop;stop_position;Bus Stop
+Cologne;1383429318;node;1;51,072633;6,8551893;INEOS Tor 9;bus_stop;;Bus Stop
+Cologne;3244655858;node;1;51,0765879;6,8384202;Dormagen Chempark;halt;station;Train Station
+Cologne;250523622;node;1;51,0772178;6,8380689;Dormagen Chempark;halt;station;Train Station
+Cologne;1383429188;node;1;51,080548;6,848579;CHEMPARK Tor 10;bus_stop;;Bus Stop
+Cologne;683879824;node;1;51,084337;6,8478152;Tor 1 Chempark;bus_stop;;Bus Stop
+Cologne;683879825;node;1;51,0846359;6,8477922;Tor 1 Chempark;bus_stop;;Bus Stop

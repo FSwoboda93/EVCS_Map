@@ -1,0 +1,9 @@
+routes;rates;meanDown;meanUp;mean
+FR - BR;Downloadrate;6151;1065;11506
+FR - MC;Downloadrate;6151;1065;12156
+FR - CL;Downloadrate;6151;1065;2936
+FR - HH;Downloadrate;6151;1065;6700
+FR - BR;Uploadrate;6151;1065;1950
+FR - MC;Uploadrate;6151;1065;2006
+FR - CL;Uploadrate;6151;1065;525
+FR - HH;Uploadrate;6151;1065;1119

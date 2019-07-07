@@ -1,0 +1,93 @@
+---
+title: "Group1_DataPrep"
+output: word_document
+---
+
+# Markup Options
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+# Our R code for Data Preparation of Open Data Flinkster
+```{r}
+#DataSet[Row,Column]
+
+library(dplyr)
+library(ggplot2)
+#Read CSV Files
+booking <- read.csv2("C:\\Flinkster_Open_Data\\OPENDATA_BOOKING_CARSHARING.csv", sep = ";", fileEncoding = "UTF-8")
+category <- read.csv2("C:\\Flinkster_Open_Data\\OPENDATA_CATEGORY_CARSHARING.csv", sep = ";", fileEncoding = "UTF-8")
+rentalZone <- read.csv2("C:\\Flinkster_Open_Data\\OPENDATA_RENTAL_ZONE_CARSHARING.csv", sep = ";", fileEncoding = "UTF-8")
+vehicle <- read.csv2("C:\\Flinkster_Open_Data\\OPENDATA_VEHICLE_CARSHARING.csv", sep = ";", fileEncoding = "UTF-8")
+
+#Join vehicle information
+globalDF <- full_join(booking,vehicle,by ="VEHICLE_HAL_ID")
+#globalDF[is.na(globalDF$BOOKING_HAL_ID),]
+#plus 1 data set (548073->548074, car 181557 never booked)
+
+globalDF <- full_join(globalDF,category,by = c("CATEGORY_HAL_ID"= "HAL_ID"))
+#globalDF[is.na(globalDF$BOOKING_HAL_ID),]
+#plus 7 data sets (548074->548081, a few categories never bookedd)
+
+#Join rental zone information
+#start rental zone
+tempRentalZone <- rentalZone
+colnames(tempRentalZone) <- paste("START", colnames(rentalZone), sep="_")
+#Right Join to filter on datasets with a known rental zone
+globalDF <- right_join(globalDF,tempRentalZone,by = "START_RENTAL_ZONE_HAL_ID")
+
+#end rental zone
+tempRentalZone <- rentalZone
+colnames(tempRentalZone) <- paste("END", colnames(rentalZone), sep="_")
+#Right Join to filter on datasets with a known rental zone
+globalDF <- right_join(globalDF,tempRentalZone,by = "END_RENTAL_ZONE_HAL_ID")
+rm(tempRentalZone)
+
+temp <- table(globalDF$FUEL_TYPE_NAME)
+temp2 <- as.data.frame(temp)
+g <- ggplot(temp2, aes(x=Var1, y=Freq)) + geom_bar(stat = "identity", fill="steelblue") + geom_text(aes(label=Freq), vjust=-0.3, size=3.5)+theme_minimal() 
+g
+#fuelDiagram <- barplot(temp, las = 2, main='fuel types', cex.names = 0.7, ylim = c(0,500000))
+#pie(temp.freq, main = "share of fuel types")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
